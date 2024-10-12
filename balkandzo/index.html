@@ -45,7 +45,7 @@
 </head>
 <body>
     <header>
-        <h1>Balkandzo Files</h1>
+        <h1>Balkandzo Wizard</h1>
         <p>Click on a file to download</p>
     </header>
     <main>
@@ -56,12 +56,10 @@
     </footer>
 
     <script>
-        // Lista fajlova u folderu 'balkandzo'
-        const files = ["file1.zip", "file2.zip", "file3.zip"]; // Ovu listu moraš ručno ažurirati
+        const files = ["plugin.program.balkandzowizard.zip"];
 
         const fileList = document.getElementById('file-list');
 
-        // Dinamički kreiraj listu fajlova
         files.forEach(file => {
             const li = document.createElement('li');
             const a = document.createElement('a');
