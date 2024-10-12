@@ -49,14 +49,28 @@
         <p>Click on a file to download</p>
     </header>
     <main>
-        <ul class="file-list">
-            <li><a href="balkandzo/plugin.program.balkandzowizard.zip" download>file1.zip</a></li>
-            <li><a href="balkandzo/file2.zip" download>file2.zip</a></li>
-            <li><a href="balkandzo/file3.zip" download>file3.zip</a></li>
-        </ul>
+        <ul id="file-list" class="file-list"></ul>
     </main>
     <footer>
         <p>&copy; 2024 Balkandzo. All rights reserved.</p>
     </footer>
+
+    <script>
+        // Lista fajlova u folderu 'balkandzo'
+        const files = ["file1.zip", "file2.zip", "file3.zip"]; // Ovu listu moraš ručno ažurirati
+
+        const fileList = document.getElementById('file-list');
+
+        // Dinamički kreiraj listu fajlova
+        files.forEach(file => {
+            const li = document.createElement('li');
+            const a = document.createElement('a');
+            a.href = `balkandzo/${file}`;
+            a.textContent = file;
+            a.setAttribute('download', file);
+            li.appendChild(a);
+            fileList.appendChild(li);
+        });
+    </script>
 </body>
 </html>
