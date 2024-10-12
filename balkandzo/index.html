@@ -3,72 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Balkandzo Files</title>
+    <title>Index of /balkandzo/</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
+            font-family: monospace;
+            background-color: white;
+            color: black;
         }
-        header {
-            background-color: #4CAF50;
-            padding: 20px;
-            color: white;
+        h1 {
+            font-size: 24px;
         }
-        main {
-            margin: 50px;
+        a {
+            color: blue;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
         }
         .file-list {
-            list-style-type: none;
-            padding: 0;
+            margin-top: 20px;
         }
         .file-list li {
-            margin: 10px 0;
-        }
-        .file-list a {
-            text-decoration: none;
-            color: #333;
-            font-size: 18px;
-            transition: color 0.3s ease;
-        }
-        .file-list a:hover {
-            color: #4CAF50;
-        }
-        footer {
-            margin-top: 50px;
-            color: #555;
+            list-style: none;
+            margin: 8px 0;
         }
     </style>
 </head>
 <body>
-    <header>
-        <h1>Balkandzo Wizard</h1>
-        <p>Click on a file to download</p>
-    </header>
-    <main>
-        <ul id="file-list" class="file-list"></ul>
-    </main>
-    <footer>
-        <p>&copy; 2024 Balkandzo. All rights reserved.</p>
-    </footer>
-
-    <script>
-        const files = ["plugin.program.balkandzowizard.zip"];
-
-        const fileList = document.getElementById('file-list');
-
-        files.forEach(file => {
-            const li = document.createElement('li');
-            const a = document.createElement('a');
-            a.href = file;
-            a.textContent = file;
-            a.setAttribute('download', file);
-            li.appendChild(a);
-            fileList.appendChild(li);
-        });
-    </script>
+    <h1>Index of /balkandzo/</h1>
+    <hr>
+    <ul class="file-list">
+        <li><a href="plugin.program.balkandzowizard.zip">plugin.program.balkandzowizard.zip</a></li>
+    </ul>
+    <hr>
 </body>
 </html>
