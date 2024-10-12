@@ -1,7 +1,64 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Download Files</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #4CAF50;
+            padding: 20px;
+            color: white;
+        }
+        main {
+            margin: 50px;
+        }
+        .file-list {
+            list-style-type: none;
+            padding: 0;
+        }
+        .file-list li {
+            margin: 15px 0;
+        }
+        .file-list a {
+            text-decoration: none;
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+        .file-list a:hover {
+            background-color: #45a049;
+        }
+        footer {
+            margin-top: 50px;
+            color: #555;
+        }
+    </style>
+</head>
 <body>
-<h1>Balkan Dzo</h1>
-<p>I'm hosted with GitHub Pages.</p>
+    <header>
+        <h1>Welcome to My GitHub Page</h1>
+        <p>Download the files below</p>
+    </header>
+    <main>
+        <ul class="file-list">
+            <li><a href="balkandzo/file1.zip" download>Download File 1</a></li>
+            <li><a href="files/file2.zip" download>Download File 2</a></li>
+            <li><a href="files/file3.zip" download>Download File 3</a></li>
+        </ul>
+    </main>
+    <footer>
+        <p>&copy; 2024 Your Name. All rights reserved.</p>
+    </footer>
 </body>
 </html>
