@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Balkandzo Files</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #4CAF50;
+            padding: 20px;
+            color: white;
+        }
+        main {
+            margin: 50px;
+        }
+        .file-list {
+            list-style-type: none;
+            padding: 0;
+        }
+        .file-list li {
+            margin: 10px 0;
+        }
+        .file-list a {
+            text-decoration: none;
+            color: #333;
+            font-size: 18px;
+            transition: color 0.3s ease;
+        }
+        .file-list a:hover {
+            color: #4CAF50;
+        }
+        footer {
+            margin-top: 50px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Balkandzo Files</h1>
+        <p>Click on a file to download</p>
+    </header>
+    <main>
+        <ul id="file-list" class="file-list"></ul>
+    </main>
+    <footer>
+        <p>&copy; 2024 Balkandzo. All rights reserved.</p>
+    </footer>
+
+    <script>
+        // Lista fajlova u folderu 'balkandzo'
+        const files = ["file1.zip", "file2.zip", "file3.zip"]; // Ovu listu moraš ručno ažurirati
+
+        const fileList = document.getElementById('file-list');
+
+        // Dinamički kreiraj listu fajlova
+        files.forEach(file => {
+            const li = document.createElement('li');
+            const a = document.createElement('a');
+            a.href = file;
+            a.textContent = file;
+            a.setAttribute('download', file);
+            li.appendChild(a);
+            fileList.appendChild(li);
+        });
+    </script>
+</body>
+</html>
