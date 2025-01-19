@@ -12,7 +12,7 @@
   <build>
     <name>Balkan Dzo Build Server 1</name>
 	<version>7.0</version>
-	<url>https://www.dropbox.com/scl/fi/y8akkzucrnl1n7vpm8f9p/bdwindows6.zip?rlkey=tq35v7o5f8vn5zb5mm92x8yn9&st=tjcsnvx8&dl=1</url>
+	<url>https://github.com/BalkanDzo/balkandzo.github.io/raw/refs/heads/main/zips/build7.0.zip</url>
 	<icon>https://balkandzo.github.io/img/balkandzobuild.jpg</icon>
 	<fanart>https://</fanart>
 	<description>Balkan Dzo Build 7.0 Version</description>
@@ -20,8 +20,8 @@
   
   <build>
     <name>Balkan Dzo Build Server 2</name>
-	<version>6.0</version>
-	<url>https://ayaya.beauty/tN2</url>
+	<version>7.0</version>
+	<url>https://bandateam.ucoz.com/build7.0.zip</url>
 	<icon>https://balkandzo.github.io/img/balkandzobuild.jpg</icon>
 	<fanart>https://</fanart>
 	<description>Balkan Dzo Build 7.0 Version</description>
