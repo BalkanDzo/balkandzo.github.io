@@ -155,6 +155,12 @@
         },
         {
             "country": "Bandidos (2024)"
+        },
+        {
+            "country": "Chicago Fire (2012)"
+        },
+        {
+            "country": "The Rookie (2018)"
         }
     ],
     "channels": [
@@ -5390,7 +5396,7 @@
             "id2": "04cttnwuvkjt",
             "id3": ""
         },
-		{
+        {
             "country": "The Agency (2024)",
             "channel": "[I][COLOR white]S01 Epizoda 09[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMjU3YzYyNmEtZjJhMi00YjA3LTgyOTItMzQ2NTNlZTlkMjYxXkEyXkFqcGc@._V1_.jpg",
@@ -6230,7 +6236,7 @@
             "id2": "7ojdklx13e2v",
             "id3": ""
         },
-		{
+        {
             "country": "The Sex Lives of College Girls (2021)",
             "channel": "[I][COLOR white]S03 Epizoda 09[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BNDE0MWJhZmQtMTZkMC00ODU0LWI5NDItY2NmMTFiMDRmMTc4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -6614,7 +6620,7 @@
             "id2": "w6d3jz4p54du",
             "id3": ""
         },
-		{
+        {
             "country": "Bookie (2023)",
             "channel": "[I][COLOR white]S02 Epizoda 06[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMjU4N2IyNDYtZWViOC00YzFkLTk3OWEtNjkzZWIzZjEwY2RjXkEyXkFqcGc@._V1_.jpg",
@@ -6830,7 +6836,7 @@
             "id2": "j4kj8hay3vrm",
             "id3": "1g4s8tiz1p00"
         },
-		{
+        {
             "country": "Silo (2023)",
             "channel": "[I][COLOR white]S02 Epizoda 10[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BNjA5ODM4YTEtNDcxZi00N2ViLTg0MTgtNGQxNjBjZWY5YTk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -7622,7 +7628,7 @@
             "id2": "jyh55wncqin0",
             "id3": "ady0tk0oc5c8"
         },
-		{
+        {
             "country": "The Pitt (2025)",
             "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMTU3MDliMGEtMDQxNi00OTk1LTg1NWMtZDM2NmEwZDA1ZDk2XkEyXkFqcGc@._V1_.jpg",
@@ -7750,7 +7756,7 @@
             "id2": "b0sgjdqpbs1t",
             "id3": ""
         },
-		{
+        {
             "country": "Bandidos (2024)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BY2JlNTE1MDEtYmFjZi00Nzg0LWJkM2UtYmU2OTU5NDQ2ODZmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -7878,7 +7884,7 @@
             "id2": "rsgr9artrmaj",
             "id3": ""
         },
-		{
+        {
             "country": "Chicago Fire (2012)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZDgwYjlhMGItMDQ3YS00OGQyLWFiMTQtYzkwNTUzNjE4NzIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -9708,6 +9714,934 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BZDgwYjlhMGItMDQ3YS00OGQyLWFiMTQtYzkwNTUzNjE4NzIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "iiymt9m6aour",
+            "id3": ""
+        },
+		{
+            "country": "The Rookie (2018)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "wjyq7tpe4o0p",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "kdt9pv39f1bh",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "ofzh27jo6n3m",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "515c3c50m4un",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "tv5se352p7nu",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "fyz2kl47vuba",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "9orfl130proq",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "odttuiy2zafw",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "ah4hxcipq4kr",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 10[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "lnnv8j0hvicd",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 11[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "3pg7486tzb10",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 12[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "wpaxx69pzctk",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 13[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "t5bkrik3z8gm",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 14[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "h590ljlvg9of",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 15[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "hqs15aqo2s7d",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 16[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "eori4621vb0n",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 17[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "3ignoyj3r004",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 18[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "i3z92zx61q2q",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 19[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "ase2ehyrkvph",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 20[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "u9zkfr39z6f8",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 02---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S02 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "qfrrghwsr9vt",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S02 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "r4525anu154u",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S02 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "kd7jwmzmx8qo",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S02 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "2y1zf1ri22qn",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S02 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "yyxv20y4vk2h",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S02 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "06w6odluppjf",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S02 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "urgwoukex5zs",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S02 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "faxq5fojk3z5",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S02 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "48vjv8gjc43q",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S02 Epizoda 10[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "pj5qtr9rq4sv",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S02 Epizoda 11[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "dclmwqij66wk",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S02 Epizoda 12[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "6x6mu2mjc90z",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S02 Epizoda 13[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "xdiif0u6x0c6",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S02 Epizoda 14[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "aerc8doo5clg",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S02 Epizoda 15[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "04u8czd5loes",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S02 Epizoda 16[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "0c1rx9695idx",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S02 Epizoda 17[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "9ytc9doroa3q",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S02 Epizoda 18[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "npteuk6dlnxj",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S02 Epizoda 19[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "2i54x7hde4yr",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S02 Epizoda 20[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "oezbudlg2yq1",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 03---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S03 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "kqvdmbdvvbj7",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S03 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "9w5du4mcp4vp",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S03 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "38akt5t7vvi7",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S03 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "r1r7f43iwuoj",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S03 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "xge7ku5n2arv",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S03 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "zdghmi13cygm",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S03 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "16608t3xr2ep",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S03 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "788w4ro3sh83",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S03 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "dh2owsoarlly",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S03 Epizoda 10[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "n7jd85rx28xw",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S03 Epizoda 11[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "fpwos65dgiqd",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S03 Epizoda 12[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "x6dhmrmx0s1v",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S03 Epizoda 13[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "s35kdxkdtepx",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S03 Epizoda 14[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "opo6x3cyj2el",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 04---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S04 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "ei5wntabmdzn",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S04 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "2utiyzrcpgcl",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S04 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "8rjweu8zrf7z",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S04 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "dna9rja7cvy1",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S04 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "mryax8f5mlv2",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S04 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "9woct7udh4wi",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S04 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "bvze0bs0tsrs",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S04 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "66kit1e6tn2t",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S04 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "bj3k3fwxood1",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S04 Epizoda 10[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "kf3awg5bn5nn",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S04 Epizoda 11[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "jp6y5hpkn79u",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S04 Epizoda 12[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "bob5xo1tsy0v",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S04 Epizoda 13[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "ewieb588xwk9",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S04 Epizoda 14[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "3kgvfvloxlk9",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S04 Epizoda 15[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "jt3uyi54k7rs",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S04 Epizoda 16[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "7740pwes5ej9",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S04 Epizoda 17[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "20jdpk0to0kw",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S04 Epizoda 18[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "oquetc96das5",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S04 Epizoda 19[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "6y2679w14axz",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S04 Epizoda 20[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "f5n01fi0rcnw",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S04 Epizoda 21[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "xenrux5ylru4",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S04 Epizoda 22[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "bozken8ctczx",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 05---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S05 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "38umama8bb0n",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S05 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "vm6vodk1rzju",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S05 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "phv1w4evuanu",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S05 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "81d9n02wl7t0",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S05 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "cxo3gtm1u9uo",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S05 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "h96f3fz3oxlf",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S05 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "7h1ghpauup8a",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S05 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "k2h79khyxivk",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S05 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "bepg4no8wzf0",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S05 Epizoda 10[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "7drl3t9j8tyw",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S05 Epizoda 11[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "mzsqtzmiye76",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S05 Epizoda 12[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "637ikpqx2ez8",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S05 Epizoda 13[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "2xk0g0lysmzd",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S05 Epizoda 14[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "9slvouckzwwh",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S05 Epizoda 15[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "a1thy2thrtra",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S05 Epizoda 16[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "hh0xp8dfyglv",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S05 Epizoda 17[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "re54v9ggzysb",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S05 Epizoda 18[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "xp49dgp344q4",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S05 Epizoda 19[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "pw0rbd7vk1zs",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S05 Epizoda 20[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "vdz95lwpanwl",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S05 Epizoda 21[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "v8mjooev7rkd",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S05 Epizoda 22[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "agqt6kqqoqs2",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 06---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S06 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "lc3ol5zi647v",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S06 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "v8qntt0chm7t",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S06 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "b80ialpq66yw",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S06 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "zj1955swuixn",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S06 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "j4jevcfa1bj1",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S06 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "4b2wkd7eeb1l",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S06 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "n1kddu8as9z0",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S06 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "4meizxp1tg9d",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S06 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "651saob1qtuy",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S06 Epizoda 10[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "e3288twe80qc",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 07---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S07 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "niko79lbny9q",
             "id3": ""
         }
     ]
