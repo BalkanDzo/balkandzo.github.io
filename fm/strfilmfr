@@ -138,6 +138,9 @@
         },
         {
             "country": "Steven Seagal"
+        },
+        {
+            "country": "Bloodsport"
         }
     ],
     "channels": [
@@ -1972,6 +1975,78 @@
             "id1": "",
             "id2": "v5dwi3c8458r",
             "id3": "0es41ena2xz7"
+        },
+		{
+            "country": "American Ninja",
+            "channel": "American Ninja (1985)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTg3MDA5OTIwMl5BMl5BanBnXkFtZTcwODk5MDcyNA@@._V1_.jpg",
+            "id1": "",
+            "id2": "t6o6wfhspdt1",
+            "id3": ""
+        },
+        {
+            "country": "American Ninja",
+            "channel": "American Ninja 2 The Confrontation (1987)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjM1MjU0ZTYtNDA4NS00MWI2LWE3ZDctZDU0Mjc5OWYyNDNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "3vix7af8k3ho",
+            "id3": ""
+        },
+        {
+            "country": "American Ninja",
+            "channel": "American Ninja 3 Blood Hunt (1989)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjE4NzA2ODYxN15BMl5BanBnXkFtZTYwMDAwMzY5._V1_.jpg",
+            "id1": "",
+            "id2": "h562wxc6qk4q",
+            "id3": ""
+        },
+        {
+            "country": "American Ninja",
+            "channel": "American Ninja 4 The Annihilation (1990)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjQyYWEwOTUtYmMzMi00MzFlLTkyYWItZDMxMzRhMTFmMjEzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "kpjx3vyjp93t",
+            "id3": ""
+        },
+        {
+            "country": "American Ninja",
+            "channel": "American Ninja 5 (1993)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDQ0MTAzOTYxMl5BMl5BanBnXkFtZTgwMDA1NTkwMzE@._V1_.jpg",
+            "id1": "",
+            "id2": "a9dgoi4feqab",
+            "id3": ""
+        },
+        {
+            "country": "Bloodsport",
+            "channel": "Bloodsport (1988)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTQwOTgzNjkzMl5BMl5BanBnXkFtZTcwMjgxNDcyNA@@._V1_.jpg",
+            "id1": "",
+            "id2": "kqy1aw0aaodu",
+            "id3": ""
+        },
+        {
+            "country": "Bloodsport",
+            "channel": "Bloodsport 2 (1996) ",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTMwZTIxYzktNzY3YS00NzBlLWFlNzgtMDliODJjZjZmM2E4XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+            "id1": "",
+            "id2": "sn4zfkbmgax8",
+            "id3": ""
+        },
+        {
+            "country": "Bloodsport",
+            "channel": "Bloodsport III (1996)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTVlNjhhYzctMDlmYy00MDkyLTlmMTItNWM2ZTkzNWZlMGM2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "w63i4bzemz89",
+            "id3": ""
+        },
+        {
+            "country": "Bloodsport",
+            "channel": "Bloodsport The Dark Kumite (1999)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTc1MzA1MzQyN15BMl5BanBnXkFtZTcwOTE3NDUyMQ@@._V1_.jpg",
+            "id1": "",
+            "id2": "b19cofanoq05",
+            "id3": ""
         }
     ]
 }

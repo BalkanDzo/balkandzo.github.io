@@ -37,6 +37,14 @@
     "channels": [
         {
             "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Back in Action (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMWQ4YWYxYTAtZTlhNC00Nzc3LWE3OWUtZjY5MThlNWNiYTBiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "mpvdnpndbxbz",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
             "channel": "Magpie (2024)",
             "logo": "https://m.media-amazon.com/images/M/MV5BOGQzMWU1YWItMjA0Mi00N2M5LWI1NTUtMzZiMWZlYjUxYTA3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
@@ -2256,7 +2264,7 @@
             "channel": "EuroTrip (2004)",
             "logo": "https://m.media-amazon.com/images/M/MV5BYzgzNWMyYjgtYjFmNi00MDdmLTk4MjAtYzMxMjI3MWU2MzcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
-            "id2": "ghomci9z8pwv",
+            "id2": "8s4iwwhlm1wg",
             "id3": "bxpjzlol6sgz"
         },
         {
@@ -3018,6 +3026,14 @@
             "id1": "",
             "id2": "12j5b86jyc6t",
             "id3": "5lnxn63xqa2f"
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Baby's Day Out (1994)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZjhjZTMzNTgtYTllNy00ZDE4LTllMDctOWQ4NjEwYjUxZGZiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "d9j6zdaxw925",
+            "id3": ""
         }
     ]
 }
