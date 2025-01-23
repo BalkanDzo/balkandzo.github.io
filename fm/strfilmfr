@@ -141,6 +141,12 @@
         },
         {
             "country": "Bloodsport"
+        },
+        {
+            "country": "Kickboxer"
+        },
+        {
+            "country": "American Ninja"
         }
     ],
     "channels": [
@@ -1976,7 +1982,7 @@
             "id2": "v5dwi3c8458r",
             "id3": "0es41ena2xz7"
         },
-		{
+        {
             "country": "American Ninja",
             "channel": "American Ninja (1985)",
             "logo": "https://m.media-amazon.com/images/M/MV5BMTg3MDA5OTIwMl5BMl5BanBnXkFtZTcwODk5MDcyNA@@._V1_.jpg",
@@ -2046,6 +2052,62 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BOTc1MzA1MzQyN15BMl5BanBnXkFtZTcwOTE3NDUyMQ@@._V1_.jpg",
             "id1": "",
             "id2": "b19cofanoq05",
+            "id3": ""
+        },
+		{
+            "country": "Kickboxer",
+            "channel": "Kickboxer (1989)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjQ2NjVkMjAtNGYzZC00ZTZiLWJlZjYtMTNlYWNiZDVlMDZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "jxutukea01vl",
+            "id3": ""
+        },
+        {
+            "country": "Kickboxer",
+            "channel": "Kickboxer 2 The Road Back (1991)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTcyMjQxMDc0MV5BMl5BanBnXkFtZTgwMzY0NTkwMzE@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "ridot3zehmvz",
+            "id3": ""
+        },
+        {
+            "country": "Kickboxer",
+            "channel": "Kickboxer 3 The Art of War (1992)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTM5NjcwNjkzMl5BMl5BanBnXkFtZTcwNDI2MTAwMQ@@._V1_.jpg",
+            "id1": "",
+            "id2": "oqecuj77xyp9",
+            "id3": ""
+        },
+        {
+            "country": "Kickboxer",
+            "channel": "Kickboxer 4 The Aggressor (1994)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTUzMjI5MzUyOF5BMl5BanBnXkFtZTcwMTU4MjUyMQ@@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "c3srvrs2am86",
+            "id3": ""
+        },
+        {
+            "country": "Kickboxer",
+            "channel": "The Redemption Kickboxer 5 (1995)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWExZWQ1ZjgtOTAxMi00OThkLTg2ZmQtOGM0ZGMwODlmYWYxXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "hyd75stloltw",
+            "id3": ""
+        },
+        {
+            "country": "Kickboxer",
+            "channel": "Kickboxer Vengeance (2016)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOWFjNjBmYzQtZjMzZC00MTYwLThiNzItNzk4NDYwMmQ0ZWY3XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "4b9tpqooxctp",
+            "id3": ""
+        },
+        {
+            "country": "Kickboxer",
+            "channel": "Kickboxer Retaliation (2018)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOWFjNjBmYzQtZjMzZC00MTYwLThiNzItNzk4NDYwMmQ0ZWY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "dlg7xhfuns48",
             "id3": ""
         }
     ]

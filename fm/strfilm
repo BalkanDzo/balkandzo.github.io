@@ -37,6 +37,22 @@
     "channels": [
         {
             "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Alarum (2025)",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP_ZtLu9Weq6ixSOrUJpGRiNvLSOzgSuDlcg&s",
+            "id1": "",
+            "id2": "en2qjz3a7j4c",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Nosferatu (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "pn4naofqfi72",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
             "channel": "Back in Action (2025)",
             "logo": "https://m.media-amazon.com/images/M/MV5BMWQ4YWYxYTAtZTlhNC00Nzc3LWE3OWUtZjY5MThlNWNiYTBiXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
@@ -2557,6 +2573,14 @@
         },
         {
             "country": "[B][COLOR deepskyblue](-Crtani sa prevodom)[/B][/COLOR]",
+            "channel": "Sonic the Hedgehog 3 (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ws9kzoq5sps5",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Crtani sa prevodom)[/B][/COLOR]",
             "channel": "Transformers One (2024)",
             "logo": "https://m.media-amazon.com/images/M/MV5BZWI1ZDY1YTQtMjRkNy00ZDZhLWE3OTItMTIwNzliY2Y1MTZhXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
             "id1": "",
@@ -3033,6 +3057,14 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BZjhjZTMzNTgtYTllNy00ZDE4LTllMDctOWQ4NjEwYjUxZGZiXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "d9j6zdaxw925",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Next Three Days (2010)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NTY5ODI4OV5BMl5BanBnXkFtZTcwMjcxNzQ5Mw@@._V1_.jpg",
+            "id1": "",
+            "id2": "t93d48utvrvu",
             "id3": ""
         }
     ]

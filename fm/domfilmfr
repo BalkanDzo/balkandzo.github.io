@@ -28,6 +28,9 @@
         },
         {
             "country": "Mi Nismo Andjeli"
+        },
+        {
+            "country": "Dobro Jutro, Komsija"
         }
     ],
     "channels": [
@@ -111,7 +114,7 @@
             "id2": "ddn7p3qqh1qe",
             "id3": ""
         },
-		{
+        {
             "country": "Tesna Koza",
             "channel": "Tesna Koza 1 (1982)",
             "logo": "https://i.ytimg.com/vi/536nifo1rKM/maxresdefault.jpg",
@@ -143,7 +146,7 @@
             "id2": "2qe9utgakeq9",
             "id3": ""
         },
-		{
+        {
             "country": "Cao Inspektore",
             "channel": "Cao Inspektore (1985)",
             "logo": "https://m.media-amazon.com/images/M/MV5BMmE3MDc2MGQtNGJjNi00N2MzLTgxN2MtMzUwMTcxZjhlODUwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -183,7 +186,7 @@
             "id2": "37e12ggzkksz",
             "id3": ""
         },
-		{
+        {
             "country": "Hajde Da Se Volimo",
             "channel": "Hajde Da Se Volimo 1 (1987)",
             "logo": "https://m.media-amazon.com/images/M/MV5BYTE3OTg5MDYtMTM5YS00N2Y2LTk4Y2YtM2E0ODFmYTY3NDEwXkEyXkFqcGc@._V1_.jpg",
@@ -207,7 +210,7 @@
             "id2": "r07ta66tlxtz",
             "id3": ""
         },
-		{
+        {
             "country": "Mi Nismo Andjeli",
             "channel": "Mi Nismo Andjeli (1992)",
             "logo": "https://upload.wikimedia.org/wikipedia/sr/thumb/b/bb/Mi_nismo_andjeli.jpg/250px-Mi_nismo_andjeli.jpg",
@@ -229,6 +232,94 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BNmZlZjM5ODYtMTVlNS00MDAyLWIzODYtYmZhNzA0YWI4NzUxXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "64891sepxodn",
+            "id3": ""
+        },
+		{
+            "country": "Dobro Jutro, Komsija",
+            "channel": "Dobro Jutro, Komsija (2012)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BM2ZjZWM4M2MtZTg4OC00NjYwLTkzNzMtZGVjZTRlMmM3OGRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "vxwnil7g8kw9",
+            "id3": ""
+        },
+        {
+            "country": "Dobro Jutro, Komsija",
+            "channel": "Dobro Jutro, Komsija 2 (2014)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODljNjQ5NWUtZDk5YS00OTY1LTgxNDctNTNmMTRjODBlZGZhXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "fg1guplg2xcd",
+            "id3": ""
+        },
+        {
+            "country": "Dobro Jutro, Komsija",
+            "channel": "Dobro Jutro, Komsija 3 (2016)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTg3NGZjYzAtY2RmYi00Y2QyLWEwNzEtMjhjZTU1NGYyNGM3XkEyXkFqcGc@._V1_QL75_UY281_CR14,0,190,281_.jpg",
+            "id1": "",
+            "id2": "1o6iscyp6x05",
+            "id3": ""
+        },
+        {
+            "country": "Dobro Jutro, Komsija",
+            "channel": "Dobro Jutro, Komsija 4 (2017)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZmQxNzhmNGUtMjI1ZS00Y2JjLWE5N2YtZDJjOTlkNGE3NzExXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "quzo820zbbj8",
+            "id3": ""
+        },
+        {
+            "country": "Dobro Jutro, Komsija",
+            "channel": "Dobro Jutro, Komsija 5 (2018)",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/5/5e/Dobro_jutro%2C_kom%C5%A1ija_5.jpg",
+            "id1": "",
+            "id2": "duh2sgklj1er",
+            "id3": ""
+        },
+        {
+            "country": "Dobro Jutro, Komsija",
+            "channel": "Dobro Jutro, Komsija 6 (2019)",
+            "logo": "https://i.ytimg.com/vi/htEyPxvL0Fw/maxresdefault.jpg",
+            "id1": "",
+            "id2": "4dfpogsc7w99",
+            "id3": ""
+        },
+        {
+            "country": "Dobro Jutro, Komsija",
+            "channel": "Dobro Jutro, Komsija 7 (2020)",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/thumb/4/4e/Dobro_jutro%2C_kom%C5%A1ija_7.jpg/800px-Dobro_jutro%2C_kom%C5%A1ija_7.jpg",
+            "id1": "",
+            "id2": "hjrkj4mef5fe",
+            "id3": ""
+        },
+        {
+            "country": "Dobro Jutro, Komsija",
+            "channel": "Dobro Jutro, Komsija 8 (2022)",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/5/5b/Dobro-jutro-komsija-8.jpg",
+            "id1": "",
+            "id2": "xbp5ss721hji",
+            "id3": ""
+        },
+        {
+            "country": "Dobro Jutro, Komsija",
+            "channel": "Dobro Jutro, Komsija 9 (2023)",
+            "logo": "https://image.tmdb.org/t/p/w1280/8B1TyXHAKZIStkXZwQhNEogL9Ym.jpg",
+            "id1": "",
+            "id2": "e0k2pa8smmjt",
+            "id3": ""
+        },
+        {
+            "country": "Dobro Jutro, Komsija",
+            "channel": "Dobro Jutro, Komsija 10 (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDFiZDkwZTEtZGJmMC00YjYwLWI0MGMtNWI1MzU0ZTAwNDRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "aagvtspmvmdf",
+            "id3": ""
+        },
+        {
+            "country": "Dobro Jutro, Komsija",
+            "channel": "Dobro Jutro, Komsija 11 (2025)",
+            "logo": "https://i.ytimg.com/vi/TPMwyzB49wc/maxresdefault.jpg",
+            "id1": "",
+            "id2": "9t7l7e32w28s",
             "id3": ""
         }
     ]
