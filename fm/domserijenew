@@ -74,6 +74,9 @@
         },
         {
             "country": "Tajne (2013)"
+        },
+        {
+            "country": "Kafana Na Balkanu (2025)"
         }
     ],
     "channels": [
@@ -5949,7 +5952,7 @@
             "id2": "4h73b8i0aye2",
             "id3": ""
         },
-		{
+        {
             "country": "Igra Sudbine (2020-)",
             "channel": "[I][COLOR white]S08 Epizoda 108[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg\n",
@@ -7357,7 +7360,7 @@
             "id2": "1wk51f6mxty4",
             "id3": ""
         },
-		{
+        {
             "country": "Sjene proslosti (2024)",
             "channel": "[I][COLOR white]S01 Epizoda 89[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -7365,7 +7368,7 @@
             "id2": "p40y9zs8akfu",
             "id3": ""
         },
-		{
+        {
             "country": "Sjene proslosti (2024)",
             "channel": "[I][COLOR white]S01 Epizoda 90[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -8893,7 +8896,7 @@
             "id2": "qe90b1cxcpbn",
             "id3": ""
         },
-		{
+        {
             "country": "Na rubu pameti (2022)",
             "channel": "[I][COLOR white]S03 Epizoda 20[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BNTFlNGVjNzQtOGNhNy00NWU3LWEwNjQtYjY0YjU2YjcyMmU1XkEyXkFqcGc@._V1_.jpg",
@@ -8901,7 +8904,7 @@
             "id2": "relavzc60x0x",
             "id3": ""
         },
-		{
+        {
             "country": "Na rubu pameti (2022)",
             "channel": "[I][COLOR white]S03 Epizoda 21[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BNTFlNGVjNzQtOGNhNy00NWU3LWEwNjQtYjY0YjU2YjcyMmU1XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
@@ -9285,7 +9288,7 @@
             "id2": "8cnb9lpbx6xb",
             "id3": "1n8naffs6nv0"
         },
-		{
+        {
             "country": "Tender (2022)",
             "channel": "[I][COLOR white]S04 Epizoda 08[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZTU5NTIxMjEtN2M0My00NDY3LWJjNjYtMDEwNjg0ZDlkOWNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -9333,7 +9336,7 @@
             "id2": "otui5v2y2vhd",
             "id3": ""
         },
-		{
+        {
             "country": "Tender (2022)",
             "channel": "[I][COLOR white]S04 Epizoda 14[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZTU5NTIxMjEtN2M0My00NDY3LWJjNjYtMDEwNjg0ZDlkOWNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -11381,7 +11384,7 @@
             "id2": "nbpjta90o8rk",
             "id3": ""
         },
-		{
+        {
             "country": "Radio Mileva (2021)",
             "channel": "[I][COLOR white]S05 Epizoda 21[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMjcwMWEwZTEtYjQyZC00Njk4LWE4NTItN2Y2Njk3ZDA2ZTBlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -12909,7 +12912,7 @@
             "id2": "b27be3vnegxh",
             "id3": "m2ubsa7578y4"
         },
-		{
+        {
             "country": "Urgentni centar (2014-)",
             "channel": "[I][COLOR white]S04 Epizoda 39[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYmVkNjkxNWEtZTQyYS00MmE1LThhNmItZGFiNzFhNTIwNTczXkEyXkFqcGc@._V1_.jpg",
@@ -12965,7 +12968,7 @@
             "id2": "d1vdhrkdhpz9",
             "id3": ""
         },
-		{
+        {
             "country": "Urgentni centar (2014-)",
             "channel": "[I][COLOR white]S04 Epizoda 46[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYmVkNjkxNWEtZTQyYS00MmE1LThhNmItZGFiNzFhNTIwNTczXkEyXkFqcGc@._V1_.jpg",
@@ -12973,7 +12976,7 @@
             "id2": "vx8lxei5kwcj",
             "id3": ""
         },
-		{
+        {
             "country": "Urgentni centar (2014-)",
             "channel": "[I][COLOR white]S04 Epizoda 47[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYmVkNjkxNWEtZTQyYS00MmE1LThhNmItZGFiNzFhNTIwNTczXkEyXkFqcGc@._V1_.jpg",
@@ -13253,7 +13256,7 @@
             "id2": "ecv4adht81ya",
             "id3": "6lu5alw3ogwg"
         },
-		{
+        {
             "country": "Izazov (2024)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://xdn.tf.rs/2024/12/30/serija-izazov-830x553.jpg",
@@ -13269,7 +13272,7 @@
             "id2": "arx8c7ers4n3",
             "id3": ""
         },
-		{
+        {
             "country": "Tajne (2013)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
@@ -13413,7 +13416,7 @@
             "id2": "wiw6oa530hh5",
             "id3": ""
         },
-		{
+        {
             "country": "Tajne (2013)",
             "channel": "[I][COLOR white]S01 Epizoda 018[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
@@ -13445,7 +13448,7 @@
             "id2": "h31zbq4c7j5k",
             "id3": ""
         },
-		{
+        {
             "country": "Tajne (2013)",
             "channel": "[I][COLOR white]S01 Epizoda 022[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
@@ -13475,6 +13478,30 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "2bx77zs443ix",
+            "id3": ""
+        },
+		{
+            "country": "Kafana Na Balkanu (2025)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNjg5ZjRkZWYtYjYyNi00MmQ5LTljZWUtYmY1YWJhNTY2NDU3XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Kafana Na Balkanu (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNjg5ZjRkZWYtYjYyNi00MmQ5LTljZWUtYmY1YWJhNTY2NDU3XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "70egka3rju4o",
+            "id3": ""
+        },
+        {
+            "country": "Kafana Na Balkanu (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNjg5ZjRkZWYtYjYyNi00MmQ5LTljZWUtYmY1YWJhNTY2NDU3XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "f2pwxske9bur",
             "id3": ""
         }
     ]
