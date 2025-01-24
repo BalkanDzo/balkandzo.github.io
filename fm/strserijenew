@@ -161,6 +161,9 @@
         },
         {
             "country": "The Rookie (2018)"
+        },
+        {
+            "country": "The Night Agent (2023)"
         }
     ],
     "channels": [
@@ -236,7 +239,7 @@
             "id2": "2g3zthcwfnq3",
             "id3": ""
         },
-		{
+        {
             "country": "High Potential (2024)",
             "channel": "[I][COLOR white]S01 Epizoda 09[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZWI5ZmE3ZjYtMGQzZS00ZWNhLThlNjYtYTRiY2UyYzg4ZDA0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -6252,6 +6255,14 @@
             "id2": "5yfaixai707h",
             "id3": ""
         },
+		 {
+            "country": "The Sex Lives of College Girls (2021)",
+            "channel": "[I][COLOR white]S03 Epizoda 10[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDE0MWJhZmQtMTZkMC00ODU0LWI5NDItY2NmMTFiMDRmMTc4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ye3cfnqnaamx",
+            "id3": ""
+        },
         {
             "country": "1992 (2024)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
@@ -6634,6 +6645,14 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BMjU4N2IyNDYtZWViOC00YzFkLTk3OWEtNjkzZWIzZjEwY2RjXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "ntwvf5vv4pob",
+            "id3": ""
+        },
+        {
+            "country": "Bookie (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjU4N2IyNDYtZWViOC00YzFkLTk3OWEtNjkzZWIzZjEwY2RjXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "8gk1qw3zc5tx",
             "id3": ""
         },
         {
@@ -7644,6 +7663,14 @@
             "id2": "dgj9u3d9mmbk",
             "id3": ""
         },
+		{
+            "country": "The Pitt (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTU3MDliMGEtMDQxNi00OTk1LTg1NWMtZDM2NmEwZDA1ZDk2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ff81nwq3ifr4",
+            "id3": ""
+        },
         {
             "country": "No Good Deed (2024)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
@@ -7722,6 +7749,14 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BMzBlMzg3ODItZDAwMC00OGFlLTg5YTEtMGU2YmEwY2E5NDlhXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "62da6598f7kd",
+            "id3": ""
+        },
+        {
+            "country": "Doc (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzBlMzg3ODItZDAwMC00OGFlLTg5YTEtMGU2YmEwY2E5NDlhXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "sldd1hqh5l03",
             "id3": ""
         },
         {
@@ -9724,7 +9759,7 @@
             "id2": "iiymt9m6aour",
             "id3": ""
         },
-		{
+        {
             "country": "Chicago Fire (2012)",
             "channel": "[I][COLOR white]S11 Epizoda 02[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZDgwYjlhMGItMDQ3YS00OGQyLWFiMTQtYzkwNTUzNjE4NzIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -9732,7 +9767,15 @@
             "id2": "z9iuevknggf9",
             "id3": ""
         },
-		{
+        {
+            "country": "Chicago Fire (2012)",
+            "channel": "[I][COLOR white]S11 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDgwYjlhMGItMDQ3YS00OGQyLWFiMTQtYzkwNTUzNjE4NzIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "watjcaozsb8g",
+            "id3": ""
+        },
+        {
             "country": "The Rookie (2018)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -10660,12 +10703,188 @@
             "id2": "niko79lbny9q",
             "id3": ""
         },
-		{
+        {
             "country": "The Rookie (2018)",
             "channel": "[I][COLOR white]S07 Epizoda 02[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "cz7qqr1yn6mw",
+            "id3": ""
+        },
+        {
+            "country": "The Night Agent (2023)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2NlZWQ0NDctMzBmNS00MDA0LWExNWEtOTI2ZGNiMjBmYzJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "The Night Agent (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2NlZWQ0NDctMzBmNS00MDA0LWExNWEtOTI2ZGNiMjBmYzJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "53ezuzetx8y9",
+            "id3": ""
+        },
+        {
+            "country": "The Night Agent (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2NlZWQ0NDctMzBmNS00MDA0LWExNWEtOTI2ZGNiMjBmYzJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "j3wbffevmvkx",
+            "id3": ""
+        },
+        {
+            "country": "The Night Agent (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2NlZWQ0NDctMzBmNS00MDA0LWExNWEtOTI2ZGNiMjBmYzJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "rqbax8waaz9q",
+            "id3": ""
+        },
+        {
+            "country": "The Night Agent (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2NlZWQ0NDctMzBmNS00MDA0LWExNWEtOTI2ZGNiMjBmYzJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "a3gjfiti9yef",
+            "id3": ""
+        },
+        {
+            "country": "The Night Agent (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2NlZWQ0NDctMzBmNS00MDA0LWExNWEtOTI2ZGNiMjBmYzJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "h4go4jhivj8n",
+            "id3": ""
+        },
+        {
+            "country": "The Night Agent (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2NlZWQ0NDctMzBmNS00MDA0LWExNWEtOTI2ZGNiMjBmYzJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "ujwqdcmiauax",
+            "id3": ""
+        },
+        {
+            "country": "The Night Agent (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2NlZWQ0NDctMzBmNS00MDA0LWExNWEtOTI2ZGNiMjBmYzJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "cljic0j1h5vv",
+            "id3": ""
+        },
+        {
+            "country": "The Night Agent (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2NlZWQ0NDctMzBmNS00MDA0LWExNWEtOTI2ZGNiMjBmYzJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "ywm9vc8twfis",
+            "id3": ""
+        },
+        {
+            "country": "The Night Agent (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2NlZWQ0NDctMzBmNS00MDA0LWExNWEtOTI2ZGNiMjBmYzJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "9h5yzy1zm320",
+            "id3": ""
+        },
+        {
+            "country": "The Night Agent (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 10[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2NlZWQ0NDctMzBmNS00MDA0LWExNWEtOTI2ZGNiMjBmYzJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "ioagqikc0d8k",
+            "id3": ""
+        },
+        {
+            "country": "The Night Agent (2023)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 02---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2NlZWQ0NDctMzBmNS00MDA0LWExNWEtOTI2ZGNiMjBmYzJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "The Night Agent (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2NlZWQ0NDctMzBmNS00MDA0LWExNWEtOTI2ZGNiMjBmYzJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "3ore8haqa6wv",
+            "id3": ""
+        },
+        {
+            "country": "The Night Agent (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2NlZWQ0NDctMzBmNS00MDA0LWExNWEtOTI2ZGNiMjBmYzJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "6tw4ezeeugoq",
+            "id3": ""
+        },
+        {
+            "country": "The Night Agent (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2NlZWQ0NDctMzBmNS00MDA0LWExNWEtOTI2ZGNiMjBmYzJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "83i5kx4yb1oq",
+            "id3": ""
+        },
+        {
+            "country": "The Night Agent (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2NlZWQ0NDctMzBmNS00MDA0LWExNWEtOTI2ZGNiMjBmYzJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "0zmh38izq5cf",
+            "id3": ""
+        },
+        {
+            "country": "The Night Agent (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2NlZWQ0NDctMzBmNS00MDA0LWExNWEtOTI2ZGNiMjBmYzJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "2bp9c1gl10ds",
+            "id3": ""
+        },
+        {
+            "country": "The Night Agent (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2NlZWQ0NDctMzBmNS00MDA0LWExNWEtOTI2ZGNiMjBmYzJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "35owdz3d1m7d",
+            "id3": ""
+        },
+        {
+            "country": "The Night Agent (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2NlZWQ0NDctMzBmNS00MDA0LWExNWEtOTI2ZGNiMjBmYzJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "k3ojfk5nd38t",
+            "id3": ""
+        },
+        {
+            "country": "The Night Agent (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2NlZWQ0NDctMzBmNS00MDA0LWExNWEtOTI2ZGNiMjBmYzJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "rhypl314nlxx",
+            "id3": ""
+        },
+        {
+            "country": "The Night Agent (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2NlZWQ0NDctMzBmNS00MDA0LWExNWEtOTI2ZGNiMjBmYzJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "8l6qxs3s38dl",
+            "id3": ""
+        },
+        {
+            "country": "The Night Agent (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 10[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2NlZWQ0NDctMzBmNS00MDA0LWExNWEtOTI2ZGNiMjBmYzJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "44vw2opymi4q",
             "id3": ""
         }
     ]
