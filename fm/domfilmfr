@@ -21,9 +21,6 @@
             "country": "Cao Inspektore"
         },
         {
-            "country": "Miris kise na Balkanu"
-        },
-        {
             "country": "Hajde Da Se Volimo"
         },
         {
@@ -31,6 +28,12 @@
         },
         {
             "country": "Dobro Jutro, Komsija"
+        },
+        {
+            "country": "Sekula"
+        },
+        {
+            "country": "Jesn Stize, Dunjo Moja"
         }
     ],
     "channels": [
@@ -234,7 +237,7 @@
             "id2": "64891sepxodn",
             "id3": ""
         },
-		{
+        {
             "country": "Dobro Jutro, Komsija",
             "channel": "Dobro Jutro, Komsija (2012)",
             "logo": "https://m.media-amazon.com/images/M/MV5BM2ZjZWM4M2MtZTg4OC00NjYwLTkzNzMtZGVjZTRlMmM3OGRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -320,6 +323,62 @@
             "logo": "https://i.ytimg.com/vi/TPMwyzB49wc/maxresdefault.jpg",
             "id1": "",
             "id2": "9t7l7e32w28s",
+            "id3": ""
+        },
+		{
+            "country": "Jesn Stize, Dunjo Moja",
+            "channel": "Jesen Stize, Dunjo Moja (2004)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjExZmE0M2EtMzczYS00ZGI5LWFkMjItYTE5NzFjZGQxMDg5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "dw07tuitvznu",
+            "id3": ""
+        },
+        {
+            "country": "Jesn Stize, Dunjo Moja",
+            "channel": "Konji Vrani (2007)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZTczY2UxNDctNzQwZS00NDkwLWE5NDYtZTIxYWUwNWYyNDk2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "sfj5k07y9zth",
+            "id3": ""
+        },
+        {
+            "country": "Jesn Stize, Dunjo Moja",
+            "channel": "Bledi Mesec (2008)",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/thumb/5/56/Bledi_mesec.jpg/250px-Bledi_mesec.jpg",
+            "id1": "",
+            "id2": "on05wjyluwaq",
+            "id3": ""
+        },
+		{
+            "country": "Sekula",
+            "channel": "Sekula I Njegove Zene (1986)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWUwYjQ4ZmItOGNkMS00MGM0LTk1N2MtNmQwZDk3ZjBlMmM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "c9047i60sqz4",
+            "id3": ""
+        },
+        {
+            "country": "Sekula",
+            "channel": "Sekula Se Opet Zeni (1991)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDBjMzRhNjktMTc3Yy00MDRmLThlMjMtNmU4ODZjYTMzM2IzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "e2k79bob1nv2",
+            "id3": ""
+        },
+        {
+            "country": "Sekula",
+            "channel": "Sekula Nevino Optuzen (1992)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOGVlYWE5YjMtYjRiYy00ZjhiLWI3MmEtNzVmNWI5NTY3ZDY0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "tc4grhuo2k1m",
+            "id3": ""
+        },
+        {
+            "country": "Sekula",
+            "channel": "Treca Sreca (1995)",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/f/f4/%D0%A2%D1%80%D0%B5%D1%9B%D0%B0_%D0%A1%D1%80%D0%B5%D1%9B%D0%B0.jpg",
+            "id1": "",
+            "id2": "d615bp5w1jnc",
             "id3": ""
         }
     ]

@@ -37,6 +37,14 @@
     "channels": [
         {
             "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Ad Vitam (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNzlmYjRmYWMtNjcwOC00NDIwLTliZTQtNjM1YzQ4NTFlNDRiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "5c6b1j36lf71",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
             "channel": "Alarum (2025)",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP_ZtLu9Weq6ixSOrUJpGRiNvLSOzgSuDlcg&s",
             "id1": "",
