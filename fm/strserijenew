@@ -164,6 +164,9 @@
         },
         {
             "country": "The Night Agent (2023)"
+        },
+        {
+            "country": "Severance (2022)"
         }
     ],
     "channels": [
@@ -247,7 +250,7 @@
             "id2": "nrkvj0v1ytfd",
             "id3": ""
         },
-		{
+        {
             "country": "High Potential (2024)",
             "channel": "[I][COLOR white]S01 Epizoda 10[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZWI5ZmE3ZjYtMGQzZS00ZWNhLThlNjYtYTRiY2UyYzg4ZDA0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -698,10 +701,18 @@
         {
             "country": "Found (2023)",
             "channel": "[I][COLOR white]S02 Epizoda 08[/COLOR][/I]",
-            "logo": "",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOGVmOTg0ZWEtMWIwNS00NjkwLThiYWMtOWJmNGFkZWJhYzVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "ujn4ge2848pk",
             "id3": "6djgdm1r7b1y"
+        },
+		{
+            "country": "Found (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOGVmOTg0ZWEtMWIwNS00NjkwLThiYWMtOWJmNGFkZWJhYzVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "utdcxn4spaib",
+            "id3": ""
         },
         {
             "country": "Grotesquerie (2024)",
@@ -3248,6 +3259,14 @@
             "id3": ""
         },
         {
+            "country": "Chicago P D 2014) ",
+            "channel": "[I][COLOR white]S12 Epizoda 10[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2ZhMTljMTAtNGUxNC00NDMxLThiMDEtYjBiNzU3OGNmNmVlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "hr1pjje4t47a",
+            "id3": ""
+        },
+        {
             "country": "Tulsa King (2022)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMjBiNmI3YjMtNjJmNi00MTdiLTg5YTItMTk1MjcwOWIyZjY3XkEyXkFqcGc@._V1_.jpg",
@@ -5423,6 +5442,14 @@
             "id2": "wkr4re451qtf",
             "id3": ""
         },
+		{
+            "country": "The Agency (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 10[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjU3YzYyNmEtZjJhMi00YjA3LTgyOTItMzQ2NTNlZTlkMjYxXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "f6hpzhkne180",
+            "id3": ""
+        },
         {
             "country": "The Madness (2024)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
@@ -6263,7 +6290,7 @@
             "id2": "5yfaixai707h",
             "id3": ""
         },
-		 {
+        {
             "country": "The Sex Lives of College Girls (2021)",
             "channel": "[I][COLOR white]S03 Epizoda 10[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BNDE0MWJhZmQtMTZkMC00ODU0LWI5NDItY2NmMTFiMDRmMTc4XkEyXkFqcGc@._V1_.jpg",
@@ -6527,7 +6554,7 @@
             "id2": "alwekcwzozpe",
             "id3": ""
         },
-		{
+        {
             "country": "Dexter Original Sin (2024)",
             "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYTVlZjNhYjktMWYyNy00MmYyLTk3ZjctMDQwMWIwYjdkODc3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -7679,7 +7706,7 @@
             "id2": "dgj9u3d9mmbk",
             "id3": ""
         },
-		{
+        {
             "country": "The Pitt (2025)",
             "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMTU3MDliMGEtMDQxNi00OTk1LTg1NWMtZDM2NmEwZDA1ZDk2XkEyXkFqcGc@._V1_.jpg",
@@ -10727,6 +10754,14 @@
             "id2": "cz7qqr1yn6mw",
             "id3": ""
         },
+		{
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S07 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "n2mgfpg616wi",
+            "id3": ""
+        },
         {
             "country": "The Night Agent (2023)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
@@ -10901,6 +10936,110 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BY2NlZWQ0NDctMzBmNS00MDA0LWExNWEtOTI2ZGNiMjBmYzJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "44vw2opymi4q",
+            "id3": ""
+        },
+		{
+            "country": "Severance (2022)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Severance (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "67j7dxw0ov54",
+            "id3": ""
+        },
+        {
+            "country": "Severance (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "tad9opqua11i",
+            "id3": ""
+        },
+        {
+            "country": "Severance (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "bqdr6nthqxo2",
+            "id3": ""
+        },
+        {
+            "country": "Severance (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "q51uld1phrcp",
+            "id3": ""
+        },
+        {
+            "country": "Severance (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "wrk992qkjg2a",
+            "id3": ""
+        },
+        {
+            "country": "Severance (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "5z7kks33h27a",
+            "id3": ""
+        },
+        {
+            "country": "Severance (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "6at8bkg7312p",
+            "id3": ""
+        },
+        {
+            "country": "Severance (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "p7tlxme8zb83",
+            "id3": ""
+        },
+        {
+            "country": "Severance (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "1ljgvtqnx5ru",
+            "id3": ""
+        },
+        {
+            "country": "Severance (2022)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 02---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Severance (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "zrs8w8ejk13w",
+            "id3": ""
+        },
+        {
+            "country": "Severance (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "h5ds16bvmulh",
             "id3": ""
         }
     ]

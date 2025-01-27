@@ -150,6 +150,9 @@
         },
         {
             "country": "Liam Neeson"
+        },
+        {
+            "country": "Harold and Kumar"
         }
     ],
     "channels": [
@@ -1024,6 +1027,14 @@
             "id1": "",
             "id2": "y9qxjstq5svy",
             "id3": "xom03gxrdcwc"
+        },
+		{
+            "country": "Star Trek",
+            "channel": "Star Trek Section 31 (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWMwNDdmYTAtOWJiNy00MzE0LThlZTMtODdhOWVkZDgyYjI3XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+            "id1": "",
+            "id2": "4ox8nf8nzmz2",
+            "id3": ""
         },
         {
             "country": "Step Up",
@@ -2113,7 +2124,7 @@
             "id2": "dlg7xhfuns48",
             "id3": ""
         },
-		{
+        {
             "country": "Liam Neeson",
             "channel": "Darkman (1990)",
             "logo": "https://m.media-amazon.com/images/M/MV5BMTc5MzUxMjk4NF5BMl5BanBnXkFtZTgwNTEzNDk4NjE@._V1_.jpg",
@@ -2319,6 +2330,30 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BYWRiM2ViOGItNGVjZS00NzZhLTlhMjAtZDIzMDJmODc0NzdhXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "n4qh9f6mi282",
+            "id3": ""
+        },
+		{
+            "country": "Harold and Kumar",
+            "channel": "Harold & Kumar Go to White Castle (2004)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNjk2MGI0M2YtZmIwOS00NGVjLWFlNDAtMDYzM2Y1MWM2OWNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "m4so1ol73ctc",
+            "id3": ""
+        },
+        {
+            "country": "Harold and Kumar",
+            "channel": "Harold & Kumar Escape from Guantanamo Bay (2008)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTQ3NTg3OTk0OV5BMl5BanBnXkFtZTcwODAwMzU1MQ@@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "mh1xvv7e42p8",
+            "id3": ""
+        },
+        {
+            "country": "Harold and Kumar",
+            "channel": "A Very Harold & Kumar Christmas (2011)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzA1NTQzMjAyOV5BMl5BanBnXkFtZTcwNDcyMjY2Ng@@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "h52nuxfo06vg",
             "id3": ""
         }
     ]

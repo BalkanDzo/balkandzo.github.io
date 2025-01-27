@@ -37,10 +37,26 @@
     "channels": [
         {
             "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Star Trek Section 31 (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWMwNDdmYTAtOWJiNy00MzE0LThlZTMtODdhOWVkZDgyYjI3XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+            "id1": "",
+            "id2": "4ox8nf8nzmz2",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "The Room Next Door (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYzk2MjI1YTgtOTcxYS00OTUyLTgyOTAtMGE0OGYyMjc0MTc3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "12yrb8ja47wu",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
             "channel": "Ad Vitam (2025)",
             "logo": "https://m.media-amazon.com/images/M/MV5BNzlmYjRmYWMtNjcwOC00NDIwLTliZTQtNjM1YzQ4NTFlNDRiXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
-            "id2": "5c6b1j36lf71",
+            "id2": "asv95zl86be1",
             "id3": ""
         },
 		{
