@@ -153,6 +153,9 @@
         },
         {
             "country": "Harold and Kumar"
+        },
+        {
+            "country": "Torrente"
         }
     ],
     "channels": [
@@ -1028,7 +1031,7 @@
             "id2": "y9qxjstq5svy",
             "id3": "xom03gxrdcwc"
         },
-		{
+        {
             "country": "Star Trek",
             "channel": "Star Trek Section 31 (2025)",
             "logo": "https://m.media-amazon.com/images/M/MV5BYWMwNDdmYTAtOWJiNy00MzE0LThlZTMtODdhOWVkZDgyYjI3XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
@@ -2332,7 +2335,7 @@
             "id2": "n4qh9f6mi282",
             "id3": ""
         },
-		{
+        {
             "country": "Harold and Kumar",
             "channel": "Harold & Kumar Go to White Castle (2004)",
             "logo": "https://m.media-amazon.com/images/M/MV5BNjk2MGI0M2YtZmIwOS00NGVjLWFlNDAtMDYzM2Y1MWM2OWNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -2354,6 +2357,46 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BMzA1NTQzMjAyOV5BMl5BanBnXkFtZTcwNDcyMjY2Ng@@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "h52nuxfo06vg",
+            "id3": ""
+        },
+		{
+            "country": "Torrente",
+            "channel": "Torrente, the Dumb Arm of the Law (1998)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjllN2E5MjItZWRhMS00OTgwLTgyYTItNWNjNDg2MDkyZmJmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "nom1eiglzs8u",
+            "id3": ""
+        },
+        {
+            "country": "Torrente",
+            "channel": "Torrente 2 Mission in Marbella (2001)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTY4MzAyMTY4MV5BMl5BanBnXkFtZTgwMjU5NDI1MDE@._V1_.jpg",
+            "id1": "",
+            "id2": "bir1hvcj2uus",
+            "id3": ""
+        },
+        {
+            "country": "Torrente",
+            "channel": "Torrente 3 The Protector (2005)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNzM0ODg2NjM0M15BMl5BanBnXkFtZTgwMzQ5NDI1MDE@._V1_.jpg",
+            "id1": "",
+            "id2": "i94la4qh8kfa",
+            "id3": ""
+        },
+        {
+            "country": "Torrente",
+            "channel": "Torrente 4 Lethal Crisis (2011)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNWQwNWZjZTUtNDBiMy00NWMwLWFhOTUtNGNlNDQxNjg2MjUwXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+            "id1": "",
+            "id2": "g441fe5w1ymt",
+            "id3": ""
+        },
+        {
+            "country": "Torrente",
+            "channel": "Torrente 5 (2014)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTk0Mjk4Njc4M15BMl5BanBnXkFtZTgwNDExNjg4MjE@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "oespuqa9ffqj",
             "id3": ""
         }
     ]
