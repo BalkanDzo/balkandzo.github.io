@@ -3,7 +3,7 @@
 <channel>
   <title>BD Addon Updater</title>
   <item>
-    <title>Trenutno nema dodatih addona i azuriranja za Balkan Dzo Build.</title>
+    <title>Azuriran Tv/Film/Sport Addon: Dodat Mad Titan Sports. Azuriran BD Addon Updater. POKRENITE BD Addon Updater da azurirate addone.</title>
   </item>
 </channel>
 </rss>
