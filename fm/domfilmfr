@@ -34,6 +34,9 @@
         },
         {
             "country": "Jesn Stize, Dunjo Moja"
+        },
+        {
+            "country": "Balkan Ekspres"
         }
     ],
     "channels": [
@@ -325,7 +328,7 @@
             "id2": "9t7l7e32w28s",
             "id3": ""
         },
-		{
+        {
             "country": "Jesn Stize, Dunjo Moja",
             "channel": "Jesen Stize, Dunjo Moja (2004)",
             "logo": "https://m.media-amazon.com/images/M/MV5BYjExZmE0M2EtMzczYS00ZGI5LWFkMjItYTE5NzFjZGQxMDg5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -349,7 +352,7 @@
             "id2": "on05wjyluwaq",
             "id3": ""
         },
-		{
+        {
             "country": "Sekula",
             "channel": "Sekula I Njegove Zene (1986)",
             "logo": "https://m.media-amazon.com/images/M/MV5BYWUwYjQ4ZmItOGNkMS00MGM0LTk1N2MtNmQwZDk3ZjBlMmM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -379,6 +382,22 @@
             "logo": "https://upload.wikimedia.org/wikipedia/sr/f/f4/%D0%A2%D1%80%D0%B5%D1%9B%D0%B0_%D0%A1%D1%80%D0%B5%D1%9B%D0%B0.jpg",
             "id1": "",
             "id2": "d615bp5w1jnc",
+            "id3": ""
+        },
+		{
+            "country": "Balkan Ekspres",
+            "channel": "Balkan Ekspres 1 (1983)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNjkyZWFjYmItYzgzYy00MmMzLWEyMmMtZjY0NzIzMmVhNzRiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "e626k4g72b57",
+            "id3": ""
+        },
+        {
+            "country": "Balkan Ekspres",
+            "channel": "Balkan Ekspres 2 (1989)",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/thumb/1/1e/2BalkanExpress.jpg/800px-2BalkanExpress.jpg",
+            "id1": "",
+            "id2": "ilkscuitcjtv",
             "id3": ""
         }
     ]
