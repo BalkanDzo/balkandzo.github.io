@@ -37,6 +37,14 @@
     "channels": [
         {
             "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Den of Thieves 2 Pantera (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZGIyYTI5N2QtZmQ5ZC00NDE4LThhYWMtNGE5NjI1OGU2M2NjXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "vc1yy8zo3bri",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
             "channel": "Star Trek Section 31 (2025)",
             "logo": "https://m.media-amazon.com/images/M/MV5BYWMwNDdmYTAtOWJiNy00MzE0LThlZTMtODdhOWVkZDgyYjI3XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
             "id1": "",
