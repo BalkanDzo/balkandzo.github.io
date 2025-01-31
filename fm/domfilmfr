@@ -37,6 +37,18 @@
         },
         {
             "country": "Balkan Ekspres"
+        },
+        {
+            "country": "Juzni Vetar"
+        },
+        {
+            "country": "Mi Nismo Andjeli"
+        },
+        {
+            "country": "Montevideo Bog Te Video"
+        },
+        {
+            "country": "Zona Zamfirova"
         }
     ],
     "channels": [
@@ -384,7 +396,7 @@
             "id2": "d615bp5w1jnc",
             "id3": ""
         },
-		{
+        {
             "country": "Balkan Ekspres",
             "channel": "Balkan Ekspres 1 (1983)",
             "logo": "https://m.media-amazon.com/images/M/MV5BNjkyZWFjYmItYzgzYy00MmMzLWEyMmMtZjY0NzIzMmVhNzRiXkEyXkFqcGc@._V1_.jpg",
@@ -398,6 +410,78 @@
             "logo": "https://upload.wikimedia.org/wikipedia/sr/thumb/1/1e/2BalkanExpress.jpg/800px-2BalkanExpress.jpg",
             "id1": "",
             "id2": "ilkscuitcjtv",
+            "id3": ""
+        },
+		{
+            "country": "Juzni Vetar",
+            "channel": "Juzni Vetar (2018)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNmE3NDU3YjQtOGQzOC00ZjhmLTg1YjYtZDg3ODcyZjg3ZjExXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "xk9mpqixd26m",
+            "id3": ""
+        },
+        {
+            "country": "Juzni Vetar",
+            "channel": "Juzni Vetar 2 Ubrzanje (2021)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTEzMTAyYjAtNGUxYi00MTA2LTk1MTUtZWMwOGMzNGQxNjA5XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "vhua97pd2m2c",
+            "id3": ""
+        },
+		{
+            "country": "Mi Nismo Andjeli",
+            "channel": "Mi Nismo Andjeli (1992)",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/thumb/b/bb/Mi_nismo_andjeli.jpg/250px-Mi_nismo_andjeli.jpg",
+            "id1": "",
+            "id2": "b37zda6it0um",
+            "id3": ""
+        },
+        {
+            "country": "Mi Nismo Andjeli",
+            "channel": "Mi Nismo Andjeli 2 (2005)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmRiM2Y4OGYtMDM2Zi00NmE1LWI3YjEtNzkyNzAyNmU3NmYyXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "orw4yozzyxj1",
+            "id3": ""
+        },
+        {
+            "country": "Mi Nismo Andjeli",
+            "channel": "Mi Nismo Andjeli 3 (2006)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNmZlZjM5ODYtMTVlNS00MDAyLWIzODYtYmZhNzA0YWI4NzUxXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "64891sepxodn",
+            "id3": ""
+        },
+		{
+            "country": "Montevideo Bog Te Video",
+            "channel": "Montevideo Bog Te Video (2010)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWQxN2Q0ZjktYzMwOS00ZTU3LWE0YzktN2ZkM2NkY2YwMWRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "6r7oqf01y7qr",
+            "id3": ""
+        },
+        {
+            "country": "Montevideo Bog Te Video",
+            "channel": "Montevideo, Vidimo Se! (2014)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjI4MTkyMjg0Nl5BMl5BanBnXkFtZTgwMDMxNTkzMTE@._V1_.jpg",
+            "id1": "",
+            "id2": "gqjoelc9mcx5",
+            "id3": ""
+        },
+		{
+            "country": "Zona Zamfirova",
+            "channel": "Zona Zamfirova (2002)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGRkNjA2NTAtMzdhNC00NzI1LWFmNWMtODY0ZDNjYTc5NTlmXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "skls6xl09p4j",
+            "id3": ""
+        },
+        {
+            "country": "Zona Zamfirova",
+            "channel": "Zona Zamfirova 2 Vrati Se Zone (2017)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzRiNDVjMDMtOGI5ZS00MGViLTk2NTctNmE1Yjk2OTg2ZTYzXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "zh53n7et7tz2",
             "id3": ""
         }
     ]
