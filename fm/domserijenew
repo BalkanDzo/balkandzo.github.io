@@ -78,6 +78,9 @@
         {
             "country": "Kafana Na Balkanu (2025)"
         },
+		{
+            "country": "Kamiondzije d.o.o. (2020)"
+        },
         {
             "country": "Otmica (2025)"
         }
@@ -6075,6 +6078,30 @@
             "id2": "unyedvwsjpf1",
             "id3": ""
         },
+		{
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S08 Epizoda 123[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "rjmxuzskgxsp",
+            "id3": ""
+        },
+        {
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S08 Epizoda 124[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "8zr283bw57io",
+            "id3": ""
+        },
+        {
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S08 Epizoda 125[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "5lwbzifkb2ph",
+            "id3": ""
+        },
         {
             "country": "U dobru i zlu (2024)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
@@ -9057,6 +9084,14 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BNTFlNGVjNzQtOGNhNy00NWU3LWEwNjQtYjY0YjU2YjcyMmU1XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
             "id1": "",
             "id2": "cs282tbki09t",
+            "id3": ""
+        },
+		{
+            "country": "Na rubu pameti (2022)",
+            "channel": "[I][COLOR white]S03 Epizoda 24[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNTFlNGVjNzQtOGNhNy00NWU3LWEwNjQtYjY0YjU2YjcyMmU1XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg\n",
+            "id1": "",
+            "id2": "6a3y61lbih81",
             "id3": ""
         },
         {
@@ -13945,6 +13980,406 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BY2JmYzc5YjMtZDNiOS00YzRiLWI0N2ItYjRiZWNiNTI5YjE0XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
             "id1": "",
             "id2": "ya6h7487w493",
+            "id3": ""
+        },
+		{
+            "country": "Otmica (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2JmYzc5YjMtZDNiOS00YzRiLWI0N2ItYjRiZWNiNTI5YjE0XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+            "id1": "",
+            "id2": "ak02ib6613is",
+            "id3": ""
+        },
+		{
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 02---[/B][/COLOR]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S02 Epizoda 01[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "mpnsypaik7p1",
+            "id3": "a6gf3ri3r0xm"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S02 Epizoda 02[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "iswj3d2429ba",
+            "id3": "e5rlplie0hrn"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S02 Epizoda 03[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "qnop6fxezxi7",
+            "id3": "bl4u72ybd2uw"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S02 Epizoda 04[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "dbuep1kxqtmv",
+            "id3": "bhrxf6k20rry"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S02 Epizoda 05[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "ztglefj396x6",
+            "id3": "6sa3tp3ihfnq"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S02 Epizoda 06[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "wbflxor00753",
+            "id3": "xgep5t0kp9t4"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S02 Epizoda 07[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "zx0idv3btxjc",
+            "id3": "z30mpxn7u4lh"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S02 Epizoda 08[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "1j67d25xsl0u",
+            "id3": "tgqiu9npjtag"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S02 Epizoda 09[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "hzi0dqbnl60t",
+            "id3": "lrshepnrh2yg"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S02 Epizoda 10[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "6xjbwc2451pg",
+            "id3": "m9bpgsxxodqh"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S02 Epizoda 11[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "44eeum8mq25g",
+            "id3": "alce0bknz7dh"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S02 Epizoda 12[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "ok2dl5rx6aqw",
+            "id3": "ijsgpepg9h6l"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "c1n1vkh1o5lu",
+            "id3": "gdoh5pah8sru"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "v9j973hj195l",
+            "id3": "6ue4lds9ge0f"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "bmdw7u5fi372",
+            "id3": "l50avcwbr510"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "n6x7jui9lh4n",
+            "id3": "9s0nwbma6lhl"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "8cu23iagnh9v",
+            "id3": "eiaunrk03nev"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "ct2kegd153zj",
+            "id3": "dbwo8yvjo39s"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "68t24cjsja24",
+            "id3": "k4he0y5cjnbh"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "n6f6lthg8bul",
+            "id3": "xrqzp4tcnudu"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 09[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "9qqxdtc8oktx",
+            "id3": "v3jtq0nlxo2v"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 10[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "yuds56vhqprm",
+            "id3": "0bqfp3axr3hj"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 11[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "sn4czq66pwlf",
+            "id3": "ax34zx09n7q4"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 12[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "otaufvayud0q",
+            "id3": "3zkeygtiobr4"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 13[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "a2psqu59dzxk",
+            "id3": "g9aa10qcpu6a"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 14[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "kpuxqjqvkd0i",
+            "id3": "pz5q9eywerho"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 15[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "e1rl0a2ttfd5",
+            "id3": "du75t7cljbd6"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 16[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "333l1rwvqd56",
+            "id3": "14izwxdbpmv2"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 17[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "775zb73qwhr9",
+            "id3": "6dw0c6mvbmsa"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 18[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "l62kmowhpig9",
+            "id3": "0r62cki1vh86"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 19[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "itytiqgl3qxl",
+            "id3": "ar1vnszch7nn"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 20[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "gd8ge1290uer",
+            "id3": "mswzpzob4ehw"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 03---[/B][/COLOR]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S03 Epizoda 01[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "apcm906wnj7b",
+            "id3": "y1o8jauzqwq5"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S03 Epizoda 02[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "70clq4swbxyd",
+            "id3": "nd5ez91drned"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S03 Epizoda 03[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "zh7grz5u3k3n",
+            "id3": "lcmxzx7jx0tt"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S03 Epizoda 04[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "679c8w72kswe",
+            "id3": "fstkv6z9fnvz"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S03 Epizoda 05[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "2y9rv45oxq9h",
+            "id3": "nv2olld5mbxe"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S03 Epizoda 06[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "edc0x4uaqiek",
+            "id3": "vc5w92kbzb8w"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S03 Epizoda 07[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "vdx9vcnb2vxp",
+            "id3": "vtdkoc81he91"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S03 Epizoda 08[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "ul7yg27v7rsg",
+            "id3": "y8qhg6qhhr6o"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S03 Epizoda 09[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "xkbpyuup9451",
+            "id3": "giin2gfny8fc"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S03 Epizoda 10[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "2lb6208myoz8",
+            "id3": "kkt4fkhf6585"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S03 Epizoda 11[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "7dle1q75flh8",
+            "id3": "bsrtcbdp3e0w"
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S03 Epizoda 12[/COLOR][/I]",
+            "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
+            "id1": "",
+            "id2": "dmg8v6kibp4r",
+            "id3": "iv5fyqn20ui2"
+        },
+		{
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 04---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZjQ2MTU3M2QtYjEyNi00NDVkLTlkNWUtZjZkODg3YjAwYWI0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S04 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZjQ2MTU3M2QtYjEyNi00NDVkLTlkNWUtZjZkODg3YjAwYWI0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "37gjbxmd1s8m",
             "id3": ""
         }
     ]
