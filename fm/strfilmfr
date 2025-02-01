@@ -156,6 +156,9 @@
         },
         {
             "country": "Torrente"
+        },
+        {
+            "country": "Police Academy"
         }
     ],
     "channels": [
@@ -2359,7 +2362,7 @@
             "id2": "h52nuxfo06vg",
             "id3": ""
         },
-		{
+        {
             "country": "Torrente",
             "channel": "Torrente, the Dumb Arm of the Law (1998)",
             "logo": "https://m.media-amazon.com/images/M/MV5BMjllN2E5MjItZWRhMS00OTgwLTgyYTItNWNjNDg2MDkyZmJmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -2397,6 +2400,62 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BMTk0Mjk4Njc4M15BMl5BanBnXkFtZTgwNDExNjg4MjE@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "oespuqa9ffqj",
+            "id3": ""
+        },
+		{
+            "country": "Police Academy",
+            "channel": "Police Academy (1984)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZmY2Zjk3ZmYtZGQwYS00NGM4LTk1MWMtZjI4MmRkNmM2ZDYwXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "14gmxidzmqiq",
+            "id3": ""
+        },
+        {
+            "country": "Police Academy",
+            "channel": "Police Academy 2 Their First Assignment (1985)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNmFmYjk2OGQtZDZhOS00ZWY2LThjMmMtMTA1N2Y5YjFhNWQ3XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "mhrru3007rsy",
+            "id3": ""
+        },
+        {
+            "country": "Police Academy",
+            "channel": "Police Academy 3 Back in Training (1986)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNmZiN2U5MjQtZTc3MC00YWY3LTgzMWYtMDUyMDQxOTNkNTRiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "p2acu92l8wb0",
+            "id3": ""
+        },
+        {
+            "country": "Police Academy",
+            "channel": "Police Academy 4 Citizens on Patrol (1987) ",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTQzYTVkN2YtNzM5Yy00MDVhLWEwMTQtNzgwMWVlNDJlZmRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "95kckiwqnfj7",
+            "id3": ""
+        },
+        {
+            "country": "Police Academy",
+            "channel": "Police Academy 5 Assignment Miami Beach (1988)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDMzN2NhZjAtNDFlZC00MDc5LWJlMzctNzFjMTgyNjFhYTMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "efs8978rrz9q",
+            "id3": ""
+        },
+        {
+            "country": "Police Academy",
+            "channel": "Police Academy 6 City Under Siege (1989)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTY2NjI3YjEtYTNlOS00NTYzLTkyMjUtZTgzNDBmODZhNTE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "j6fq72fxpqew",
+            "id3": ""
+        },
+        {
+            "country": "Police Academy",
+            "channel": "Police Academy Mission to Moscow (1994)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODQzNGYyNmUtYjk3NC00MDIwLWEyZDQtMjI0Mzk5YjZmMGQ3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "blwmx93to7o4",
             "id3": ""
         }
     ]

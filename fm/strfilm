@@ -37,6 +37,38 @@
     "channels": [
         {
             "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Sniper The Last Stand (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjk3ZjBjZjYtMDQ0ZC00MjBiLWE0YTktZjAzYmYyNzdiMTk1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "yeeyarxmhjp7",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Into the Deep (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODhkMGYxY2MtNzBhZC00ZTdiLWEwNzYtOTdlNDQ2YjZlOTcxXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+            "id1": "",
+            "id2": "hgw27jw1lxvg",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Distant (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2ViYmExZjAtMzE5Ni00NGYwLWJjYzctZmMwNWRjNGRlYjU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "gbjmi0kgl6wd",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Babygirl (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmUwODYwODAtYWZkZS00YmUwLWFmMWEtOGNjMjE2NDk3OWIwXkEyXkFqcGc@._V1_QL75_UX190_CR0,7,190,281_.jpg",
+            "id1": "",
+            "id2": "gpgp8n9e1zxj",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
             "channel": "Den of Thieves 2 Pantera (2025)",
             "logo": "https://m.media-amazon.com/images/M/MV5BZGIyYTI5N2QtZmQ5ZC00NDE4LThhYWMtNGE5NjI1OGU2M2NjXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
@@ -2170,6 +2202,22 @@
             "id1": "",
             "id2": "fm0czbwyomd4",
             "id3": "r3k6ax0rkl9u"
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Tomorrow, When the War Began (2010)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODc4NDIyMTM5MV5BMl5BanBnXkFtZTcwOTI2NDc4Mw@@._V1_.jpg",
+            "id1": "",
+            "id2": "uhhl8zbyit6q",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Kingdom (2007)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMDc1Y2MyMjctYjg1Ny00OWJmLTkyZDAtMjJjNzBjZmQ3M2VlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "aqy98vjf4f1f",
+            "id3": ""
         },
         {
             "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
