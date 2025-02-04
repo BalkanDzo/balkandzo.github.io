@@ -78,11 +78,14 @@
         {
             "country": "Kafana Na Balkanu (2025)"
         },
-		{
+        {
             "country": "Kamiondzije d.o.o. (2020)"
         },
         {
             "country": "Otmica (2025)"
+        },
+        {
+            "country": "Pogresan Covjek (2018)"
         }
     ],
     "channels": [
@@ -4199,6 +4202,14 @@
             "id3": "0hzijjg8ctg8"
         },
         {
+            "country": "Kumovi (2022-)",
+            "channel": "[I][COLOR white]S05 Epizoda 018[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYmJhNDVhYTMtYmI5ZC00NmU0LTg4Y2EtMTI2MWU1NWY5ZjUzXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "zecebg16s747",
+            "id3": ""
+        },
+        {
             "country": "Igra Sudbine (2020-)",
             "channel": "[B][COLOR deepskyblue]---Sezona 07---[/B][/COLOR]",
             "logo": "https://upload.wikimedia.org/wikipedia/sr/thumb/c/ce/Igra_sudbine_logo.jpg/640px-Igra_sudbine_logo.jpg",
@@ -6030,7 +6041,7 @@
             "id2": "terxantfovuc",
             "id3": ""
         },
-		{
+        {
             "country": "Igra Sudbine (2020-)",
             "channel": "[I][COLOR white]S08 Epizoda 117[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
@@ -6054,7 +6065,7 @@
             "id2": "dsm722iarxsd",
             "id3": ""
         },
-		{
+        {
             "country": "Igra Sudbine (2020-)",
             "channel": "[I][COLOR white]S08 Epizoda 120[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
@@ -6070,7 +6081,7 @@
             "id2": "ghaw8wlgy5nr",
             "id3": ""
         },
-		{
+        {
             "country": "Igra Sudbine (2020-)",
             "channel": "[I][COLOR white]S08 Epizoda 122[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
@@ -6078,7 +6089,7 @@
             "id2": "unyedvwsjpf1",
             "id3": ""
         },
-		{
+        {
             "country": "Igra Sudbine (2020-)",
             "channel": "[I][COLOR white]S08 Epizoda 123[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
@@ -6102,12 +6113,20 @@
             "id2": "5lwbzifkb2ph",
             "id3": ""
         },
-		{
+        {
             "country": "Igra Sudbine (2020-)",
             "channel": "[I][COLOR white]S08 Epizoda 126[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "sa5wecq1sm8o",
+            "id3": ""
+        },
+        {
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S08 Epizoda 127[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "88nmm4n7g7sy",
             "id3": ""
         },
         {
@@ -6757,6 +6776,14 @@
             "id1": "",
             "id2": "p3l62qipir1n",
             "id3": "hi6nutidnzkn"
+        },
+        {
+            "country": "U dobru i zlu (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 81[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDJmODcwYWQtZmNjZS00OTg5LWFiODAtMGViZDg3Y2QyZWQ0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "vsv5yyxc6wx6",
+            "id3": ""
         },
         {
             "country": "Sjene proslosti (2024)",
@@ -7510,7 +7537,7 @@
             "id2": "cz7kk2373ijt",
             "id3": ""
         },
-		{
+        {
             "country": "Sjene proslosti (2024)",
             "channel": "[I][COLOR white]S01 Epizoda 94[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -7518,7 +7545,7 @@
             "id2": "xdgczyp59dtq",
             "id3": ""
         },
-		{
+        {
             "country": "Sjene proslosti (2024)",
             "channel": "[I][COLOR white]S01 Epizoda 95[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -7526,7 +7553,7 @@
             "id2": "4th0g4g6oacy",
             "id3": ""
         },
-		{
+        {
             "country": "Sjene proslosti (2024)",
             "channel": "[I][COLOR white]S01 Epizoda 96[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -7534,7 +7561,7 @@
             "id2": "bdwf4d7149o5",
             "id3": ""
         },
-		{
+        {
             "country": "Sjene proslosti (2024)",
             "channel": "[I][COLOR white]S01 Epizoda 97[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -7542,12 +7569,28 @@
             "id2": "cb079njb9506",
             "id3": ""
         },
-		{
+        {
             "country": "Sjene proslosti (2024)",
             "channel": "[I][COLOR white]S01 Epizoda 98[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "3dduw2fwg34w",
+            "id3": ""
+        },
+        {
+            "country": "Sjene proslosti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 99[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "vjerrz6ozxgq",
+            "id3": ""
+        },
+        {
+            "country": "Sjene proslosti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 100[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "mbfpgbtgxp26",
             "id3": ""
         },
         {
@@ -8478,7 +8521,7 @@
             "id2": "v0jzrk4hu9ux",
             "id3": ""
         },
-		{
+        {
             "country": "Mrkomir I (2021)",
             "channel": "[I][COLOR white]S04 Epizoda 14[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYWJiZTU0MWUtYzJmMi00MjBhLWExMmMtMGVlN2Y1MDYwZGZmXkEyXkFqcGc@._V1_.jpg",
@@ -9086,7 +9129,7 @@
             "id2": "3mw4edw3hw31",
             "id3": ""
         },
-		{
+        {
             "country": "Na rubu pameti (2022)",
             "channel": "[I][COLOR white]S03 Epizoda 22[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BNTFlNGVjNzQtOGNhNy00NWU3LWEwNjQtYjY0YjU2YjcyMmU1XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
@@ -9102,7 +9145,7 @@
             "id2": "cs282tbki09t",
             "id3": ""
         },
-		{
+        {
             "country": "Na rubu pameti (2022)",
             "channel": "[I][COLOR white]S03 Epizoda 24[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BNTFlNGVjNzQtOGNhNy00NWU3LWEwNjQtYjY0YjU2YjcyMmU1XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg\n",
@@ -9110,7 +9153,7 @@
             "id2": "6a3y61lbih81",
             "id3": ""
         },
-		{
+        {
             "country": "Na rubu pameti (2022)",
             "channel": "[I][COLOR white]S03 Epizoda 25[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BNTFlNGVjNzQtOGNhNy00NWU3LWEwNjQtYjY0YjU2YjcyMmU1XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
@@ -11622,7 +11665,7 @@
             "id2": "755r92dk46on",
             "id3": ""
         },
-		{
+        {
             "country": "Radio Mileva (2021)",
             "channel": "[I][COLOR white]S05 Epizoda 25[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMjcwMWEwZTEtYjQyZC00Njk4LWE4NTItN2Y2Njk3ZDA2ZTBlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -11630,7 +11673,7 @@
             "id2": "jbj9dwm3iecj",
             "id3": ""
         },
-		{
+        {
             "country": "Radio Mileva (2021)",
             "channel": "[I][COLOR white]S05 Epizoda 26[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMjcwMWEwZTEtYjQyZC00Njk4LWE4NTItN2Y2Njk3ZDA2ZTBlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -11638,7 +11681,7 @@
             "id2": "g9n6q3sffe1s",
             "id3": ""
         },
-		{
+        {
             "country": "Radio Mileva (2021)",
             "channel": "[I][COLOR white]S05 Epizoda 27[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMjcwMWEwZTEtYjQyZC00Njk4LWE4NTItN2Y2Njk3ZDA2ZTBlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -11646,7 +11689,7 @@
             "id2": "a147390pzy03",
             "id3": ""
         },
-		{
+        {
             "country": "Radio Mileva (2021)",
             "channel": "[I][COLOR white]S05 Epizoda 28[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMjcwMWEwZTEtYjQyZC00Njk4LWE4NTItN2Y2Njk3ZDA2ZTBlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -11654,12 +11697,20 @@
             "id2": "ay8x6wdsr2uz",
             "id3": ""
         },
-		{
+        {
             "country": "Radio Mileva (2021)",
             "channel": "[I][COLOR white]S05 Epizoda 29[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMjcwMWEwZTEtYjQyZC00Njk4LWE4NTItN2Y2Njk3ZDA2ZTBlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "8a9n5frth88g",
+            "id3": ""
+        },
+        {
+            "country": "Radio Mileva (2021)",
+            "channel": "[I][COLOR white]S05 Epizoda 30[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjcwMWEwZTEtYjQyZC00Njk4LWE4NTItN2Y2Njk3ZDA2ZTBlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "d901rexrdz1q",
             "id3": ""
         },
         {
@@ -13278,7 +13329,7 @@
             "id2": "h3945zglxh26",
             "id3": ""
         },
-		{
+        {
             "country": "Urgentni centar (2014-)",
             "channel": "[I][COLOR white]S04 Epizoda 53[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYmVkNjkxNWEtZTQyYS00MmE1LThhNmItZGFiNzFhNTIwNTczXkEyXkFqcGc@._V1_.jpg",
@@ -13294,7 +13345,7 @@
             "id2": "h1kz6mn55tws",
             "id3": ""
         },
-		{
+        {
             "country": "Urgentni centar (2014-)",
             "channel": "[I][COLOR white]S04 Epizoda 55[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYmVkNjkxNWEtZTQyYS00MmE1LThhNmItZGFiNzFhNTIwNTczXkEyXkFqcGc@._V1_.jpg",
@@ -13302,7 +13353,7 @@
             "id2": "xda90mkofm1t",
             "id3": ""
         },
-		{
+        {
             "country": "Urgentni centar (2014-)",
             "channel": "[I][COLOR white]S04 Epizoda 56[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYmVkNjkxNWEtZTQyYS00MmE1LThhNmItZGFiNzFhNTIwNTczXkEyXkFqcGc@._V1_.jpg",
@@ -13310,7 +13361,7 @@
             "id2": "z7wo5rds5i9i",
             "id3": ""
         },
-		{
+        {
             "country": "Urgentni centar (2014-)",
             "channel": "[I][COLOR white]S04 Epizoda 57[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYmVkNjkxNWEtZTQyYS00MmE1LThhNmItZGFiNzFhNTIwNTczXkEyXkFqcGc@._V1_.jpg",
@@ -13318,7 +13369,7 @@
             "id2": "oevs2p13o5rf",
             "id3": ""
         },
-		{
+        {
             "country": "Urgentni centar (2014-)",
             "channel": "[I][COLOR white]S04 Epizoda 58[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYmVkNjkxNWEtZTQyYS00MmE1LThhNmItZGFiNzFhNTIwNTczXkEyXkFqcGc@._V1_.jpg",
@@ -13326,7 +13377,7 @@
             "id2": "lriaotpv2pl1",
             "id3": ""
         },
-		{
+        {
             "country": "Urgentni centar (2014-)",
             "channel": "[I][COLOR white]S04 Epizoda 59[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYmVkNjkxNWEtZTQyYS00MmE1LThhNmItZGFiNzFhNTIwNTczXkEyXkFqcGc@._V1_.jpg",
@@ -13334,12 +13385,20 @@
             "id2": "gkuwwko07tqv",
             "id3": ""
         },
-		{
+        {
             "country": "Urgentni centar (2014-)",
             "channel": "[I][COLOR white]S04 Epizoda 60[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYmVkNjkxNWEtZTQyYS00MmE1LThhNmItZGFiNzFhNTIwNTczXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "mxni47btesbn",
+            "id3": ""
+        },
+        {
+            "country": "Urgentni centar (2014-)",
+            "channel": "[I][COLOR white]S04 Epizoda 61[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYmVkNjkxNWEtZTQyYS00MmE1LThhNmItZGFiNzFhNTIwNTczXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "tb04wf5h5koj",
             "id3": ""
         },
         {
@@ -13846,7 +13905,7 @@
             "id2": "bedigxorelve",
             "id3": ""
         },
-		{
+        {
             "country": "Tajne (2013)",
             "channel": "[I][COLOR white]S01 Epizoda 029[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
@@ -13878,7 +13937,7 @@
             "id2": "6wvw5g8ybv47",
             "id3": ""
         },
-		{
+        {
             "country": "Tajne (2013)",
             "channel": "[I][COLOR white]S01 Epizoda 033[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
@@ -13886,7 +13945,7 @@
             "id2": "7p27jgr9b74m",
             "id3": ""
         },
-		{
+        {
             "country": "Tajne (2013)",
             "channel": "[I][COLOR white]S01 Epizoda 034[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
@@ -13894,7 +13953,7 @@
             "id2": "h4udtmoha7h5",
             "id3": ""
         },
-		{
+        {
             "country": "Tajne (2013)",
             "channel": "[I][COLOR white]S01 Epizoda 035[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
@@ -13910,7 +13969,7 @@
             "id2": "vbmhk2jb299z",
             "id3": ""
         },
-		{
+        {
             "country": "Tajne (2013)",
             "channel": "[I][COLOR white]S01 Epizoda 037[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
@@ -13918,12 +13977,28 @@
             "id2": "oz0lbqxtiioi",
             "id3": ""
         },
-		{
+        {
             "country": "Tajne (2013)",
             "channel": "[I][COLOR white]S01 Epizoda 038[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "k7lgixphv03b",
+            "id3": ""
+        },
+        {
+            "country": "Tajne (2013)",
+            "channel": "[I][COLOR white]S01 Epizoda 039[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "um99kpeqbdfn",
+            "id3": ""
+        },
+        {
+            "country": "Tajne (2013)",
+            "channel": "[I][COLOR white]S01 Epizoda 040[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "qjnq0oxuf8my",
             "id3": ""
         },
         {
@@ -13958,7 +14033,7 @@
             "id2": "4edt5eqcwn31",
             "id3": ""
         },
-		{
+        {
             "country": "Kafana Na Balkanu (2025)",
             "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYWViM2NjZDEtZmJlZi00YjU5LTg4NDUtMTY2ZTBlMjA2ZGVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -13966,7 +14041,7 @@
             "id2": "rswyolbkrden",
             "id3": ""
         },
-		{
+        {
             "country": "Kafana Na Balkanu (2025)",
             "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYWViM2NjZDEtZmJlZi00YjU5LTg4NDUtMTY2ZTBlMjA2ZGVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -13974,7 +14049,7 @@
             "id2": "gt50d2g63v9o",
             "id3": ""
         },
-		{
+        {
             "country": "Kafana Na Balkanu (2025)",
             "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYWViM2NjZDEtZmJlZi00YjU5LTg4NDUtMTY2ZTBlMjA2ZGVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -13982,7 +14057,7 @@
             "id2": "vqgu079d0s17",
             "id3": ""
         },
-		{
+        {
             "country": "Kafana Na Balkanu (2025)",
             "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYWViM2NjZDEtZmJlZi00YjU5LTg4NDUtMTY2ZTBlMjA2ZGVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -13990,7 +14065,7 @@
             "id2": "38eu67bhuzfw",
             "id3": ""
         },
-		 {
+        {
             "country": "Kafana Na Balkanu (2025)",
             "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYWViM2NjZDEtZmJlZi00YjU5LTg4NDUtMTY2ZTBlMjA2ZGVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -13998,7 +14073,15 @@
             "id2": "7rq278ys2odr",
             "id3": ""
         },
-		{
+        {
+            "country": "Kafana Na Balkanu (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWViM2NjZDEtZmJlZi00YjU5LTg4NDUtMTY2ZTBlMjA2ZGVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "n2db8zoc3moy",
+            "id3": ""
+        },
+        {
             "country": "Otmica (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BY2JmYzc5YjMtZDNiOS00YzRiLWI0N2ItYjRiZWNiNTI5YjE0XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
@@ -14014,7 +14097,7 @@
             "id2": "ok057p8ra4pq",
             "id3": ""
         },
-		{
+        {
             "country": "Otmica (2025)",
             "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BY2JmYzc5YjMtZDNiOS00YzRiLWI0N2ItYjRiZWNiNTI5YjE0XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
@@ -14022,7 +14105,7 @@
             "id2": "ya6h7487w493",
             "id3": ""
         },
-		{
+        {
             "country": "Otmica (2025)",
             "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BY2JmYzc5YjMtZDNiOS00YzRiLWI0N2ItYjRiZWNiNTI5YjE0XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
@@ -14030,7 +14113,7 @@
             "id2": "ak02ib6613is",
             "id3": ""
         },
-		{
+        {
             "country": "Otmica (2025)",
             "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BY2JmYzc5YjMtZDNiOS00YzRiLWI0N2ItYjRiZWNiNTI5YjE0XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
@@ -14038,7 +14121,7 @@
             "id2": "jtjploag6b3x",
             "id3": ""
         },
-		{
+        {
             "country": "Kamiondzije d.o.o. (2020)",
             "channel": "[B][COLOR deepskyblue]---Sezona 02---[/B][/COLOR]",
             "logo": "https://domaceserije.net/slika/kamiondzije-doo.jpg",
@@ -14414,7 +14497,7 @@
             "id2": "dmg8v6kibp4r",
             "id3": "iv5fyqn20ui2"
         },
-		{
+        {
             "country": "Kamiondzije d.o.o. (2020)",
             "channel": "[B][COLOR deepskyblue]---Sezona 04---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZjQ2MTU3M2QtYjEyNi00NDVkLTlkNWUtZjZkODg3YjAwYWI0XkEyXkFqcGc@._V1_.jpg",
@@ -14430,12 +14513,1460 @@
             "id2": "37gjbxmd1s8m",
             "id3": ""
         },
-		{
+        {
             "country": "Kamiondzije d.o.o. (2020)",
             "channel": "[I][COLOR white]S04 Epizoda 02[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZjQ2MTU3M2QtYjEyNi00NDVkLTlkNWUtZjZkODg3YjAwYWI0XkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "cd8rh2xdz1cm",
+            "id3": ""
+        },
+		{
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "welf80h9b8yq",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "w5jh3cd3ihg3",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ki6xgq1g0s3a",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "jltrkoa903ud",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "rc4q7pi7g1gj",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "hhghpe9yrd44",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "34w63l4ww6bz",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "nnlpmq4uaqt3",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "cmek5bvhzd8w",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 10[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "hqy99mvxofiq",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 11[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "a2osjkennzsf",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 12[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "z57xitoyaz1a",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 13[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "rz7qn41wzfb1",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 14[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "wy8pn5p4dfa6",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 15[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "hlyq8s8z2zii",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 16[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "xcf6dvr6tkz8",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 17[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "m1r2mlqfle2z",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 18[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "8e6fxmtyq46n",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 19[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "501r3g5bj9wv",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 20[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "h7lmkzj0y3f1",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 21[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "09hmsviy0rkz",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 22[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "qhtd72f582f4",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 23[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "m7b5dfw4hmln",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 24[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "bp7bfvt5wrhu",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 25[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "c1yjxhbkyxr3",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 26[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "gjkgbc26wj7c",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 27[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "5rmzungr3obn",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 28[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "rrmfvo5g9xzw",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 29[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "8hxlfw75aowh",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 30[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "u2i6panch2py",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 31[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "1twcexsd46dg",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 32[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "jkctmlucafhw",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 33[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "zkuwn9u6fjph",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 34[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "z7e24q7yvo6e",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 35[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "owf3y5w2o1ci",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 36[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "vx1lw9qq8cx9",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 37[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "0arp516xprvm",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 38[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "rr68dl8sle56",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 39[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "g27koqedscby",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 40[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "m45cszwq8du8",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 41[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "llq8hj8gnttp",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 42[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ueqtmrvw23yr",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 43[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "rjoucp5q0qgx",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 44[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ixderfz796ef",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 45[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "2pui9tabqgaq",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 46[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ynczo77azvyz",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 47[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "pgbgliuwkatw",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 48[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "cx5ap68832xw",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 49[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "pk9gn9pvgkwh",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 50[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "15hih3ukyiau",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 51[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "c29yufvobl0t",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 52[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "egz57nmb9z29",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 53[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "blesl07bxlka",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 54[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "p3e086fixn2n",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 55[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "a163l7841od6",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 56[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "1hbm6q61cpny",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 57[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "dv9eq8lsd137",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 58[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "39p3nbshv17h",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 59[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "t45f6rt268se",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 60[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "e6fcplq1lyyo",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 61[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "tzzdhvb5vlhi",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 62[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "bmmbsp36uzal",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 63[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "gvmfj7ncv8qv",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 64[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "bbp9amh51mso",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 65[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "l3pzuspfr4lb",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 66[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "kcnvs0i58wmi",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 67[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "gu6p5omjphuf",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 68[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "m7zpu1kxviyi",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 69[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "a794y0k8ozc3",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 70[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "pw44lbt9xuic",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 71[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "pvrpe651t9s6",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 72[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "qvtzj6ebjv6k",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 73[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "q2ma3mquimua",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 74[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "lvqdjb5dxqbu",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 75[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "09qve0mwclzz",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 76[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "64ojzhkv1fj7",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 77[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "il4i4e213wz2",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 78[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "3zk3vsm12osc",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 79[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "vz4n3eshuh6s",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 80[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "mpsi8rbrzme5",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 81[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "55d62q6jhoqs",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 82[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "vv4eyoyjukfa",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 83[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "d4sk750nb1f5",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 84[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "gr3mmuo9cmm6",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 85[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "yeiljtryku7j",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 86[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "zpkjh8zozvk4",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 87[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "wvqli7t7tboo",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 88[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "cwt3nyzsta3y",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 89[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "46muxlzji88n",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 90[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "28ya8sbyr7qc",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 91[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ascfv2tcd805",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 92[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "fctdvoo2ep21",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 93[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "mpu9hgz9y791",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 94[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "w00qoz4lyg1y",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 95[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "yz6pv47axlkw",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 96[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "lmx4szci5izd",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 97[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "1waj01gdi40s",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 98[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "tr7xcs8sfaaz",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 99[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "miqvnexdndtu",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 100[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "k9jnob5z4swv",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 101[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "aapa5674qu34",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 102[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "t3hhwv49f40a",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 103[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "44wrfvsauibv",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 104[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "602o85wl6evy",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 105[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "nkew1wh6o7kv",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 106[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "fsi4ea7fbggf",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 107[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "k47sc80nsixr",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 108[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "9aushnqus9fq",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 109[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "v8lm6xt49xsu",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 110[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "a11fyekb1cbd",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 111[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "culgvhbiskq8",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 112[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "rh5gytvw8222",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 113[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "pyjzexaa4n1n",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 114[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "qlw69od9tuwr",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 115[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "pmta0qu8fyxh",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 116[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "8gm2tdmh16sw",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 117[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "56p9i6c9jk4v",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 118[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "r55s1pdejdyz",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 119[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "iszuhypvoq5d",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 120[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "gdn1ocofb6dq",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 121[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "7v1lbqo57vgh",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 122[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "6zfvlelx60ej",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 123[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "36b08v851qik",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 124[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "h8fesklgg55m",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 125[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "bdkzzhvnkfuh",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 126[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "xirm1fsegq4f",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 127[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "41ama9ma5hjv",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 128[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "lgwotn95n67v",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 129[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "u6tc7qn4zaei",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 130[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ie5o83muu88a",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 131[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "32wbqtkhzgge",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 132[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "n6ree1mnbr2z",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 133[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "zgxvpltpdkfe",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 134[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "9m7kldxdm7lt",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 135[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "amgqmb9mx03x",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 136[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "x8pvn708ddx1",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 137[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "k5pakb9ar7xt",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 138[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "da6bb3auacvo",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 139[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "qyga9d1zwli1",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 140[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "crp9ugp09scg",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 141[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ffxsgek80w3w",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 142[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "hta8p9qtzy1q",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 143[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "19ajektsxbxz",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 144[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "bqtfcvg7qp1h",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 145[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "gid47dhery9e",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 146[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "u7nhzc72hql4",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 147[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ctzgq3crqe82",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 148[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "pnieyspxl3cs",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 149[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "hklkshyc28a3",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 150[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "6h29u3kt9hur",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 151[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "jz8bsgc3ip5j",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 152[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "eewwleoviqf9",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 153[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "gjqdrloy19sk",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 154[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "1udpscnp3ij2",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 155[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "4tss76eqv0pr",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 156[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "sq1z38xgnsm9",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 157[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "8v4viapppzq6",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 158[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "8vdct0em6rh0",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 159[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "xcirdk3z9iew",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 160[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "1b326weqmsgb",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 161[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "8eq2oenjr9k7",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 162[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "hqgti9povyfx",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 163[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "zu6t47gcmrbv",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 164[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "t76yfpyoqsr0",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 165[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "mktczsjkdjqr",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 166[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "b4xaltb1xv8g",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 167[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "xpcmp9llyz27",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 168[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "mpx9x0t4uhgv",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 169[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "vekx88chs3lq",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 170[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "frfffyau7vp1",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 171[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "g9kwvpba8ifm",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 172[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "eeelxcngs593",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 173[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "cvrt4e8z01vz",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 174[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "f32m43jgcdy0",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 175[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "bzfpq5hh22ub",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 176[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "f0wka65txgij",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 177[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "flmyclacox8x",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 178[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "3yamupfl3u7q",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 179[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "kc57dmbvihcm",
+            "id3": ""
+        },
+        {
+            "country": "Pogresan Covjek (2018)",
+            "channel": "[I][COLOR white]S01 Epizoda 180[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTExZjEwZWUtZmQ2MC00NGM3LThiZTQtMDIzODkyZWViMDU2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "50pgk4kt52md",
             "id3": ""
         }
     ]
