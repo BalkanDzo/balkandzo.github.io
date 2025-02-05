@@ -37,6 +37,14 @@
     "channels": [
         {
             "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Wolf Man (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTAxYTE3ZDgtOGM0Zi00MzI1LThhMjUtN2M3NTdjNzMzMGNlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "tggi78uel4pt",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
             "channel": "Sniper The Last Stand (2025)",
             "logo": "https://m.media-amazon.com/images/M/MV5BMjk3ZjBjZjYtMDQ0ZC00MjBiLWE0YTktZjAzYmYyNzdiMTk1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",

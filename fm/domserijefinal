@@ -1093,6 +1093,33 @@
         },
         {
             "country": "Bila Jednom Jedna Zemlja (1995)"
+        },
+        {
+            "country": "Dnevnik Velikog Perice (2021)"
+        },
+        {
+            "country": "Izazov (2024)"
+        },
+        {
+            "country": "Krunska 11 (2024)"
+        },
+        {
+            "country": "Nedelja (2024)"
+        },
+        {
+            "country": "Sablja (2024)"
+        },
+        {
+            "country": "Sram (2024)"
+        },
+        {
+            "country": "Sto Se Bore Misli Moje (2023)"
+        },
+        {
+            "country": "Vreme Smrti (2024)"
+        },
+        {
+            "country": "Zbornica (2022)"
         }
     ],
     "channels": [
@@ -21399,6 +21426,22 @@
             "id1": "",
             "id2": "fnpdktpclq8g",
             "id3": "gt21arg8g539"
+        },
+        {
+            "country": "Branilac (2021)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 03---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGFlYmU2OGQtNDQ2ZC00MzkzLTg0M2EtZjliOTVkOTEzMDk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Branilac (2021)",
+            "channel": "[I][COLOR white]S03 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGFlYmU2OGQtNDQ2ZC00MzkzLTg0M2EtZjliOTVkOTEzMDk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "46o7y46nzkg5",
+            "id3": ""
         },
         {
             "country": "Bunar (2022)",
@@ -44904,7 +44947,7 @@
             "id2": "jec38dfbaj1u",
             "id3": "a6dkz242vhy2"
         },
-		{
+        {
             "country": "Pevacica (2021)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZGI4OWQ5ODItN2RlMi00YWUxLWE4ZTMtNGE4MzBiNTQ2YmVhXkEyXkFqcGc@._V1_.jpg",
@@ -53152,7 +53195,7 @@
             "id2": "ay10bcw7fwne",
             "id3": ""
         },
-		{
+        {
             "country": "Bila Jednom Jedna Zemlja (1995)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://static.titlovi.com/img/0231/231088-tt0319957.jpg",
@@ -86255,6 +86298,1662 @@
             "id1": "",
             "id2": "bcne8d00ddzk",
             "id3": "4zkd2xcl3mvy"
+        },
+		{
+            "country": "Dnevnik Velikog Perice (2021)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTIwZTllMjYtODNkOS00YmJmLWI4Y2MtMzMyYmE5MjdmMGIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Dnevnik Velikog Perice (2021)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTIwZTllMjYtODNkOS00YmJmLWI4Y2MtMzMyYmE5MjdmMGIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "0qpaq8pdb40m",
+            "id3": "zblrrf7kauso"
+        },
+        {
+            "country": "Dnevnik Velikog Perice (2021)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTIwZTllMjYtODNkOS00YmJmLWI4Y2MtMzMyYmE5MjdmMGIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "pclj5ozahk66",
+            "id3": "1041kkg56yhm"
+        },
+        {
+            "country": "Dnevnik Velikog Perice (2021)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTIwZTllMjYtODNkOS00YmJmLWI4Y2MtMzMyYmE5MjdmMGIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "9805uf93hicr",
+            "id3": "gu55bhj90rqw"
+        },
+        {
+            "country": "Dnevnik Velikog Perice (2021)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTIwZTllMjYtODNkOS00YmJmLWI4Y2MtMzMyYmE5MjdmMGIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "xqh8ohcnasf3",
+            "id3": "6h6g3fbbubu9"
+        },
+        {
+            "country": "Dnevnik Velikog Perice (2021)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTIwZTllMjYtODNkOS00YmJmLWI4Y2MtMzMyYmE5MjdmMGIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "0x5s4nbxd3pj",
+            "id3": "7g32cerhro7s"
+        },
+        {
+            "country": "Dnevnik Velikog Perice (2021)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTIwZTllMjYtODNkOS00YmJmLWI4Y2MtMzMyYmE5MjdmMGIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "m3dq0nnfr9do",
+            "id3": "9pf90djccry7"
+        },
+        {
+            "country": "Dnevnik Velikog Perice (2021)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 02---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTIwZTllMjYtODNkOS00YmJmLWI4Y2MtMzMyYmE5MjdmMGIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Dnevnik Velikog Perice (2021)",
+            "channel": "[I][COLOR white]S02 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTIwZTllMjYtODNkOS00YmJmLWI4Y2MtMzMyYmE5MjdmMGIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "rk8rkysg9xzy",
+            "id3": "19xlre6u96k0"
+        },
+        {
+            "country": "Dnevnik Velikog Perice (2021)",
+            "channel": "[I][COLOR white]S02 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTIwZTllMjYtODNkOS00YmJmLWI4Y2MtMzMyYmE5MjdmMGIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "yt2ngmdltimn",
+            "id3": "00gmn49kmpaz"
+        },
+        {
+            "country": "Dnevnik Velikog Perice (2021)",
+            "channel": "[I][COLOR white]S02 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTIwZTllMjYtODNkOS00YmJmLWI4Y2MtMzMyYmE5MjdmMGIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "8usj0pcx3f6m",
+            "id3": "jayx6reazg2x"
+        },
+        {
+            "country": "Dnevnik Velikog Perice (2021)",
+            "channel": "[I][COLOR white]S02 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTIwZTllMjYtODNkOS00YmJmLWI4Y2MtMzMyYmE5MjdmMGIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "gdu70ble7915",
+            "id3": "27jo3c6vee4d"
+        },
+        {
+            "country": "Dnevnik Velikog Perice (2021)",
+            "channel": "[I][COLOR white]S02 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTIwZTllMjYtODNkOS00YmJmLWI4Y2MtMzMyYmE5MjdmMGIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "kw23hh9e3cae",
+            "id3": "j96crz85k1nh"
+        },
+        {
+            "country": "Dnevnik Velikog Perice (2021)",
+            "channel": "[I][COLOR white]S02 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTIwZTllMjYtODNkOS00YmJmLWI4Y2MtMzMyYmE5MjdmMGIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "7kgpoeftg3zu",
+            "id3": "q4n3ciauwit6"
+        },
+        {
+            "country": "Sto Se Bore Misli Moje (2023)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://lokalinfo.rs/wp-content/uploads/2023/09/MV5BZjY0YzY4NDEtNDkyNy00YWYyLWI2YmQtMDlmNzc0YjFhYzUyXkEyXkFqcGdeQXVyMjM5MTg4MjQ@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Sto Se Bore Misli Moje (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://lokalinfo.rs/wp-content/uploads/2023/09/MV5BZjY0YzY4NDEtNDkyNy00YWYyLWI2YmQtMDlmNzc0YjFhYzUyXkEyXkFqcGdeQXVyMjM5MTg4MjQ@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "75aoq5gx7mnq",
+            "id3": "ykupyayn4niw"
+        },
+        {
+            "country": "Sto Se Bore Misli Moje (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://lokalinfo.rs/wp-content/uploads/2023/09/MV5BZjY0YzY4NDEtNDkyNy00YWYyLWI2YmQtMDlmNzc0YjFhYzUyXkEyXkFqcGdeQXVyMjM5MTg4MjQ@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "s7q1e4geml5s",
+            "id3": "nkc8pddjago0"
+        },
+        {
+            "country": "Sto Se Bore Misli Moje (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://lokalinfo.rs/wp-content/uploads/2023/09/MV5BZjY0YzY4NDEtNDkyNy00YWYyLWI2YmQtMDlmNzc0YjFhYzUyXkEyXkFqcGdeQXVyMjM5MTg4MjQ@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "m2eaamp8jtv7",
+            "id3": "nvwc77c8lwtk"
+        },
+        {
+            "country": "Sto Se Bore Misli Moje (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://lokalinfo.rs/wp-content/uploads/2023/09/MV5BZjY0YzY4NDEtNDkyNy00YWYyLWI2YmQtMDlmNzc0YjFhYzUyXkEyXkFqcGdeQXVyMjM5MTg4MjQ@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "rfe1c8xijw3k",
+            "id3": "kkiez70fizhq"
+        },
+        {
+            "country": "Sto Se Bore Misli Moje (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://lokalinfo.rs/wp-content/uploads/2023/09/MV5BZjY0YzY4NDEtNDkyNy00YWYyLWI2YmQtMDlmNzc0YjFhYzUyXkEyXkFqcGdeQXVyMjM5MTg4MjQ@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "4obf9f85leet",
+            "id3": "te7j4bjf3d3x"
+        },
+        {
+            "country": "Sto Se Bore Misli Moje (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://lokalinfo.rs/wp-content/uploads/2023/09/MV5BZjY0YzY4NDEtNDkyNy00YWYyLWI2YmQtMDlmNzc0YjFhYzUyXkEyXkFqcGdeQXVyMjM5MTg4MjQ@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "tscos2mwzj1b",
+            "id3": "q74krgyib0u3"
+        },
+        {
+            "country": "Sto Se Bore Misli Moje (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://lokalinfo.rs/wp-content/uploads/2023/09/MV5BZjY0YzY4NDEtNDkyNy00YWYyLWI2YmQtMDlmNzc0YjFhYzUyXkEyXkFqcGdeQXVyMjM5MTg4MjQ@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "2sck8pzpj7ll",
+            "id3": "laep2ele8ils"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "4r67d05i8zxr",
+            "id3": "wo4zwqiivvhi"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "cy01hg6s9f72",
+            "id3": "arnf7jsxa0x0"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "94l9targz0jy",
+            "id3": "jglti63v89xq"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "qscdz84662gb",
+            "id3": "zxhlzobioqhg"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "i4c7eu1z7gf5",
+            "id3": "7lp99h45xeb1"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "q2b1dum4ztid",
+            "id3": "cq92r6dmtggf"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "dr0rpsv0n09n",
+            "id3": "o7czqi093hix"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "ynudxl5f3qgz",
+            "id3": "1epi2deh5cuh"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 09[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "wthfwxli1w9e",
+            "id3": "gah0voe4ab81"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 10[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "945owj654qc2",
+            "id3": "8ws7gm4qr5l7"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 11[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "5qubjp4oa0ob",
+            "id3": "tvkbfqr76yg5"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 12[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "dn62rdvzlstk",
+            "id3": "i4ebx0urlq4r"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 13[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "7xa3qrm8oeh9",
+            "id3": "e0xa4m11b2x9"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 14[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "1n8a4pewroio",
+            "id3": "fcqfkzwoq561"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 15[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "lxxzma3g6opb",
+            "id3": "to8wktrxky4f"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 16[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "z8o3scff1q77",
+            "id3": "tr8g5n1sxk4t"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 17[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "xqxu977pzsyp",
+            "id3": "ibc9ny0cuilr"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 18[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "1czdf411zm4g",
+            "id3": "0ys598i40igu"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 19[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "hb7ae9res6zu",
+            "id3": "34tx3glmiqem"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 20[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "1js142t8j9jn",
+            "id3": "t329s4ssuyap"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 21[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "d0p22jx3p8et",
+            "id3": "w0ecln72gob2"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 22[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "4os0q1pmgldw",
+            "id3": "jsmb8blp0714"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 23[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "qfxy9ps9gcxj",
+            "id3": "n35q1xwxkpcd"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 24[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "um7c0qesctkr",
+            "id3": "o2i98eftne0u"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 25[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "fmmlpi669pcf",
+            "id3": "qpegieqftcdd"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 26[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "70dlntgoz9iw",
+            "id3": "j5l4tnadc3zl"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 27[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "1yvbwixzgz3c",
+            "id3": "2bdg01twtqpu"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 28[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "0d8l82z7am10",
+            "id3": "myd1typ9gay8"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 29[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "b95b90fnjxqc",
+            "id3": "r9aegp4vudqa"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 30[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "obdt8oxktlrq",
+            "id3": "7b1mkkyfpbwe"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 31[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "60h3gub6xyfr",
+            "id3": "ty4mi4hpb2lj"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 32[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "uy0l8t9gfqb8",
+            "id3": "8j80vikj495x"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 33[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "t5gim6juiy27",
+            "id3": "b5oa5rf8o8rj"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 34[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "hs0df5oj7ff6",
+            "id3": "rc3o330blj00"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 35[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "q2d0t7t2y31h",
+            "id3": "ix42k1av2a5z"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 36[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "0xlwh6kxc0ks",
+            "id3": "kseo6dtg1h6v"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 37[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "67jges7t4jg5",
+            "id3": "h6kt4l9n59sv"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 38[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "yajpyac39upg",
+            "id3": "t4xg5ty0uji6"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 39[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "2woth9tmrx8x",
+            "id3": "xdvavlg4f3fx"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 40[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "kn2q72ne4kax",
+            "id3": "rmmktlzz8a1n"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 41[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "k1ss3e2k29hv",
+            "id3": "7eszj5azw4lh"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 42[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "72pv5kb7za8j",
+            "id3": "3eql76mq9q34"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 43[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "vh1ornmr1jg7",
+            "id3": "bsc9ihex2ykx"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 44[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "ciu6du20j355",
+            "id3": "8qvzq4k20kim"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 45[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "cw5rtdb7t2a4",
+            "id3": "sf524inrs9sz"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 46[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "4zhagno66olk",
+            "id3": "x8ps8isa5i8a"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 47[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "rmmddfdpvwq6",
+            "id3": "ef0f5mxvzipc"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 48[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "jw9l8ghey06z",
+            "id3": "f0vdnf26m0xz"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 49[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "gus4jhpfl93i",
+            "id3": "jip46ssm1mrn"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S01 Epizoda 50[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "qduqhhcvayd3",
+            "id3": "e9k1hysfbrhe"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 02---[/B][/COLOR]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 01[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "4zp3wmaewc0c",
+            "id3": "ej37aggdpm2o"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 02[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "oyk06979m2qz",
+            "id3": "mpyqk793n61j"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 03[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "oud5zsge59f7",
+            "id3": "869aq4n592ff"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 04[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "r2c2zy65xa11",
+            "id3": "vx5a93v56hob"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 05[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "b6jzeyffquny",
+            "id3": "5t6ycbmkpazg"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 06[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "r8vno8jbrzun",
+            "id3": "2g69v9necjaa"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 07[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "21z72pdbxa9e",
+            "id3": "r4bs614u8ytx"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 08[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "zvjmew3nuhx1",
+            "id3": "x5xzqex393fj"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 09[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "ksqzchb65zps",
+            "id3": "hpg4gs79b2i5"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 10[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "gfjg4wxhblin",
+            "id3": "8zepxyb7d8kp"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 11[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "ieiub2qt0l1a",
+            "id3": "zt78i11xfvcg"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 12[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "xadpjwe7r11e",
+            "id3": "wcdsgnei538s"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 13[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "xgs2qkq07vc7",
+            "id3": "lgkdoaexqd24"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 14[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "0ikq27117odk",
+            "id3": "px31zgcg71co"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 15[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "y5iuwmw49ler",
+            "id3": "o82fa4bssig1"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 16[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "o4y4ffhqrpsd",
+            "id3": "iqk5a5sbt67p"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 17[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "2hsaosgcykof",
+            "id3": "1n9jrolensgh"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 18[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "kn0l5tyq3dqy",
+            "id3": "bbvahnthd2fz"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 19[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "5dj2ou2yvtu4",
+            "id3": "xtvw132abbwb"
+        },
+        {
+            "country": "Zbornica (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 20[/COLOR][/I]",
+            "logo": "https://www.b92.net/news/pics/2022/05/25/790354800628e115a2f229053816040_full_width.jpeg",
+            "id1": "",
+            "id2": "x1muka7ldnem",
+            "id3": "d34bwx5ey4f5"
+        },
+		{
+            "country": "Vreme Smrti (2024)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://izprveruke.rs/wp-content/uploads/2024/03/Vreme-smrti-serija-TV-Nova-SBB.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://izprveruke.rs/wp-content/uploads/2024/03/Vreme-smrti-serija-TV-Nova-SBB.jpg",
+            "id1": "",
+            "id2": "c1sr3ok3dl5z",
+            "id3": "9ztp7kxw3kxj"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://izprveruke.rs/wp-content/uploads/2024/03/Vreme-smrti-serija-TV-Nova-SBB.jpg",
+            "id1": "",
+            "id2": "z01zptvc06q2",
+            "id3": "32x4i7k25od7"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://izprveruke.rs/wp-content/uploads/2024/03/Vreme-smrti-serija-TV-Nova-SBB.jpg",
+            "id1": "",
+            "id2": "xmdyhvjptt8s",
+            "id3": "93zjogxvi6dz"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://izprveruke.rs/wp-content/uploads/2024/03/Vreme-smrti-serija-TV-Nova-SBB.jpg",
+            "id1": "",
+            "id2": "wm5vswllqrar",
+            "id3": "jjd27tiwc5iz"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://izprveruke.rs/wp-content/uploads/2024/03/Vreme-smrti-serija-TV-Nova-SBB.jpg",
+            "id1": "",
+            "id2": "l6p43gvxzk7z",
+            "id3": "8re0d5jg05eq"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://izprveruke.rs/wp-content/uploads/2024/03/Vreme-smrti-serija-TV-Nova-SBB.jpg",
+            "id1": "",
+            "id2": "jeaxrt79fw34",
+            "id3": "narzarm4gwtb"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://izprveruke.rs/wp-content/uploads/2024/03/Vreme-smrti-serija-TV-Nova-SBB.jpg",
+            "id1": "",
+            "id2": "wmcuem649k28",
+            "id3": "1u2sf2em9i2k"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://izprveruke.rs/wp-content/uploads/2024/03/Vreme-smrti-serija-TV-Nova-SBB.jpg",
+            "id1": "",
+            "id2": "36f6nuw8s3bz",
+            "id3": "tz6m7650etvy"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 09[/COLOR][/I]",
+            "logo": "https://izprveruke.rs/wp-content/uploads/2024/03/Vreme-smrti-serija-TV-Nova-SBB.jpg",
+            "id1": "",
+            "id2": "zm1agn48xbiq",
+            "id3": "age9938m3iyv"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 10[/COLOR][/I]",
+            "logo": "https://izprveruke.rs/wp-content/uploads/2024/03/Vreme-smrti-serija-TV-Nova-SBB.jpg",
+            "id1": "",
+            "id2": "ifb3g47dg556",
+            "id3": "aewi8ztdt9mq"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 11[/COLOR][/I]",
+            "logo": "https://izprveruke.rs/wp-content/uploads/2024/03/Vreme-smrti-serija-TV-Nova-SBB.jpg",
+            "id1": "",
+            "id2": "laz22v3iujxm",
+            "id3": "yaf071ei96sz"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 12[/COLOR][/I]",
+            "logo": "https://izprveruke.rs/wp-content/uploads/2024/03/Vreme-smrti-serija-TV-Nova-SBB.jpg",
+            "id1": "",
+            "id2": "dkvu6et360ny",
+            "id3": "n3sz0nowy4gv"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 13[/COLOR][/I]",
+            "logo": "https://izprveruke.rs/wp-content/uploads/2024/03/Vreme-smrti-serija-TV-Nova-SBB.jpg",
+            "id1": "",
+            "id2": "rg255mwbqyf3",
+            "id3": "c5msr8ljnqk6"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 14[/COLOR][/I]",
+            "logo": "https://izprveruke.rs/wp-content/uploads/2024/03/Vreme-smrti-serija-TV-Nova-SBB.jpg",
+            "id1": "",
+            "id2": "m6jnme6b3tw3",
+            "id3": "uko8z4g9bwu2"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 15[/COLOR][/I]",
+            "logo": "https://izprveruke.rs/wp-content/uploads/2024/03/Vreme-smrti-serija-TV-Nova-SBB.jpg",
+            "id1": "",
+            "id2": "m5vjhbhx3zls",
+            "id3": "8ht37su6jrzx"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 16[/COLOR][/I]",
+            "logo": "https://izprveruke.rs/wp-content/uploads/2024/03/Vreme-smrti-serija-TV-Nova-SBB.jpg",
+            "id1": "",
+            "id2": "td9gis0wnlha",
+            "id3": "rsmiq28lz8lk"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 17[/COLOR][/I]",
+            "logo": "https://izprveruke.rs/wp-content/uploads/2024/03/Vreme-smrti-serija-TV-Nova-SBB.jpg",
+            "id1": "",
+            "id2": "xa7sx8add89g",
+            "id3": "p5wkq9wm573t"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 18[/COLOR][/I]",
+            "logo": "https://izprveruke.rs/wp-content/uploads/2024/03/Vreme-smrti-serija-TV-Nova-SBB.jpg",
+            "id1": "",
+            "id2": "m4f524ax42os",
+            "id3": "ub6a0v3msenr"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 19[/COLOR][/I]",
+            "logo": "https://izprveruke.rs/wp-content/uploads/2024/03/Vreme-smrti-serija-TV-Nova-SBB.jpg",
+            "id1": "",
+            "id2": "866iexc7756c",
+            "id3": "olmj3bntdnuz"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 20[/COLOR][/I]",
+            "logo": "https://izprveruke.rs/wp-content/uploads/2024/03/Vreme-smrti-serija-TV-Nova-SBB.jpg",
+            "id1": "",
+            "id2": "zvgx2mitvg3t",
+            "id3": "ycksnscq6sws"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 21[/COLOR][/I]",
+            "logo": "https://izprveruke.rs/wp-content/uploads/2024/03/Vreme-smrti-serija-TV-Nova-SBB.jpg",
+            "id1": "",
+            "id2": "ot4hwjde5l2j",
+            "id3": "jldzx9y7wo3r"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 22[/COLOR][/I]",
+            "logo": "https://izprveruke.rs/wp-content/uploads/2024/03/Vreme-smrti-serija-TV-Nova-SBB.jpg",
+            "id1": "",
+            "id2": "oqf4xx2540dy",
+            "id3": "dqyd325ccijg"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 23[/COLOR][/I]",
+            "logo": "https://izprveruke.rs/wp-content/uploads/2024/03/Vreme-smrti-serija-TV-Nova-SBB.jpg",
+            "id1": "",
+            "id2": "u508wlf8u7rq",
+            "id3": "tsbmwhvuljl3"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 24[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmIyYzhjODQtOWM0OS00MjVhLThhNjItNmRlOTc4NWZiM2JkXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "upam6mjfxo6m",
+            "id3": "p8yn0wd2e9o7"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 25[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmIyYzhjODQtOWM0OS00MjVhLThhNjItNmRlOTc4NWZiM2JkXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "jhig7lnmmw43",
+            "id3": "cl62duxjt8bh"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 26[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmIyYzhjODQtOWM0OS00MjVhLThhNjItNmRlOTc4NWZiM2JkXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "4fg35qkajrda",
+            "id3": "w1hl4i8n0vhv"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 27[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmIyYzhjODQtOWM0OS00MjVhLThhNjItNmRlOTc4NWZiM2JkXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "4rbwemnfzbnu",
+            "id3": "epewlv1ab9or"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 28[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmIyYzhjODQtOWM0OS00MjVhLThhNjItNmRlOTc4NWZiM2JkXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "831q48bc05wh",
+            "id3": "erlx3oia1woz"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 29[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmIyYzhjODQtOWM0OS00MjVhLThhNjItNmRlOTc4NWZiM2JkXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "7qk3t67ivvbq",
+            "id3": "5mekrnj56l3s"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 30[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmIyYzhjODQtOWM0OS00MjVhLThhNjItNmRlOTc4NWZiM2JkXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ly0v4b5q2kit",
+            "id3": "mbi7h77zya5s"
+        },
+        {
+            "country": "Vreme Smrti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 31[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmIyYzhjODQtOWM0OS00MjVhLThhNjItNmRlOTc4NWZiM2JkXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ecv4adht81ya",
+            "id3": "6lu5alw3ogwg"
+        },
+        {
+            "country": "Izazov (2024)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://xdn.tf.rs/2024/12/30/serija-izazov-830x553.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Izazov (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://xdn.tf.rs/2024/12/30/serija-izazov-830x553.jpg",
+            "id1": "",
+            "id2": "arx8c7ers4n3",
+            "id3": ""
+        },
+		{
+            "country": "Krunska 11 (2024)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "y8avvfcvwr9k",
+            "id3": "4ypyttmxhiqf"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "tbn8x37ylsrq",
+            "id3": "eqidobe6vb2d"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "m3dsj35i2cvi",
+            "id3": "20h3q9f9u1nu"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "a5iy10sq5ydt",
+            "id3": "29bf2pjz2drr"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "3rumqcy3zpbn",
+            "id3": "hpybnaij4ptd"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "byzvivh9mqkm",
+            "id3": "c2u7hog62prw"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "7p2zel3193z7",
+            "id3": "71j9qt9jz0dg"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "efzav8dxeghd",
+            "id3": "ges1sflmgvlk"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 09[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "4726edu6hwa8",
+            "id3": "zyt2lp9l90it"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 10[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "4dqq5be57ttd",
+            "id3": "4l8i9irh42lq"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 11[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "ko3hns56enr6",
+            "id3": "rbglpkbw62v8"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 12[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "519j57kwg75g",
+            "id3": "og19aj4qkemo"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 13[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "95orf088mr6q",
+            "id3": "p8up44flq48b"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 14[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "wt0vda3o8bwk",
+            "id3": "j4o4syroul9n"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 15[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "u99noaxnxcfw",
+            "id3": "jkcoly8nrtq5"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 16[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "w78fyizpftoj",
+            "id3": "d4ws508oi1t5"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 17[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "96v3k1gtai74",
+            "id3": "rhyvjc8md79i"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 18[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "gsxyu7rz025z",
+            "id3": "t7j0xb3r9r24"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 19[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "8ij3mm234roq",
+            "id3": "y536cdafcq9g"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 20[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "ug44uq7zmj87",
+            "id3": "jsjmnrq46suo"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 21[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "y7wv8ad7ju29",
+            "id3": "g3tmlou3pri3"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 22[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "sv51j6rumguf",
+            "id3": "7iiyaaplhluw"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 23[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "f8vxry8nqmkr",
+            "id3": "6fo6md436u0j"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 24[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "0l2xk5g37rxc",
+            "id3": "ve2jxv6rui8y"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 25[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "fsznqv67nqnc",
+            "id3": "j3r50de6konc"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 26[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "t4wayfy2gy89",
+            "id3": "0zedx99qeckg"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 27[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "qznk1m600pb4",
+            "id3": "bgpzihfbuo1f"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 28[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "di3xwf6v6426",
+            "id3": "7ugz2jm24f1k"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 29[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "utx2zbvmsokq",
+            "id3": "zd3e45wxm753"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 30[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "wchn2k5iuq5a",
+            "id3": "yqnd2rybeexh"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 31[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "l8huh5f8kue7",
+            "id3": "7qyajzriktfy"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 32[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "rtjbidchidxa",
+            "id3": "wlgltpo8jcab"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 33[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "0p21vztjk7qu",
+            "id3": "fgdkl614qx6p"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 34[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "m3do3yfsjctu",
+            "id3": "ou561nlkgiih"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 35[/COLOR][/I]",
+            "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
+            "id1": "",
+            "id2": "4j3odkq4o69l",
+            "id3": "iz01mwpdyplj"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 36[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNTNiMGE3Y2MtYWQ2Ni00MzA3LWEwM2QtOTE5NmQ1ZDZjZGRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "le1xfn2m7h1j",
+            "id3": "xolw4j7hgv62"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 37[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNTNiMGE3Y2MtYWQ2Ni00MzA3LWEwM2QtOTE5NmQ1ZDZjZGRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "rieglsdqszya",
+            "id3": "z5ftx0mxzgcm"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 38[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNTNiMGE3Y2MtYWQ2Ni00MzA3LWEwM2QtOTE5NmQ1ZDZjZGRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "vhz8zicue8tj",
+            "id3": "etgkpoh3fvgm"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 39[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNTNiMGE3Y2MtYWQ2Ni00MzA3LWEwM2QtOTE5NmQ1ZDZjZGRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "o4v0iqmu8wqf",
+            "id3": "4ezx34ppmhlb"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 40[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNTNiMGE3Y2MtYWQ2Ni00MzA3LWEwM2QtOTE5NmQ1ZDZjZGRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "cwl7c9kd4fvp",
+            "id3": "w8ocsjvtwf6p"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 41[/COLOR][/I]",
+            "logo": "https://superstartv.rs/wp-content/uploads/2024/10/1000x563_5.jpg",
+            "id1": "",
+            "id2": "ofpc6cfnm4so",
+            "id3": "wwlv6fb19hbu"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 42[/COLOR][/I]",
+            "logo": "https://superstartv.rs/wp-content/uploads/2024/10/1000x563_5.jpg",
+            "id1": "",
+            "id2": "qp1ytuluptvx",
+            "id3": "48yn40twz00p"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 43[/COLOR][/I]",
+            "logo": "https://superstartv.rs/wp-content/uploads/2024/10/1000x563_5.jpg",
+            "id1": "",
+            "id2": "ivnmm68hc7mg",
+            "id3": "1g8c1j8jy974"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 44[/COLOR][/I]",
+            "logo": "https://superstartv.rs/wp-content/uploads/2024/10/1000x563_5.jpg",
+            "id1": "",
+            "id2": "sbr7058ztxts",
+            "id3": "rvm6307f6e86"
+        },
+        {
+            "country": "Krunska 11 (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 45[/COLOR][/I]",
+            "logo": "https://superstartv.rs/wp-content/uploads/2024/10/1000x563_5.jpg",
+            "id1": "",
+            "id2": "8gbip3p57ktj",
+            "id3": "gwan16770hod"
+        },
+		{
+            "country": "Sablja (2024)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTcyZjRjMjctNjZjNy00NDJhLTliNDYtNzZiZWQwOWZjNDg3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Sablja (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTcyZjRjMjctNjZjNy00NDJhLTliNDYtNzZiZWQwOWZjNDg3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "h8e2hyodn3pv",
+            "id3": ""
+        },
+        {
+            "country": "Sablja (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTcyZjRjMjctNjZjNy00NDJhLTliNDYtNzZiZWQwOWZjNDg3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "rcthknwca4nj",
+            "id3": ""
+        },
+        {
+            "country": "Sablja (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTcyZjRjMjctNjZjNy00NDJhLTliNDYtNzZiZWQwOWZjNDg3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "idcuwbpqohf7",
+            "id3": ""
+        },
+        {
+            "country": "Sablja (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTcyZjRjMjctNjZjNy00NDJhLTliNDYtNzZiZWQwOWZjNDg3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "utuuvkf4juld",
+            "id3": ""
+        },
+        {
+            "country": "Sablja (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTcyZjRjMjctNjZjNy00NDJhLTliNDYtNzZiZWQwOWZjNDg3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "h0ew0dsin5ww",
+            "id3": ""
+        },
+        {
+            "country": "Sablja (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTcyZjRjMjctNjZjNy00NDJhLTliNDYtNzZiZWQwOWZjNDg3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "qg8tnhrntt77",
+            "id3": ""
+        },
+        {
+            "country": "Sablja (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTcyZjRjMjctNjZjNy00NDJhLTliNDYtNzZiZWQwOWZjNDg3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "mhogo06d8yj7",
+            "id3": ""
+        },
+        {
+            "country": "Sablja (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTcyZjRjMjctNjZjNy00NDJhLTliNDYtNzZiZWQwOWZjNDg3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "8qeupgjfzngp",
+            "id3": ""
+        },
+        {
+            "country": "Sram (2024)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2M3YWViMDUtZGY1ZC00NzY0LThmMjAtMTY1YTRkNDUzYjdlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Sram (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2M3YWViMDUtZGY1ZC00NzY0LThmMjAtMTY1YTRkNDUzYjdlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "pxp65vov543u",
+            "id3": "oabvyxjgxp98"
+        },
+        {
+            "country": "Sram (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2M3YWViMDUtZGY1ZC00NzY0LThmMjAtMTY1YTRkNDUzYjdlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "b4m9lbdf4zax",
+            "id3": "4aqtfa849qn9"
+        },
+        {
+            "country": "Sram (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2M3YWViMDUtZGY1ZC00NzY0LThmMjAtMTY1YTRkNDUzYjdlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "y9rs7eiew71b",
+            "id3": "yh4obmoibw4i"
+        },
+        {
+            "country": "Sram (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2M3YWViMDUtZGY1ZC00NzY0LThmMjAtMTY1YTRkNDUzYjdlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "4gd1b1xokbw7",
+            "id3": "z6yzizmuzh6x"
+        },
+        {
+            "country": "Sram (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2M3YWViMDUtZGY1ZC00NzY0LThmMjAtMTY1YTRkNDUzYjdlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "x5cd48caacyg",
+            "id3": "23jm11v7zw3c"
+        },
+        {
+            "country": "Sram (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2M3YWViMDUtZGY1ZC00NzY0LThmMjAtMTY1YTRkNDUzYjdlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "kae4c8tf3mwe",
+            "id3": "2fmz15xh18yc"
+        },
+        {
+            "country": "Sram (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2M3YWViMDUtZGY1ZC00NzY0LThmMjAtMTY1YTRkNDUzYjdlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "6rm9oi46u3fx",
+            "id3": "hwx9wsesda7b"
+        },
+        {
+            "country": "Sram (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2M3YWViMDUtZGY1ZC00NzY0LThmMjAtMTY1YTRkNDUzYjdlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "bm7u0v21x9dl",
+            "id3": "5zfuiurg9yzk"
+        },
+        {
+            "country": "Sram (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2M3YWViMDUtZGY1ZC00NzY0LThmMjAtMTY1YTRkNDUzYjdlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "rszfd70wixp7",
+            "id3": "coi95x9zcvql"
+        },
+        {
+            "country": "Sram (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 10[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2M3YWViMDUtZGY1ZC00NzY0LThmMjAtMTY1YTRkNDUzYjdlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "0izu7g9e75ws",
+            "id3": "aov7qzx4jeve"
+        },
+        {
+            "country": "Nedelja (2024)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmM4YjE2YzAtZDRhNi00NDcxLTg5ZWEtNTZiY2EyNTY5YzAyXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Nedelja (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmM4YjE2YzAtZDRhNi00NDcxLTg5ZWEtNTZiY2EyNTY5YzAyXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "88r6dtrf93sb",
+            "id3": "quuouldst23c"
+        },
+        {
+            "country": "Nedelja (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmM4YjE2YzAtZDRhNi00NDcxLTg5ZWEtNTZiY2EyNTY5YzAyXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "za2d16mi9h3p",
+            "id3": "v9a4f5op4k1x"
+        },
+        {
+            "country": "Nedelja (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmM4YjE2YzAtZDRhNi00NDcxLTg5ZWEtNTZiY2EyNTY5YzAyXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "no09kehhhv1e",
+            "id3": "liwp88wqp8hj"
+        },
+        {
+            "country": "Nedelja (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmM4YjE2YzAtZDRhNi00NDcxLTg5ZWEtNTZiY2EyNTY5YzAyXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "xk4crb7papqm",
+            "id3": "xz4758pcx0ct"
+        },
+        {
+            "country": "Nedelja (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmM4YjE2YzAtZDRhNi00NDcxLTg5ZWEtNTZiY2EyNTY5YzAyXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "azzykd1oe5jh",
+            "id3": "2nci1jqopeh0"
+        },
+        {
+            "country": "Nedelja (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmM4YjE2YzAtZDRhNi00NDcxLTg5ZWEtNTZiY2EyNTY5YzAyXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "gk22oygemumr",
+            "id3": "5zd8n35zwmwn"
+        },
+        {
+            "country": "Nedelja (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmM4YjE2YzAtZDRhNi00NDcxLTg5ZWEtNTZiY2EyNTY5YzAyXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "6csm6t3brjk3",
+            "id3": "oe1hi9w23umq"
+        },
+        {
+            "country": "Nedelja (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmM4YjE2YzAtZDRhNi00NDcxLTg5ZWEtNTZiY2EyNTY5YzAyXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "58j7z3qcqflt",
+            "id3": "dorkgjucm6x4"
+        },
+        {
+            "country": "Nedelja (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmM4YjE2YzAtZDRhNi00NDcxLTg5ZWEtNTZiY2EyNTY5YzAyXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "6mouiesoi90i",
+            "id3": "8q992dq8bjqp"
+        },
+        {
+            "country": "Nedelja (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 10[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmM4YjE2YzAtZDRhNi00NDcxLTg5ZWEtNTZiY2EyNTY5YzAyXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "l3s7ns41yaym",
+            "id3": "psfq23t8d059"
+        },
+        {
+            "country": "Nedelja (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 11[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmM4YjE2YzAtZDRhNi00NDcxLTg5ZWEtNTZiY2EyNTY5YzAyXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "5082gchbefp5",
+            "id3": "5031efruld9o"
+        },
+        {
+            "country": "Nedelja (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 12[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmM4YjE2YzAtZDRhNi00NDcxLTg5ZWEtNTZiY2EyNTY5YzAyXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "sk90240hlnu6",
+            "id3": "wuksg69fcyb1"
         }
     ]
 }
