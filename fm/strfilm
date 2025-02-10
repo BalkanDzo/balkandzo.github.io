@@ -37,6 +37,14 @@
     "channels": [
         {
             "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "September 5 (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOWUxY2YyYzctYWY3Yi00ZGJjLTkzMDktZjYzMTIzZjNhNmM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "eos57ii7mdxl",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
             "channel": "Wolf Man (2025)",
             "logo": "https://m.media-amazon.com/images/M/MV5BYTAxYTE3ZDgtOGM0Zi00MzI1LThhMjUtN2M3NTdjNzMzMGNlXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
@@ -2210,6 +2218,30 @@
             "id1": "",
             "id2": "fm0czbwyomd4",
             "id3": "r3k6ax0rkl9u"
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Dilwale (2015)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjFjMzMxNDMtYWY0ZC00MWIyLTk0YjktM2ViZmVhZDE4ZmRiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ky14qel79y8v",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Bible Code part 1 (2008)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNjdhZGYyNTAtNWYzMy00N2I3LWI1YzYtOTZiYzkxMDg5NWQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "homldyca7k7j",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Bible Code part 2 (2008)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNjdhZGYyNTAtNWYzMy00N2I3LWI1YzYtOTZiYzkxMDg5NWQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "wlx2phl6y5a4",
+            "id3": ""
         },
 		{
             "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
