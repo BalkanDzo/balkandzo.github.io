@@ -62,6 +62,9 @@
         },
         {
             "country": "The Are Murders (2025)"
+        },
+        {
+            "country": "Cassandra (2025)"
         }
     ],
     "channels": [
@@ -2378,11 +2381,75 @@
             "id3": ""
         },
         {
+            "country": "Chicago P D (2014)",
+            "channel": "[I][COLOR white]S12 Epizoda 11[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2ZhMTljMTAtNGUxNC00NDMxLThiMDEtYjBiNzU3OGNmNmVlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "av8ir97pm59w",
+            "id3": ""
+        },
+        {
             "country": "Chicago P D (2014) ",
             "channel": "[I][COLOR white]S12 Epizoda 12[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BN2ZhMTljMTAtNGUxNC00NDMxLThiMDEtYjBiNzU3OGNmNmVlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "k4o9ito1m0im",
+            "id3": ""
+        },
+		{
+            "country": "Cassandra (2025)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjI3NjlhNDItOTBlZC00OTMwLWI0YzYtYmI3ZDY2MDdkMTIxXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Cassandra (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjI3NjlhNDItOTBlZC00OTMwLWI0YzYtYmI3ZDY2MDdkMTIxXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "jrk044jrm53h",
+            "id3": ""
+        },
+        {
+            "country": "Cassandra (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjI3NjlhNDItOTBlZC00OTMwLWI0YzYtYmI3ZDY2MDdkMTIxXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "08lvt6op6c8f",
+            "id3": ""
+        },
+        {
+            "country": "Cassandra (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjI3NjlhNDItOTBlZC00OTMwLWI0YzYtYmI3ZDY2MDdkMTIxXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "apnmapbmkjjg",
+            "id3": ""
+        },
+        {
+            "country": "Cassandra (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjI3NjlhNDItOTBlZC00OTMwLWI0YzYtYmI3ZDY2MDdkMTIxXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "iy8egmfogzus",
+            "id3": ""
+        },
+        {
+            "country": "Cassandra (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjI3NjlhNDItOTBlZC00OTMwLWI0YzYtYmI3ZDY2MDdkMTIxXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "r7zl0j5bx39r",
+            "id3": ""
+        },
+        {
+            "country": "Cassandra (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjI3NjlhNDItOTBlZC00OTMwLWI0YzYtYmI3ZDY2MDdkMTIxXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "bizhqys336kz",
             "id3": ""
         },
         {
@@ -6209,7 +6276,7 @@
             "id2": "fjyhbszy7oi7",
             "id3": ""
         },
-		{
+        {
             "country": "The Are Murders (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BNjhiMTRkMGMtNzQ0NS00N2MxLWI1MzMtNTJjNjM1YjZhYTYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
