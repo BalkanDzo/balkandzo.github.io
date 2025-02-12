@@ -165,6 +165,12 @@
         },
         {
             "country": "The Visitors"
+        },
+        {
+            "country": "007 James Bond"
+        },
+        {
+            "country": "Terence Hill and Bud Spencer"
         }
     ],
     "channels": [
@@ -2720,7 +2726,7 @@
             "id2": "1gzp1o304qtv",
             "id3": ""
         },
-		{
+        {
             "country": "The Visitors",
             "channel": "The Visitors (1993)",
             "logo": "https://m.media-amazon.com/images/M/MV5BMDQzNzAzZWUtOTczMS00OGNiLTlmYjQtOGQxM2VjNGJjNTRiXkEyXkFqcGc@._V1_.jpg",
@@ -2750,6 +2756,334 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BMDQzNzAzZWUtOTczMS00OGNiLTlmYjQtOGQxM2VjNGJjNTRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "qrw38rfquss7",
+            "id3": ""
+        },
+        {
+            "country": "007 James Bond",
+            "channel": "Dr. No (1962)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BM2Q0ODAxYTgtN2E3My00Yzc2LWI2NDUtOGU0YzgzYzM4OWMwXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "6rppbxuwofjg",
+            "id3": ""
+        },
+        {
+            "country": "007 James Bond",
+            "channel": "From Russia with Love (1963)",
+            "logo": "https://static.wikia.nocookie.net/jamesbond/images/c/c5/From_Russia_With_Love_Poster.jpg/revision/latest?cb=20220424221349",
+            "id1": "",
+            "id2": "4w3bm4hv2yy2",
+            "id3": ""
+        },
+        {
+            "country": "007 James Bond",
+            "channel": "Goldfinger (1964)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNmUyNWNhMTQtNTBhOC00YTNiLWIyZDktMDlhOWYwOWU5NTFlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "far0m2wwwql9",
+            "id3": ""
+        },
+        {
+            "country": "007 James Bond",
+            "channel": "Thunderball (1965)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZjJiYmRhZjUtZTg5Zi00YjYwLTlmZWYtODZhMzQzMWZlYTRhXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "rd26dh9ypp8h",
+            "id3": ""
+        },
+        {
+            "country": "007 James Bond",
+            "channel": "Casino Royale (1967)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjc2OGEwM2ItZjcxOC00ZGVhLTk5MmItMmZhNDQyNmViNTY2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "y7o1pqxs4fms",
+            "id3": ""
+        },
+        {
+            "country": "007 James Bond",
+            "channel": "You Only Live Twice (1967)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjhlMjg3NDctN2QzNC00N2ViLWJjYjYtMzcyZDdlMmI1MmU4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "d9tugg7rv5pw",
+            "id3": ""
+        },
+        {
+            "country": "007 James Bond",
+            "channel": "On Her Majesty's Secret Service (1969)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYmMzOWNlNDMtM2NjMC00NTAxLWE4ODYtNzMyNmY0MzM0OWNhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "v5o8yohco20z",
+            "id3": ""
+        },
+        {
+            "country": "007 James Bond",
+            "channel": "Diamonds Are Forever (1971)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTQ4NzkwMTEwMF5BMl5BanBnXkFtZTcwMTg4NTMzNA@@._V1_.jpg",
+            "id1": "",
+            "id2": "r7kxfj4ai5c1",
+            "id3": ""
+        },
+        {
+            "country": "007 James Bond",
+            "channel": "Live and Let Die (1973)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOGQ0OThkZGQtMzM4Zi00ZDc2LWE4ZWQtZGYyNjEzYzAzMTYzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "fkozsy6grl4k",
+            "id3": ""
+        },
+        {
+            "country": "007 James Bond",
+            "channel": "The Man with the Golden Gun (1974)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNzEzMzFiZDgtMWQ4YS00YmU1LWI5OTUtZjcwZmYyY2FlMTFhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "u1lh6mfc11dw",
+            "id3": ""
+        },
+        {
+            "country": "007 James Bond",
+            "channel": "The Spy Who Loved Me (1977)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOGQzNTIyYjAtNjAyNy00OTZhLTg4YmMtNzAyNjdiOTlhZDVlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "reh65gmuj0q0",
+            "id3": ""
+        },
+        {
+            "country": "007 James Bond",
+            "channel": "Moonraker (1979)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDM0YTZkNDQtYTU1ZC00MzUyLTlkMTYtYmM2ZjVlM2EyMjBhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "ogilso5f9qr8",
+            "id3": ""
+        },
+        {
+            "country": "007 James Bond",
+            "channel": "For Your Eyes Only (1981)",
+            "logo": "https://m.media-amazon.com/images/I/91XeDMpVzCL._AC_UF894,1000_QL80_.jpg",
+            "id1": "",
+            "id2": "rzj7wnryncbs",
+            "id3": ""
+        },
+        {
+            "country": "007 James Bond",
+            "channel": "Octopussy (1983)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOWZkNWVhMDItOTQwYy00ZDgwLTg3MGItMTcyOTk3OWZkMWIwXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "92ew6hbdanjo",
+            "id3": ""
+        },
+        {
+            "country": "007 James Bond",
+            "channel": "A View to a Kill (1985)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGEwYTZmOGUtODdkYy00Yjg0LWI3MzAtNjBkMzliYWJmM2QyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "e3ucpwvzakft",
+            "id3": ""
+        },
+        {
+            "country": "007 James Bond",
+            "channel": "The Living Daylights (1987)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNzU3NjJlZDItY2EzOC00NWU2LThiZjUtMTUzNjdiYmZlYWE0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "t5rpo4b88ab2",
+            "id3": ""
+        },
+        {
+            "country": "007 James Bond",
+            "channel": "Licence to Kill (1989)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjY3OWJkMjMtYTgwYS00MjJjLWE4M2ItOWVhOWMxNGM1NDk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "19k86grasyin",
+            "id3": ""
+        },
+        {
+            "country": "007 James Bond",
+            "channel": "GoldenEye (1995)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOGQxNmYyY2YtZGIyNy00ODgxLThhZWEtZGIyNjJhYzFlOTllXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "px7toqhriycd",
+            "id3": ""
+        },
+        {
+            "country": "007 James Bond",
+            "channel": "Tomorrow Never Dies (1997)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTM1MTk2ODQxNV5BMl5BanBnXkFtZTcwOTY5MDg0NA@@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "xb4g26pr00mp",
+            "id3": ""
+        },
+        {
+            "country": "007 James Bond",
+            "channel": "The World Is Not Enough (1999)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMDlmNTA0YmMtODJmMi00NTZhLTk4MzUtY2FiYjNhMmY4OTI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "t2zospaelah5",
+            "id3": ""
+        },
+        {
+            "country": "007 James Bond",
+            "channel": "Die Another Day (2002)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDZiYWFmOTQtMTQ5Yy00MzA3LWFlNzktZTVmMGQ1MDA4MjEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "rcydj0m2ahu4",
+            "id3": ""
+        },
+        {
+            "country": "007 James Bond",
+            "channel": "Casino Royale (2006)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTM5MjI4NDExNF5BMl5BanBnXkFtZTcwMDM1MjMzMQ@@._V1_.jpg",
+            "id1": "",
+            "id2": "deoflhlbvjzp",
+            "id3": ""
+        },
+        {
+            "country": "007 James Bond",
+            "channel": "Quantum of Solace (2008)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYmMwZTA3MTAtNWU0Yy00NGZmLTg0YmItZTVkZGFjZTI1ZWJiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "dd3wmz6zxfws",
+            "id3": ""
+        },
+        {
+            "country": "007 James Bond",
+            "channel": "Skyfall (2012)",
+            "logo": "https://static.kinoafisha.info/k/movie_posters/220/upload/movie_posters/3/0/3/8114303/766589371653465774.jpg",
+            "id1": "",
+            "id2": "tt3w7x1pxj2z",
+            "id3": ""
+        },
+        {
+            "country": "007 James Bond",
+            "channel": "Spectre (2015)",
+            "logo": "https://pics.filmaffinity.com/Spectre-683709494-large.jpg",
+            "id1": "",
+            "id2": "1e87ylop5yl1",
+            "id3": ""
+        },
+        {
+            "country": "007 James Bond",
+            "channel": "No Time to Die (2021)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZGZiOGZhZDQtZmRkNy00ZmUzLTliMGEtZGU0NjExOGMxZDVkXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "lb36c4szx6i6",
+            "id3": ""
+        },
+		{
+            "country": "Terence Hill and Bud Spencer",
+            "channel": "God Forgives... I Don't! (1967)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmRjYjIwZDAtODI1Zi00ZjdjLWFkODctY2ZlM2JhZjQ0NzAxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "c6wprpyohqyj",
+            "id3": ""
+        },
+        {
+            "country": "Terence Hill and Bud Spencer",
+            "channel": "Ace High (1968)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZjAzYjAzNDQtMDc1NS00NWI3LWEyZjEtZTE1Mjc0ZWNkZWIxXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ajk3llp5uekm",
+            "id3": ""
+        },
+        {
+            "country": "Terence Hill and Bud Spencer",
+            "channel": "They Call Me Trinity (1970)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNzZlNmRjYTYtZmZkYS00MjAxLWE2ZDEtZmEyZTIyODVhYzRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "jzp4qn9gw4rf",
+            "id3": ""
+        },
+        {
+            "country": "Terence Hill and Bud Spencer",
+            "channel": "Trinity Is Still My Name (1971)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYzdiMGQ0NDgtOWJkNy00ZDQ5LWI4YzgtOWFjNmViMmU2NjkxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "l7tzi9mja3s8",
+            "id3": ""
+        },
+        {
+            "country": "Terence Hill and Bud Spencer",
+            "channel": "Blackie the Pirate (1971)",
+            "logo": "https://images.justwatch.com/poster/143249176/s718/il-corsaro-nero.jpg",
+            "id1": "",
+            "id2": "jf2adk9j9ppn",
+            "id3": ""
+        },
+        {
+            "country": "Terence Hill and Bud Spencer",
+            "channel": "All the Way Boys (1972)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNTVkODhjZTgtZDgyOS00OTM0LWJhMDQtNDY3MzMxYzcyN2JjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "0q11iqpjmfll",
+            "id3": ""
+        },
+        {
+            "country": "Terence Hill and Bud Spencer",
+            "channel": "Watch Out, We're Mad (1974)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDdhMDRkYzItY2IzZC00Mzk1LWFmNWItNTM0YzVjYzU5OGMzXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "zktejxctwvx9",
+            "id3": ""
+        },
+        {
+            "country": "Terence Hill and Bud Spencer",
+            "channel": "A Genius, Two Partners and a Dupe (1975)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDY5YzU5ODQtZTNiNi00YjA2LTgxOGQtMTBiMzU4NTI1M2YyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "cfcr8att3x65",
+            "id3": ""
+        },
+        {
+            "country": "Terence Hill and Bud Spencer",
+            "channel": "Crime Busters (1977)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BM2RiYTQ5YzgtMzEyMC00NWI0LWI1NTctOWM3YmJkNDdjMmMyXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "fs097y0yqwey",
+            "id3": ""
+        },
+        {
+            "country": "Terence Hill and Bud Spencer",
+            "channel": "Odds and Evens (1978)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZjU0NGFkYzgtZDA3Ny00ZTk3LWExMjgtNTI5ZTMzZTkwNWQ4XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+            "id1": "",
+            "id2": "qxwcvxq3h08j",
+            "id3": ""
+        },
+        {
+            "country": "Terence Hill and Bud Spencer",
+            "channel": "I'm for the Hippopotamus (1979)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BM2JlNjI3Y2ItYzQ2MC00Nzg0LWE4MzMtM2RhN2Y2NzI1ODcyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "xjencdcay9v3",
+            "id3": ""
+        },
+        {
+            "country": "Terence Hill and Bud Spencer",
+            "channel": "Who Finds a Friend Finds a Treasure (1981)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOGE4MmY0MjAtNGI4Yi00ZTQ3LWI5OTgtYTllZTg2YzdhMTYzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "2pd3o8870a0y",
+            "id3": ""
+        },
+        {
+            "country": "Terence Hill and Bud Spencer",
+            "channel": "Banana Joe (1982)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYzVlYWU4YjQtNjM3ZC00OTllLWFmYTUtNDhhOTQ2NzRiZTgyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "nvqdsp7ng2kl",
+            "id3": ""
+        },
+        {
+            "country": "Terence Hill and Bud Spencer",
+            "channel": "Double Trouble (1984)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZjU0NGFkYzgtZDA3Ny00ZTk3LWExMjgtNTI5ZTMzZTkwNWQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "ech8j5iwdij6",
+            "id3": ""
+        },
+        {
+            "country": "Terence Hill and Bud Spencer",
+            "channel": "Miami Supercops (1985)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZTQ1YzM4NDctNTc4Yi00MWRhLTg2ZWUtMzhlNTlhMmViYWE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "sshoyapwstay",
             "id3": ""
         }
     ]

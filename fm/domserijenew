@@ -62,6 +62,9 @@
         },
         {
             "country": "Branilac (2021)"
+        },
+        {
+            "country": "Pasjaca (2025)"
         }
     ],
     "channels": [
@@ -4193,7 +4196,7 @@
             "id2": "yn6rziwpvkor",
             "id3": ""
         },
-		{
+        {
             "country": "Kumovi (2022-)",
             "channel": "[I][COLOR white]S05 Epizoda 020[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYmJhNDVhYTMtYmI5ZC00NmU0LTg4Y2EtMTI2MWU1NWY5ZjUzXkEyXkFqcGc@._V1_.jpg",
@@ -4201,7 +4204,7 @@
             "id2": "3yn7ewdrgm3p",
             "id3": ""
         },
-		{
+        {
             "country": "Kumovi (2022-)",
             "channel": "[I][COLOR white]S05 Epizoda 021[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYmJhNDVhYTMtYmI5ZC00NmU0LTg4Y2EtMTI2MWU1NWY5ZjUzXkEyXkFqcGc@._V1_.jpg",
@@ -4223,6 +4226,54 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BYmJhNDVhYTMtYmI5ZC00NmU0LTg4Y2EtMTI2MWU1NWY5ZjUzXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "r0o62jgc3qpj",
+            "id3": ""
+        },
+        {
+            "country": "Kumovi (2022-)",
+            "channel": "[I][COLOR white]S05 Epizoda 024[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYmJhNDVhYTMtYmI5ZC00NmU0LTg4Y2EtMTI2MWU1NWY5ZjUzXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "slo3wadgk488",
+            "id3": ""
+        },
+        {
+            "country": "Kumovi (2022-)",
+            "channel": "[I][COLOR white]S05 Epizoda 025[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYmJhNDVhYTMtYmI5ZC00NmU0LTg4Y2EtMTI2MWU1NWY5ZjUzXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "7s6zac5nhd6n",
+            "id3": ""
+        },
+		{
+            "country": "Kumovi (2022-)",
+            "channel": "[I][COLOR white]S05 Epizoda 026[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYmJhNDVhYTMtYmI5ZC00NmU0LTg4Y2EtMTI2MWU1NWY5ZjUzXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "9y602rb41hvl",
+            "id3": ""
+        },
+		{
+            "country": "Pasjaca (2025)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://superstartv.rs/wp-content/uploads/2025/01/Pasjaca_naslovna.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Pasjaca (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://superstartv.rs/wp-content/uploads/2025/01/Pasjaca_naslovna.jpg",
+            "id1": "",
+            "id2": "bxrdtf4iqgdy",
+            "id3": ""
+        },
+		{
+            "country": "Pasjaca (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOWYyZDg4OTktZDdmMy00N2E4LWFjNzQtN2FhNDU4M2Y0YzAzXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "87mo2747gck9",
             "id3": ""
         },
         {
@@ -6153,7 +6204,7 @@
             "id2": "jsi2y5aj8sx3",
             "id3": ""
         },
-		{
+        {
             "country": "Igra Sudbine (2020-)",
             "channel": "[I][COLOR white]S08 Epizoda 129[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpgigra",
@@ -6161,7 +6212,7 @@
             "id2": "tnr3qkzvr7wn",
             "id3": ""
         },
-		{
+        {
             "country": "Igra Sudbine (2020-)",
             "channel": "[I][COLOR white]S08 Epizoda 130[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
@@ -6177,12 +6228,36 @@
             "id2": "4jcxmha5irt4",
             "id3": ""
         },
-		{
+        {
             "country": "Igra Sudbine (2020-)",
             "channel": "[I][COLOR white]S08 Epizoda 132[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "lpa0tvjmv8r2",
+            "id3": ""
+        },
+        {
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S08 Epizoda 133[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "gmab00ed52lc",
+            "id3": ""
+        },
+        {
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S08 Epizoda 134[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "si4zobo6lkej",
+            "id3": ""
+        },
+		{
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S08 Epizoda 135[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "38l1e4kbwqhx",
             "id3": ""
         },
         {
@@ -6843,23 +6918,23 @@
         },
         {
             "country": "U dobru i zlu (2024)",
-            "channel": "[I][COLOR white]S01 Epizoda 082[/COLOR][/I]",
+            "channel": "[I][COLOR white]S01 Epizoda 82[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BNDJmODcwYWQtZmNjZS00OTg5LWFiODAtMGViZDg3Y2QyZWQ0XkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "igp6cmzlplkq",
             "id3": ""
         },
-		{
+        {
             "country": "U dobru i zlu (2024)",
-            "channel": "[I][COLOR white]S01 Epizoda 083[/COLOR][/I]",
+            "channel": "[I][COLOR white]S01 Epizoda 83[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BNDJmODcwYWQtZmNjZS00OTg5LWFiODAtMGViZDg3Y2QyZWQ0XkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "1chjfzcnw6q9",
             "id3": ""
         },
-		{
+        {
             "country": "U dobru i zlu (2024)",
-            "channel": "[I][COLOR white]S01 Epizoda 084[/COLOR][/I]",
+            "channel": "[I][COLOR white]S01 Epizoda 84[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BNDJmODcwYWQtZmNjZS00OTg5LWFiODAtMGViZDg3Y2QyZWQ0XkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "vr8ykccic8ln",
@@ -6867,10 +6942,26 @@
         },
         {
             "country": "U dobru i zlu (2024)",
-            "channel": "[I][COLOR white]S01 Epizoda 085[/COLOR][/I]",
+            "channel": "[I][COLOR white]S01 Epizoda 85[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BNDJmODcwYWQtZmNjZS00OTg5LWFiODAtMGViZDg3Y2QyZWQ0XkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "xw4ys8ff1v3y",
+            "id3": ""
+        },
+		{
+            "country": "U dobru i zlu (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 86[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDJmODcwYWQtZmNjZS00OTg5LWFiODAtMGViZDg3Y2QyZWQ0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "eosh1lrpxglv",
+            "id3": ""
+        },
+		{
+            "country": "U dobru i zlu (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 87[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDJmODcwYWQtZmNjZS00OTg5LWFiODAtMGViZDg3Y2QyZWQ0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "lb73ptvew2v9",
             "id3": ""
         },
         {
@@ -7689,7 +7780,7 @@
             "id2": "ybli2mw224h0",
             "id3": ""
         },
-		{
+        {
             "country": "Sjene proslosti (2024)",
             "channel": "[I][COLOR white]S01 Epizoda 102[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -7697,12 +7788,36 @@
             "id2": "olcofv29xzxy",
             "id3": ""
         },
-		{
+        {
             "country": "Sjene proslosti (2024)",
             "channel": "[I][COLOR white]S01 Epizoda 103[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "hsbv3s65qct7",
+            "id3": ""
+        },
+        {
+            "country": "Sjene proslosti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 104[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "j6c9be34kpy5",
+            "id3": ""
+        },
+		{
+            "country": "Sjene proslosti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 105[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "yhz1xv1ii1eg",
+            "id3": ""
+        },
+        {
+            "country": "Sjene proslosti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 106[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "bzxxtcj9hljp",
             "id3": ""
         },
         {
@@ -8273,7 +8388,7 @@
             "id2": "0r9qcyzx7l1x",
             "id3": ""
         },
-		{
+        {
             "country": "Mrkomir I (2021)",
             "channel": "[I][COLOR white]S04 Epizoda 15[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYWJiZTU0MWUtYzJmMi00MjBhLWExMmMtMGVlN2Y1MDYwZGZmXkEyXkFqcGc@._V1_.jpg",
@@ -8649,12 +8764,20 @@
             "id2": "tuiv2e74ufwi",
             "id3": ""
         },
-		{
+        {
             "country": "Na rubu pameti (2022)",
             "channel": "[I][COLOR white]S03 Epizoda 26[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BNTFlNGVjNzQtOGNhNy00NWU3LWEwNjQtYjY0YjU2YjcyMmU1XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
             "id1": "",
             "id2": "sulixo2am0f7",
+            "id3": ""
+        },
+        {
+            "country": "Na rubu pameti (2022)",
+            "channel": "[I][COLOR white]S03 Epizoda 27[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNTFlNGVjNzQtOGNhNy00NWU3LWEwNjQtYjY0YjU2YjcyMmU1XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+            "id1": "",
+            "id2": "oqhev2ex9enm",
             "id3": ""
         },
         {
@@ -10465,7 +10588,7 @@
             "id2": "6xciehjijxz1",
             "id3": ""
         },
-		{
+        {
             "country": "Radio Mileva (2021)",
             "channel": "[I][COLOR white]S05 Epizoda 32[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMjcwMWEwZTEtYjQyZC00Njk4LWE4NTItN2Y2Njk3ZDA2ZTBlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -10473,7 +10596,7 @@
             "id2": "4fhzcwdd9bn7",
             "id3": ""
         },
-		{
+        {
             "country": "Radio Mileva (2021)",
             "channel": "[I][COLOR white]S05 Epizoda 33[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMjcwMWEwZTEtYjQyZC00Njk4LWE4NTItN2Y2Njk3ZDA2ZTBlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -10487,6 +10610,22 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BMjcwMWEwZTEtYjQyZC00Njk4LWE4NTItN2Y2Njk3ZDA2ZTBlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "viw6inkveubh",
+            "id3": ""
+        },
+		{
+            "country": "Radio Mileva (2021)",
+            "channel": "[I][COLOR white]S05 Epizoda 35[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjcwMWEwZTEtYjQyZC00Njk4LWE4NTItN2Y2Njk3ZDA2ZTBlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "n2qw6y5x20v0",
+            "id3": ""
+        },
+		{
+            "country": "Radio Mileva (2021)",
+            "channel": "[I][COLOR white]S05 Epizoda 36[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjcwMWEwZTEtYjQyZC00Njk4LWE4NTItN2Y2Njk3ZDA2ZTBlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "nzawrrmado00",
             "id3": ""
         },
         {
@@ -12185,7 +12324,7 @@
             "id2": "sbpu4pbhh77x",
             "id3": ""
         },
-		{
+        {
             "country": "Urgentni centar (2014-)",
             "channel": "[I][COLOR white]S04 Epizoda 63[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYmVkNjkxNWEtZTQyYS00MmE1LThhNmItZGFiNzFhNTIwNTczXkEyXkFqcGc@._V1_.jpg",
@@ -12193,7 +12332,7 @@
             "id2": "jcbskwlzmoxe",
             "id3": ""
         },
-		{
+        {
             "country": "Urgentni centar (2014-)",
             "channel": "[I][COLOR white]S04 Epizoda 64[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYmVkNjkxNWEtZTQyYS00MmE1LThhNmItZGFiNzFhNTIwNTczXkEyXkFqcGc@._V1_.jpg",
@@ -12209,12 +12348,28 @@
             "id2": "rt3vhmlvy2vw",
             "id3": ""
         },
-		{
+        {
             "country": "Urgentni centar (2014-)",
             "channel": "[I][COLOR white]S04 Epizoda 66[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYmVkNjkxNWEtZTQyYS00MmE1LThhNmItZGFiNzFhNTIwNTczXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "kqr5ic8ka9dp",
+            "id3": ""
+        },
+		{
+            "country": "Urgentni centar (2014-)",
+            "channel": "[I][COLOR white]S04 Epizoda 67[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYmVkNjkxNWEtZTQyYS00MmE1LThhNmItZGFiNzFhNTIwNTczXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "shn7af2uwsvq",
+            "id3": ""
+        },
+		{
+            "country": "Urgentni centar (2014-)",
+            "channel": "[I][COLOR white]S04 Epizoda 68[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYmVkNjkxNWEtZTQyYS00MmE1LThhNmItZGFiNzFhNTIwNTczXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "8gcga1zrjoy2",
             "id3": ""
         },
         {
@@ -12545,7 +12700,7 @@
             "id2": "qjnq0oxuf8my",
             "id3": ""
         },
-		{
+        {
             "country": "Tajne (2013)",
             "channel": "[I][COLOR white]S01 Epizoda 043[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
@@ -12561,7 +12716,7 @@
             "id2": "owqns1a8ltan",
             "id3": ""
         },
-		{
+        {
             "country": "Tajne (2013)",
             "channel": "[I][COLOR white]S01 Epizoda 045[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
@@ -12575,6 +12730,30 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "niq6f4z9pt00",
+            "id3": ""
+        },
+		{
+            "country": "Tajne (2013)",
+            "channel": "[I][COLOR white]S01 Epizoda 047[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "fbu51x9zprqy",
+            "id3": ""
+        },
+        {
+            "country": "Tajne (2013)",
+            "channel": "[I][COLOR white]S01 Epizoda 048[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "czxbdzjd5pgh",
+            "id3": ""
+        },
+		{
+            "country": "Tajne (2013)",
+            "channel": "[I][COLOR white]S01 Epizoda 049[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "vgduxxo9g4tr",
             "id3": ""
         },
         {
@@ -12665,7 +12844,7 @@
             "id2": "8x03erkk4orv",
             "id3": ""
         },
-		{
+        {
             "country": "Kafana Na Balkanu (2025)",
             "channel": "[I][COLOR white]S01 Epizoda 11[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYWViM2NjZDEtZmJlZi00YjU5LTg4NDUtMTY2ZTBlMjA2ZGVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -12673,7 +12852,7 @@
             "id2": "df2wnzkjzq0s",
             "id3": ""
         },
-		{
+        {
             "country": "Kafana Na Balkanu (2025)",
             "channel": "[I][COLOR white]S01 Epizoda 12[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYWViM2NjZDEtZmJlZi00YjU5LTg4NDUtMTY2ZTBlMjA2ZGVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -12721,12 +12900,20 @@
             "id2": "jtjploag6b3x",
             "id3": ""
         },
-		{
+        {
             "country": "Otmica (2025)",
             "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BY2JmYzc5YjMtZDNiOS00YzRiLWI0N2ItYjRiZWNiNTI5YjE0XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
             "id1": "",
             "id2": "8e0o4p2mvm3v",
+            "id3": ""
+        },
+        {
+            "country": "Otmica (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2JmYzc5YjMtZDNiOS00YzRiLWI0N2ItYjRiZWNiNTI5YjE0XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+            "id1": "",
+            "id2": "koq7qcb67xbr",
             "id3": ""
         },
         {
@@ -13129,12 +13316,20 @@
             "id2": "cd8rh2xdz1cm",
             "id3": ""
         },
-		{
+        {
             "country": "Kamiondzije d.o.o. (2020)",
             "channel": "[I][COLOR white]S04 Epizoda 03[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZjQ2MTU3M2QtYjEyNi00NDVkLTlkNWUtZjZkODg3YjAwYWI0XkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "1xqqc0oubrr2",
+            "id3": ""
+        },
+        {
+            "country": "Kamiondzije d.o.o. (2020)",
+            "channel": "[I][COLOR white]S04 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZjQ2MTU3M2QtYjEyNi00NDVkLTlkNWUtZjZkODg3YjAwYWI0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "mlrtynhuvhib",
             "id3": ""
         },
         {
@@ -14783,6 +14978,14 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BNGFlYmU2OGQtNDQ2ZC00MzkzLTg0M2EtZjliOTVkOTEzMDk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "46o7y46nzkg5",
+            "id3": ""
+        },
+		{
+            "country": "Branilac (2021)",
+            "channel": "[I][COLOR white]S03 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGFlYmU2OGQtNDQ2ZC00MzkzLTg0M2EtZjliOTVkOTEzMDk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "nuupvck2xxdl",
             "id3": ""
         }
     ]
