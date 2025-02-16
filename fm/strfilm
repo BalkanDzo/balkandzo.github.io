@@ -37,6 +37,22 @@
     "channels": [
         {
             "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Flight Risk (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2Q3YjMyZjItNjdjNS00NzFjLTljMWYtMmZjMGQ5YTVjYWY5XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "jergxr3x44dw",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "The Gorge (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTQ5Y2QyYTktYmFmZi00NWJlLWE0MzgtYTA4M2I0ZjQwZjcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "hmnkhzh8z56b",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
             "channel": "September 5 (2024)",
             "logo": "https://m.media-amazon.com/images/M/MV5BOWUxY2YyYzctYWY3Yi00ZGJjLTkzMDktZjYzMTIzZjNhNmM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",

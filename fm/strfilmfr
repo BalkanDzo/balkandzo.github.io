@@ -171,6 +171,9 @@
         },
         {
             "country": "Terence Hill and Bud Spencer"
+        },
+        {
+            "country": "Species"
         }
     ],
     "channels": [
@@ -2966,7 +2969,7 @@
             "id2": "lb36c4szx6i6",
             "id3": ""
         },
-		{
+        {
             "country": "Terence Hill and Bud Spencer",
             "channel": "God Forgives... I Don't! (1967)",
             "logo": "https://m.media-amazon.com/images/M/MV5BMmRjYjIwZDAtODI1Zi00ZjdjLWFkODctY2ZlM2JhZjQ0NzAxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -3084,6 +3087,38 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BZTQ1YzM4NDctNTc4Yi00MWRhLTg2ZWUtMzhlNTlhMmViYWE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "sshoyapwstay",
+            "id3": ""
+        },
+		{
+            "country": "Species",
+            "channel": "Species (1995)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjEzOTkxNTcyM15BMl5BanBnXkFtZTcwOTk0MjI3NA@@._V1_.jpg",
+            "id1": "",
+            "id2": "g51hss3axfgi",
+            "id3": ""
+        },
+        {
+            "country": "Species",
+            "channel": "Species II (1998)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZmM0OTQyMzEtZGRjMS00NWVjLWFkOWMtNjg2ZDY4ZGQ0YWY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "hz18j3qp7vof",
+            "id3": ""
+        },
+        {
+            "country": "Species",
+            "channel": "Species III (2004)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTYzMzExODAzNl5BMl5BanBnXkFtZTcwMDI4MDM3NA@@._V1_.jpg",
+            "id1": "",
+            "id2": "bxlmq7jl1ent",
+            "id3": ""
+        },
+        {
+            "country": "Species",
+            "channel": "Species The Awakening (2007)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTMwNjA1OTAzOF5BMl5BanBnXkFtZTcwNjgxMTM4NA@@._V1_.jpg",
+            "id1": "",
+            "id2": "guc17a4e7h53",
             "id3": ""
         }
     ]
