@@ -61,9 +61,6 @@
             "country": "The Are Murders (2025)"
         },
         {
-            "country": "The Are Murders (2025)"
-        },
-        {
             "country": "Cassandra (2025)"
         }
     ],
@@ -170,6 +167,14 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BZWI5ZmE3ZjYtMGQzZS00ZWNhLThlNjYtYTRiY2UyYzg4ZDA0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "gi2bp31hb4aj",
+            "id3": ""
+        },
+		{
+            "country": "High Potential (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 13[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWI5ZmE3ZjYtMGQzZS00ZWNhLThlNjYtYTRiY2UyYzg4ZDA0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "3wufl804n7xg",
             "id3": ""
         },
         {
@@ -5244,6 +5249,14 @@
             "id2": "9jm2lwjc7856",
             "id3": ""
         },
+		{
+            "country": "Chicago Fire (2012)",
+            "channel": "[I][COLOR white]S11 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDgwYjlhMGItMDQ3YS00OGQyLWFiMTQtYzkwNTUzNjE4NzIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "gz5uxg4gxkpa",
+            "id3": ""
+        },
         {
             "country": "The Rookie (2018)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
@@ -6202,6 +6215,14 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "d941gzy4ykpg",
+            "id3": ""
+        },
+		{
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S07 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "rsuuw5vd6nvz",
             "id3": ""
         },
         {
