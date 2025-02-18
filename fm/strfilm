@@ -37,6 +37,14 @@
     "channels": [
         {
             "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "You're Cordially Invited (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGM3MzQwMWItNjM2Ny00NTkwLThkZWMtZmNiYTlhMGZlN2JhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "k2xs0ca5ueal",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
             "channel": "Flight Risk (2025)",
             "logo": "https://m.media-amazon.com/images/M/MV5BY2Q3YjMyZjItNjdjNS00NzFjLTljMWYtMmZjMGQ5YTVjYWY5XkEyXkFqcGc@._V1_.jpg",
             "id1": "",
@@ -2234,6 +2242,206 @@
             "id1": "",
             "id2": "fm0czbwyomd4",
             "id3": "r3k6ax0rkl9u"
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Dirty Dancing (1987)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZmIwZjA1NzUtNTA0OS00OWMyLWE5MzctM2RjOWYxZjQyZDdmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "z2ca3oettrur",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Life Is Beautiful (1997)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZTBhOGYzZjQtYzE0Mi00MGIwLWE0MWYtNzMxNTM2OTFkM2NjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "gxoogarvvwra",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "10 Things I Hate About You (1999)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTQwYmRhNGQtODI2Mi00ZTRlLTk0Y2QtY2NkNjE1MGNhNTgwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "4e10ym0xh707",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "When Harry Met Sally... (1989)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjE0ODEwNjM2NF5BMl5BanBnXkFtZTcwMjU2Mzg3NA@@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "rwh78e6nvnlb",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Princess Diaries (2001)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzNiYWQ4NjUtZjliMS00MTllLWIxNDItNGU1MjBkMTE3ODg1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "kqmn46w7vxz3",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "How to Lose a Guy in 10 Days (2003)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjE4NTA1NzExN15BMl5BanBnXkFtZTYwNjc3MjM3._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "qxm4rz67dokp",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Princess Diaries 2 Royal Engagement (2004)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZjM2YTgzZTQtODc4OS00MDNmLTg0YWQtMmYzZmVmODM2OThhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "f24hueqdr74c",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Notebook (2004)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZjE0ZjgzMzYtMTAxYi00NGMzLThmZDktNzFlMzA2MWRmYWQ0XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+            "id1": "",
+            "id2": "tkgnhc32ee90",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Pride and Prejudice (2005)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTA1NDQ3NTcyOTNeQTJeQWpwZ15BbWU3MDA0MzA4MzE@._V1_.jpg",
+            "id1": "",
+            "id2": "tctpy12qa4xn",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Dear John (2010)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTk1NDEzMTU5NV5BMl5BanBnXkFtZTcwNTI3MTk5Mg@@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "imr91xfyjtfg",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Like Crazy (2011)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjAzOTgyOTU4OF5BMl5BanBnXkFtZTcwNDYxMjcxNg@@._V1_.jpg",
+            "id1": "",
+            "id2": "mxoeh62cmjl5",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Lucky One (2012)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTg5NDk3MjAzMF5BMl5BanBnXkFtZTcwMjUyNzExNw@@._V1_.jpg",
+            "id1": "",
+            "id2": "tv7evz43kjje",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Remember Sunday (2013)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjMxMTM2OTEzM15BMl5BanBnXkFtZTcwMTU3MjgyOQ@@._V1_.jpg",
+            "id1": "",
+            "id2": "tuxznwih3a67",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Spectacular Now (2013)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA5MTc0NTkzM15BMl5BanBnXkFtZTcwODEwNjE3OQ@@._V1_.jpg",
+            "id1": "",
+            "id2": "n3wxdo9lsuwz",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Best of Me (2014)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzQ5Njg3Njk5N15BMl5BanBnXkFtZTgwODIwODIxMjE@._V1_QL75_UX190_CR0,8,190,281_.jpg",
+            "id1": "",
+            "id2": "pltpwoq34kpb",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Love, Rosie (2014)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTk0Mzg1MTU1MF5BMl5BanBnXkFtZTgwMjU3ODI2MzE@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "154xiisuib7x",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Kiss and Cry (2017)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOGIzNzMyYWQtZDljMi00YWY4LWE0NWYtY2RhZTJmN2VmNjQzXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "gbztdcqgpf2o",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Midnight Sun (2018)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjg0NjU1MjgyNF5BMl5BanBnXkFtZTgwNzc5NjYyNDM@._V1_.jpg",
+            "id1": "",
+            "id2": "jm2zwjvn6hn9",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Kissing Booth (2018)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNjQ0Mzk0OTE5MF5BMl5BanBnXkFtZTgwNDkyOTI0NTM@._V1_.jpg",
+            "id1": "",
+            "id2": "w2h86h892rj2",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Kissing Booth 2 (2020)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2IzODA4YTktZDkwOS00MTRkLWE3NjgtYjMwZTFlNTBhNjhjXkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+            "id1": "",
+            "id2": "c20pih246zx2",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Kissing Booth 3 (2021)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNWQyMTJiZWYtNzQ2Mi00Y2E1LThmNzgtNGU0ZjQ3NTg5YWRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "850o7pmxp6bv",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Purple Hearts (2022)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDA1M2FkYzEtZTNlNi00MGZlLThiMWEtMDNjMzk2NDA5YWY4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "42ssxbjdxwav",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Anyone But You (2023)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjQ0YTFhYTgtMmEzOC00NjA5LWE3ZTEtMWJiZjYwZjM2MGE2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "v6pmww0ncq9x",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Culpa Mia (2023)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNTI4ZWQ5YjYtMmYwMy00OWFmLWFmNDYtZGNlNWMxNTllZjc4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ei9clp6e6eee",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Culpa Tuya (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZjk2YTIyZTItYTEzNi00YzFiLWIzMDYtNmNjODFiY2FiZGQ2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "i0rq174gimpp",
+            "id3": ""
         },
 		{
             "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",

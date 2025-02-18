@@ -62,6 +62,9 @@
         },
         {
             "country": "Cassandra (2025)"
+        },
+        {
+            "country": "The White Lotus (2021)"
         }
     ],
     "channels": [
@@ -169,7 +172,7 @@
             "id2": "gi2bp31hb4aj",
             "id3": ""
         },
-		{
+        {
             "country": "High Potential (2024)",
             "channel": "[I][COLOR white]S01 Epizoda 13[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZWI5ZmE3ZjYtMGQzZS00ZWNhLThlNjYtYTRiY2UyYzg4ZDA0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -2401,7 +2404,7 @@
             "id2": "k4o9ito1m0im",
             "id3": ""
         },
-		{
+        {
             "country": "Cassandra (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYjI3NjlhNDItOTBlZC00OTMwLWI0YzYtYmI3ZDY2MDdkMTIxXkEyXkFqcGc@._V1_.jpg",
@@ -3105,7 +3108,7 @@
             "id2": "rdtbp2p8il92",
             "id3": ""
         },
-		{
+        {
             "country": "Dexter Original Sin (2024)",
             "channel": "[I][COLOR white]S01 Epizoda 10[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYTVlZjNhYjktMWYyNy00MmYyLTk3ZjctMDQwMWIwYjdkODc3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -3313,7 +3316,7 @@
             "id2": "7j6ctvqqnet3",
             "id3": ""
         },
-		{
+        {
             "country": "The Pitt (2025)",
             "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMTU3MDliMGEtMDQxNi00OTk1LTg1NWMtZDM2NmEwZDA1ZDk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -3353,7 +3356,7 @@
             "id2": "nseq4go7cr1o",
             "id3": ""
         },
-		{
+        {
             "country": "Doc (2025)",
             "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMzBlMzg3ODItZDAwMC00OGFlLTg5YTEtMGU2YmEwY2E5NDlhXkEyXkFqcGc@._V1_.jpg",
@@ -5241,7 +5244,7 @@
             "id2": "69v5e3klis1d",
             "id3": ""
         },
-		{
+        {
             "country": "Chicago Fire (2012)",
             "channel": "[I][COLOR white]S11 Epizoda 08[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZDgwYjlhMGItMDQ3YS00OGQyLWFiMTQtYzkwNTUzNjE4NzIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -5249,12 +5252,20 @@
             "id2": "9jm2lwjc7856",
             "id3": ""
         },
-		{
+        {
             "country": "Chicago Fire (2012)",
             "channel": "[I][COLOR white]S11 Epizoda 09[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZDgwYjlhMGItMDQ3YS00OGQyLWFiMTQtYzkwNTUzNjE4NzIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "gz5uxg4gxkpa",
+            "id3": ""
+        },
+        {
+            "country": "Chicago Fire (2012)",
+            "channel": "[I][COLOR white]S11 Epizoda 10[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDgwYjlhMGItMDQ3YS00OGQyLWFiMTQtYzkwNTUzNjE4NzIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "wmvxugj0svxy",
             "id3": ""
         },
         {
@@ -6217,7 +6228,7 @@
             "id2": "d941gzy4ykpg",
             "id3": ""
         },
-		{
+        {
             "country": "The Rookie (2018)",
             "channel": "[I][COLOR white]S07 Epizoda 06[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -6345,7 +6356,7 @@
             "id2": "fmcif44j2vp4",
             "id3": ""
         },
-		{
+        {
             "country": "Severance (2022)",
             "channel": "[I][COLOR white]S02 Epizoda 05[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -6377,12 +6388,156 @@
             "id2": "fjyhbszy7oi7",
             "id3": ""
         },
-		{
+        {
             "country": "Prime Target (2025)",
             "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BNGExZjExZjgtYzZkZi00OTljLWI1ZTgtMTdiN2E1NTA1YThjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "lxz1i3pvouqa",
+            "id3": ""
+        },
+        {
+            "country": "Prime Target (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGExZjExZjgtYzZkZi00OTljLWI1ZTgtMTdiN2E1NTA1YThjXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "mhdzni8pofz2",
+            "id3": ""
+        },
+        {
+            "country": "The White Lotus (2021)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://loyolamaroon.com/wp-content/uploads/2023/01/White-Lotus-S2-Rotten-Tomatoes.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "The White Lotus (2021)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://loyolamaroon.com/wp-content/uploads/2023/01/White-Lotus-S2-Rotten-Tomatoes.jpg",
+            "id1": "",
+            "id2": "82sbgpbivl84",
+            "id3": ""
+        },
+        {
+            "country": "The White Lotus (2021)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://loyolamaroon.com/wp-content/uploads/2023/01/White-Lotus-S2-Rotten-Tomatoes.jpg",
+            "id1": "",
+            "id2": "hynepj9637n6",
+            "id3": ""
+        },
+        {
+            "country": "The White Lotus (2021)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://loyolamaroon.com/wp-content/uploads/2023/01/White-Lotus-S2-Rotten-Tomatoes.jpg",
+            "id1": "",
+            "id2": "mmpq0veiwhgs",
+            "id3": ""
+        },
+        {
+            "country": "The White Lotus (2021)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://loyolamaroon.com/wp-content/uploads/2023/01/White-Lotus-S2-Rotten-Tomatoes.jpg",
+            "id1": "",
+            "id2": "w1m9ht1cqssw",
+            "id3": ""
+        },
+        {
+            "country": "The White Lotus (2021)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://loyolamaroon.com/wp-content/uploads/2023/01/White-Lotus-S2-Rotten-Tomatoes.jpg",
+            "id1": "",
+            "id2": "ofd4bye83azx",
+            "id3": ""
+        },
+        {
+            "country": "The White Lotus (2021)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://loyolamaroon.com/wp-content/uploads/2023/01/White-Lotus-S2-Rotten-Tomatoes.jpg",
+            "id1": "",
+            "id2": "o2tw2y99drr6",
+            "id3": ""
+        },
+        {
+            "country": "The White Lotus (2021)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 02---[/B][/COLOR]",
+            "logo": "https://loyolamaroon.com/wp-content/uploads/2023/01/White-Lotus-S2-Rotten-Tomatoes.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "The White Lotus (2021)",
+            "channel": "[I][COLOR white]S02 Epizoda 01[/COLOR][/I]",
+            "logo": "https://loyolamaroon.com/wp-content/uploads/2023/01/White-Lotus-S2-Rotten-Tomatoes.jpg",
+            "id1": "",
+            "id2": "glxkwb7mxmhm",
+            "id3": ""
+        },
+        {
+            "country": "The White Lotus (2021)",
+            "channel": "[I][COLOR white]S02 Epizoda 02[/COLOR][/I]",
+            "logo": "https://loyolamaroon.com/wp-content/uploads/2023/01/White-Lotus-S2-Rotten-Tomatoes.jpg",
+            "id1": "",
+            "id2": "1bx44fywiolf",
+            "id3": ""
+        },
+        {
+            "country": "The White Lotus (2021)",
+            "channel": "[I][COLOR white]S02 Epizoda 03[/COLOR][/I]",
+            "logo": "https://loyolamaroon.com/wp-content/uploads/2023/01/White-Lotus-S2-Rotten-Tomatoes.jpg",
+            "id1": "",
+            "id2": "v16dmrwsw9vt",
+            "id3": ""
+        },
+        {
+            "country": "The White Lotus (2021)",
+            "channel": "[I][COLOR white]S02 Epizoda 04[/COLOR][/I]",
+            "logo": "https://loyolamaroon.com/wp-content/uploads/2023/01/White-Lotus-S2-Rotten-Tomatoes.jpg",
+            "id1": "",
+            "id2": "4abjp6asix2z",
+            "id3": ""
+        },
+        {
+            "country": "The White Lotus (2021)",
+            "channel": "[I][COLOR white]S02 Epizoda 05[/COLOR][/I]",
+            "logo": "https://loyolamaroon.com/wp-content/uploads/2023/01/White-Lotus-S2-Rotten-Tomatoes.jpg",
+            "id1": "",
+            "id2": "l6g9a116blq1",
+            "id3": ""
+        },
+        {
+            "country": "The White Lotus (2021)",
+            "channel": "[I][COLOR white]S02 Epizoda 06[/COLOR][/I]",
+            "logo": "https://loyolamaroon.com/wp-content/uploads/2023/01/White-Lotus-S2-Rotten-Tomatoes.jpg",
+            "id1": "",
+            "id2": "4g033jmonl2r",
+            "id3": ""
+        },
+        {
+            "country": "The White Lotus (2021)",
+            "channel": "[I][COLOR white]S02 Epizoda 07[/COLOR][/I]",
+            "logo": "https://loyolamaroon.com/wp-content/uploads/2023/01/White-Lotus-S2-Rotten-Tomatoes.jpg",
+            "id1": "",
+            "id2": "k2i6c4u92f8p",
+            "id3": ""
+        },
+        {
+            "country": "The White Lotus (2021)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 03---[/B][/COLOR]",
+            "logo": "https://loyolamaroon.com/wp-content/uploads/2023/01/White-Lotus-S2-Rotten-Tomatoes.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "The White Lotus (2021)",
+            "channel": "[I][COLOR white]S03 Epizoda 01[/COLOR][/I]",
+            "logo": "https://loyolamaroon.com/wp-content/uploads/2023/01/White-Lotus-S2-Rotten-Tomatoes.jpg",
+            "id1": "",
+            "id2": "pqaabjnakd90",
             "id3": ""
         },
         {
