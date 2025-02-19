@@ -37,6 +37,14 @@
     "channels": [
         {
             "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Companion (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjkyZTA5NzAtYWU3Zi00MWM4LTgxNzAtNDQxY2JmNjMwYjk4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "gaevsn5jf9zg",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
             "channel": "You're Cordially Invited (2025)",
             "logo": "https://m.media-amazon.com/images/M/MV5BMGM3MzQwMWItNjM2Ny00NTkwLThkZWMtZmNiYTlhMGZlN2JhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
