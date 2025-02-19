@@ -3,7 +3,7 @@
 <channel>
   <title>BD Addon Updater</title>
   <item>
-    <title>Azuriran Tv/Film/Sport Addon: Dodat Mad Titan Sports. Azuriran BD Addon Updater. POKRENITE BD Addon Updater da azurirate addone.</title>
+    <title>Trenutno nema azuiranja addona. Sva azuriranja su dodata vec u Build 7.0</title>
   </item>
 </channel>
 </rss>
