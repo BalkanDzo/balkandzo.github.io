@@ -37,6 +37,30 @@
     "channels": [
         {
             "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Parthenope (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzE2NGQ1MTYtZWJlYi00ZTgyLWI0ZjMtOWQ2OGQ3NTNlM2QzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "zx7lwxw4z6s5",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Fight Another Day (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGVhYjc2YjYtZGQ1MS00N2UyLTljOTUtZGYyMmZmODdlYjU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "oyxv464xav3x",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Bridget Jones Mad About the Boy (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMDdlY2Y2ZWEtYjk4Mi00Yjg3LWFlM2MtMWI1ZjVlNGQ5NTNjXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "0337hk2u0evp",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
             "channel": "Companion (2025)",
             "logo": "https://m.media-amazon.com/images/M/MV5BYjkyZTA5NzAtYWU3Zi00MWM4LTgxNzAtNDQxY2JmNjMwYjk4XkEyXkFqcGc@._V1_.jpg",
             "id1": "",

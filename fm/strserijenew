@@ -65,6 +65,9 @@
         },
         {
             "country": "The White Lotus (2021)"
+        },
+        {
+            "country": "Zero Day (2025)"
         }
     ],
     "channels": [
@@ -450,6 +453,14 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BOGVmOTg0ZWEtMWIwNS00NjkwLThiYWMtOWJmNGFkZWJhYzVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "ton2psvxgt5l",
+            "id3": ""
+        },
+        {
+            "country": "Found (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 13[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOGVmOTg0ZWEtMWIwNS00NjkwLThiYWMtOWJmNGFkZWJhYzVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "30eu2ra7lb12",
             "id3": ""
         },
         {
@@ -3325,6 +3336,70 @@
             "id3": ""
         },
         {
+            "country": "The Pitt (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTU3MDliMGEtMDQxNi00OTk1LTg1NWMtZDM2NmEwZDA1ZDk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "l068aqwktvrm",
+            "id3": ""
+        },
+		{
+            "country": "Zero Day (2025)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmYwNWM3ZWEtMmRlMi00MTA5LWFlY2QtMGI2MTdjOWFiZjgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Zero Day (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmYwNWM3ZWEtMmRlMi00MTA5LWFlY2QtMGI2MTdjOWFiZjgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "or649iuyj6ol",
+            "id3": ""
+        },
+        {
+            "country": "Zero Day (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmYwNWM3ZWEtMmRlMi00MTA5LWFlY2QtMGI2MTdjOWFiZjgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "zfribxzu944x",
+            "id3": ""
+        },
+        {
+            "country": "Zero Day (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmYwNWM3ZWEtMmRlMi00MTA5LWFlY2QtMGI2MTdjOWFiZjgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "r0biaxvy6yqb",
+            "id3": ""
+        },
+        {
+            "country": "Zero Day (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmYwNWM3ZWEtMmRlMi00MTA5LWFlY2QtMGI2MTdjOWFiZjgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "v2i590mymkb6",
+            "id3": ""
+        },
+        {
+            "country": "Zero Day (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmYwNWM3ZWEtMmRlMi00MTA5LWFlY2QtMGI2MTdjOWFiZjgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "8fb72dcgi0ab",
+            "id3": ""
+        },
+        {
+            "country": "Zero Day (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmYwNWM3ZWEtMmRlMi00MTA5LWFlY2QtMGI2MTdjOWFiZjgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "47o0ngvmlhu9",
+            "id3": ""
+        },
+        {
             "country": "Doc (2025)",
             "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMzBlMzg3ODItZDAwMC00OGFlLTg5YTEtMGU2YmEwY2E5NDlhXkEyXkFqcGc@._V1_.jpg",
@@ -3362,6 +3437,14 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BMzBlMzg3ODItZDAwMC00OGFlLTg5YTEtMGU2YmEwY2E5NDlhXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "sr1ptqwqpewr",
+            "id3": ""
+        },
+        {
+            "country": "Doc (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzBlMzg3ODItZDAwMC00OGFlLTg5YTEtMGU2YmEwY2E5NDlhXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "xq3r6ohrq9i7",
             "id3": ""
         },
         {
@@ -5269,6 +5352,14 @@
             "id3": ""
         },
         {
+            "country": "Chicago Fire (2012)",
+            "channel": "[I][COLOR white]S11 Epizoda 11[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDgwYjlhMGItMDQ3YS00OGQyLWFiMTQtYzkwNTUzNjE4NzIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "n6hvv45dnmpi",
+            "id3": ""
+        },
+        {
             "country": "The Rookie (2018)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -6365,6 +6456,14 @@
             "id3": ""
         },
         {
+            "country": "Severance (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "9kon3onik0rz",
+            "id3": ""
+        },
+        {
             "country": "Prime Target (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BNGExZjExZjgtYzZkZi00OTljLWI1ZTgtMTdiN2E1NTA1YThjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -6402,6 +6501,14 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BNGExZjExZjgtYzZkZi00OTljLWI1ZTgtMTdiN2E1NTA1YThjXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "mhdzni8pofz2",
+            "id3": ""
+        },
+        {
+            "country": "Prime Target (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGExZjExZjgtYzZkZi00OTljLWI1ZTgtMTdiN2E1NTA1YThjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "60lbyb4kxmyj",
             "id3": ""
         },
         {

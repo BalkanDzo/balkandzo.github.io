@@ -1117,10 +1117,440 @@
         },
         {
             "country": "Zbornica (2022)"
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)"
+        },
+        {
+            "country": "Sam Covjek (1970)"
         }
     ],
     "channels": [
         {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "o20w2xmmf2e6",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "a5t3nmz81dx3",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "yf1a29zbwg9s",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "ise4577z03rj",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "x8i5eile7xmk",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "1w5pihgme7e5",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "pg0u6iaol4qe",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "7pqpou473a5m",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S01 Epizoda 09[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "uwi3kdt59qll",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S01 Epizoda 10[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "99nnjyfwc4l7",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 02---[/B][/COLOR]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S02 Epizoda 01[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "f5w0a74zgiul",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S02 Epizoda 02[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "72u5lo3icz3w",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S02 Epizoda 03[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "beqtadhp955f",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S02 Epizoda 04[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "49tpuzkfjrap",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S02 Epizoda 05[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "aau41zesl08l",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S02 Epizoda 07[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "a6gucgk5nbhd",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S02 Epizoda 08[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "b3xywmo16nm1",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S02 Epizoda 09[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "vjeq0fftld9k",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S02 Epizoda 10[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "gc1pvo9yekjb",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S02 Epizoda 11[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "8wp6v9kcwa1o",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S02 Epizoda 12[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "1iik3pou8na4",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 03---[/B][/COLOR]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S03 Epizoda 01[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "jfffk5m67p48",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S03 Epizoda 02[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "jymhhst8uopo",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S03 Epizoda 03[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "0qe65d18vip7",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S03 Epizoda 04[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "jhxcq7smf2dj",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S03 Epizoda 05[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "uavyxsgnenuz",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S03 Epizoda 06[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "o0ztpu4i92yu",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S03 Epizoda 07[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "sf1vcwcgbvp1",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S03 Epizoda 08[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "twmduqnsanff",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S03 Epizoda 09[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "iwt93yggkuzb",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S03 Epizoda 10[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "ygarblwbpigl",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S03 Epizoda 14[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "bmwehv7s4vjq",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 04---[/B][/COLOR]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S04 Epizoda 01[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "zmiw8zu44vib",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S04 Epizoda 02[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "mqlmjnmn3p0n",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S04 Epizoda 03[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "2bel5yskbjao",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S04 Epizoda 04[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "8nft3w98mifr",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S04 Epizoda 05[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "pzkt79likyof",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S04 Epizoda 06[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "wnl8alssx469",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S04 Epizoda 07[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "3m7ggbbx5vc3",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S04 Epizoda 08[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "w4nfobzsfbqj",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S04 Epizoda 09[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "c323vk77y3wi",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S04 Epizoda 10[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "cq73bmwa1bm5",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S04 Epizoda 11[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "h7gjn5hsd8mh",
+            "id3": ""
+        },
+        {
+            "country": "Mile VS Tranzicija (2003)",
+            "channel": "[I][COLOR white]S04 Epizoda 12[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/NM-npxCFsFsGNEcH8yPoI4NxCOYMk9CI8as2bYBkib0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWxv/YmluZy5uZXQvc2Vy/aWplL3NsaWtlL21p/bGV2c3RyYW56aWNp/amF2LmpwZw",
+            "id1": "",
+            "id2": "7n7mt7u5xy5x",
+            "id3": ""
+        },
+		{
+            "country": "Sam Covjek (1970)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://imgs.search.brave.com/H4mvTEl4Rxq_HvyMc-qaUzywNRhWB9vY11EPug-yrAY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tb2p0/di5oci90aHVtYi5h/c2h4P3BhdGg9L2lt/YWdlcy80MTk4MmI0/My03MzU4LTQ1NTUt/ODJjMC1iZTUwMmVk/NWFiNmMuanBnJnc9/NDkxJmg9MjUw",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Sam Covjek (1970)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/H4mvTEl4Rxq_HvyMc-qaUzywNRhWB9vY11EPug-yrAY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tb2p0/di5oci90aHVtYi5h/c2h4P3BhdGg9L2lt/YWdlcy80MTk4MmI0/My03MzU4LTQ1NTUt/ODJjMC1iZTUwMmVk/NWFiNmMuanBnJnc9/NDkxJmg9MjUw",
+            "id1": "",
+            "id2": "7xwyf0vt4umc",
+            "id3": ""
+        },
+        {
+            "country": "Sam Covjek (1970)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/H4mvTEl4Rxq_HvyMc-qaUzywNRhWB9vY11EPug-yrAY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tb2p0/di5oci90aHVtYi5h/c2h4P3BhdGg9L2lt/YWdlcy80MTk4MmI0/My03MzU4LTQ1NTUt/ODJjMC1iZTUwMmVk/NWFiNmMuanBnJnc9/NDkxJmg9MjUw",
+            "id1": "",
+            "id2": "e1bfsgk5x2vm",
+            "id3": ""
+        },
+        {
+            "country": "Sam Covjek (1970)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/H4mvTEl4Rxq_HvyMc-qaUzywNRhWB9vY11EPug-yrAY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tb2p0/di5oci90aHVtYi5h/c2h4P3BhdGg9L2lt/YWdlcy80MTk4MmI0/My03MzU4LTQ1NTUt/ODJjMC1iZTUwMmVk/NWFiNmMuanBnJnc9/NDkxJmg9MjUw",
+            "id1": "",
+            "id2": "d83eiz083gm1",
+            "id3": ""
+        },
+        {
+            "country": "Sam Covjek (1970)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://imgs.search.brave.com/H4mvTEl4Rxq_HvyMc-qaUzywNRhWB9vY11EPug-yrAY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tb2p0/di5oci90aHVtYi5h/c2h4P3BhdGg9L2lt/YWdlcy80MTk4MmI0/My03MzU4LTQ1NTUt/ODJjMC1iZTUwMmVk/NWFiNmMuanBnJnc9/NDkxJmg9MjUw",
+            "id1": "",
+            "id2": "e35sezswmd75",
+            "id3": ""
+        },
+		{
             "country": "Srecni ljudi (1993-1996)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYzBiOTE3NTgtZjc3NC00ODk0LTkzOTgtOTczMTNlZjIwMDM2XkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
@@ -86176,7 +86606,7 @@
             "id2": "bcne8d00ddzk",
             "id3": "4zkd2xcl3mvy"
         },
-		{
+        {
             "country": "Dnevnik Velikog Perice (2021)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BOTIwZTllMjYtODNkOS00YmJmLWI4Y2MtMzMyYmE5MjdmMGIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -86928,7 +87358,7 @@
             "id2": "x1muka7ldnem",
             "id3": "d34bwx5ey4f5"
         },
-		{
+        {
             "country": "Vreme Smrti (2024)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://izprveruke.rs/wp-content/uploads/2024/03/Vreme-smrti-serija-TV-Nova-SBB.jpg",
@@ -87200,7 +87630,7 @@
             "id2": "arx8c7ers4n3",
             "id3": ""
         },
-		{
+        {
             "country": "Krunska 11 (2024)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://upload.wikimedia.org/wikipedia/sr/a/a7/Krunska_11.png",
@@ -87568,7 +87998,7 @@
             "id2": "8gbip3p57ktj",
             "id3": "gwan16770hod"
         },
-		{
+        {
             "country": "Sablja (2024)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYTcyZjRjMjctNjZjNy00NDJhLTliNDYtNzZiZWQwOWZjNDg3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
