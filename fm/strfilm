@@ -37,6 +37,46 @@
     "channels": [
         {
             "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Presence (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWRmNzM1YjktM2YyMi00M2YwLWE2YjMtNjgwNTQ3MGU3MzczXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+            "id1": "",
+            "id2": "ryb1j361vjkp",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Subservience (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjdlNjNlODEtYjA1OS00MDgzLWJiNTMtMDVlMWMyOGM5ZDhkXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "dqbcahvyrta5",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "The Brutalist (2024)",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM42oFHPjbQnuZAXrrPtu2hC0JHRrb-Us0Vg&s",
+            "id1": "",
+            "id2": "7y1q3jxpq886",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Cellar Door (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNzY4ZDZlNTYtOTBkZS00YjUxLTk2YWItZmYzZTJlZGZiMDI3XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "il0yt2xrd0mz",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Way Home (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNWRlYWY4ZWQtYWY4OC00NDk3LWJlMTYtZmU5MDk2ZGI2MThiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "f4dm8214zgt6",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
             "channel": "Parthenope (2024)",
             "logo": "https://m.media-amazon.com/images/M/MV5BMzE2NGQ1MTYtZWJlYi00ZTgyLWI0ZjMtOWQ2OGQ3NTNlM2QzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
@@ -2274,6 +2314,38 @@
             "id1": "",
             "id2": "fm0czbwyomd4",
             "id3": "r3k6ax0rkl9u"
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Dostana (2008)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTkwMDIyMzA2Ml5BMl5BanBnXkFtZTcwMTg4NTk5Mw@@._V1_.jpg",
+            "id1": "",
+            "id2": "dfaratnarfys",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Independence Day (1996)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOGMwN2UwZjEtYjFjMi00ZDA1LWJlYTQtMjA1MTYxMzIyNTdiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "fff9jal8hxqq",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Independence Day Resurgence (2016)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjIyMTg5MTg4OV5BMl5BanBnXkFtZTgwMzkzMjY5NzE@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "ggipju7x1nbf",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZGM0NTAyMWEtNDBjNi00MjkwLWFhM2UtNDExNmVmMzEzNzExXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "cwdf1v6p22k8",
+            "id3": ""
         },
 		{
             "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
