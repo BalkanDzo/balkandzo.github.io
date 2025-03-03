@@ -37,6 +37,14 @@
     "channels": [
         {
             "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Love Hurts (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDBmMTVkNWItZWY4Yy00MjI0LWFiMmMtMWM4ZGQ3NTg0MDE1XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "wwvlbri2hc3q",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
             "channel": "Presence (2024)",
             "logo": "https://m.media-amazon.com/images/M/MV5BZWRmNzM1YjktM2YyMi00M2YwLWE2YjMtNjgwNTQ3MGU3MzczXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
             "id1": "",
@@ -2314,6 +2322,38 @@
             "id1": "",
             "id2": "fm0czbwyomd4",
             "id3": "r3k6ax0rkl9u"
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Substitute (1996)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNjU3MTc2YzUtZmJmMy00Y2I1LWJkOGMtMmFlMTQ2ZjJlY2Y2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "f188nljwjaqw",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Bella Mafia (1997)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTI5MDM1Mjc0M15BMl5BanBnXkFtZTYwOTI4Mjk5._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "m03tfdrow17u",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Ghost Rider (2007)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzIyNDE5ODI1OV5BMl5BanBnXkFtZTcwNTIyNDE0MQ@@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "mo1umtidks19",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Ghost Rider Spirit of Vengeance (2011)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2FmZGVlNTgtYTllNC00YmUzLTk5YmUtNWNhMzk3ZmE2NmQ0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "jy69fqlmpubi",
+            "id3": ""
         },
 		{
             "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
