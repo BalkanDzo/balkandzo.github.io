@@ -195,6 +195,9 @@
         },
         {
             "country": "Saw"
+        },
+        {
+            "country": "Ghostbusters"
         }
     ],
     "channels": [
@@ -3734,7 +3737,7 @@
             "id2": "fntypzfb4f4q",
             "id3": ""
         },
-		{
+        {
             "country": "Saw",
             "channel": "Saw (2004)",
             "logo": "https://m.media-amazon.com/images/I/81F2bnsjm+L._AC_UF894,1000_QL80_.jpg",
@@ -3812,6 +3815,46 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BODRmMzAwMWItZjI5MS00NDYyLWFjMmMtZGUwYjQ1ZTBkNmYzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "575vzzvj8ngn",
+            "id3": ""
+        },
+		{
+            "country": "Ghostbusters",
+            "channel": "Ghostbusters(1984)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGI0Yjg2ODAtNDYzNi00Njc2LTlkMmMtMmRmYWI5MDE4ZGRkXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "s0r8t45m1l9v",
+            "id3": ""
+        },
+        {
+            "country": "Ghostbusters",
+            "channel": "GhostbustersII (1989)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZThjODU5NTMtMWJiNC00NjNkLWJmM2YtM2EzNDg3NjMxYjU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "wrfy00pleqd7",
+            "id3": ""
+        },
+        {
+            "country": "Ghostbusters",
+            "channel": "Ghostbusters(2016)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZjNhMzU5MjgtY2VhMC00NzZmLTk1YTEtMDc5OGU1OWJiMTE4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "22v368azwev5",
+            "id3": ""
+        },
+        {
+            "country": "Ghostbusters",
+            "channel": "GhostbustersAfterlife (2021) ",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMDJmZmM2NmQtMzhlYi00MGNkLTlhMWUtYjM1MmFlMTA1YTliXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "tm3cwm1jwtif",
+            "id3": ""
+        },
+        {
+            "country": "Ghostbusters",
+            "channel": "GhostbustersFrozen Empire (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNjcwMWQ4NTktODU5OC00NzBjLTg0Y2MtZTRjNDkzMjZmOTE4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "z4r98t6g7whz",
             "id3": ""
         }
     ]

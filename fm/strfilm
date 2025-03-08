@@ -37,6 +37,62 @@
     "channels": [
         {
             "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Captain America Brave New World (2025)",
+            "logo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2e317a1c-f1ce-4a5f-90db-d88cc01db2d0/diqz7q1-f09abcc6-904e-4b39-97b5-9b62514b7751.png/v1/fill/w_1280,h_2066,q_80,strp/captain_america_brave_new_world_poster_2025_by_mrandrew7w7_diqz7q1-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjA2NiIsInBhdGgiOiJcL2ZcLzJlMzE3YTFjLWYxY2UtNGE1Zi05MGRiLWQ4OGNjMDFkYjJkMFwvZGlxejdxMS1mMDlhYmNjNi05MDRlLTRiMzktOTdiNS05YjYyNTE0Yjc3NTEucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.twNOZJzs0phift96dP6fsfnTJ_6wM37SSbOFFdT2ilY",
+            "id1": "",
+            "id2": "2lyk6fi4kxxu",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "A Complete Unknown (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTA2NTA5NDYtMzlkOC00MTQxLWI0NDQtMzk2M2YzMGE4MTkxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "ex343bdfsvpq",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Heart Eyes (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDA4ZjVmM2MtYWJlNC00OTE5LThlOWQtYjQ4Yjg1ODg5MTE4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "x6v2xo1vu6al",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Squad 36 (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTRhYzUwNzItYTlkZS00NDAwLTkwY2ItYTlhZTRhZTBiNTM2XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+            "id1": "",
+            "id2": "or96xv7zrv9l",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Amber Alert (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjVkYjgyNWItYmRlZC00MjQ1LTljMTktMWQzNTI1YWM4ZGI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "jkou7b916ayc",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "The Last Showgirl (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOThhYjMwZmItYmY4My00OGMxLTgxYWMtZTk0NGQwNTRmOWY1XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "mnpxul4on2rt",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Contraataque (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYmExM2ZiOGItMDcxZi00NDc3LTk3MmItNGQyZWNlYzBiOTI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "xjqxlu14ff4n",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
             "channel": "Love Hurts (2025)",
             "logo": "https://m.media-amazon.com/images/M/MV5BZDBmMTVkNWItZWY4Yy00MjI0LWFiMmMtMWM4ZGQ3NTg0MDE1XkEyXkFqcGc@._V1_.jpg",
             "id1": "",
@@ -2325,6 +2381,30 @@
         },
 		{
             "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Satan's Baby Doll (1982)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNzQ4YzE5MmItZTVjZi00ODMwLWE2MGUtM2FmNmM4NzQ5NDRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "zpl3rnwro0pw",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Pacific Rim (2013)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTY3MTI5NjQ4Nl5BMl5BanBnXkFtZTcwOTU1OTU0OQ@@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "w1rr53wkanqm",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Pacific Rim Uprising (2018)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjI3Nzg0MTM5NF5BMl5BanBnXkFtZTgwOTE2MTgwNTM@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "tmxtr7kdy30h",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
             "channel": "The Substitute (1996)",
             "logo": "https://m.media-amazon.com/images/M/MV5BNjU3MTc2YzUtZmJmMy00Y2I1LWJkOGMtMmFlMTQ2ZjJlY2Y2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
@@ -2336,7 +2416,7 @@
             "channel": "Bella Mafia (1997)",
             "logo": "https://m.media-amazon.com/images/M/MV5BMTI5MDM1Mjc0M15BMl5BanBnXkFtZTYwOTI4Mjk5._V1_FMjpg_UX1000_.jpg",
             "id1": "",
-            "id2": "m03tfdrow17u",
+            "id2": "z1pa0cejsig3",
             "id3": ""
         },
 		{
