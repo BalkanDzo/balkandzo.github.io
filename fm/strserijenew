@@ -86,6 +86,9 @@
         },
         {
             "country": "Daredevil Born Again (2025)"
+        },
+        {
+            "country": "House of David (2025)"
         }
     ],
     "channels": [
@@ -3393,7 +3396,7 @@
             "id2": "yv7eext8ydbr",
             "id3": ""
         },
-		{
+        {
             "country": "The Pitt (2025)",
             "channel": "[I][COLOR white]S01 Epizoda 10[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMTU3MDliMGEtMDQxNi00OTk1LTg1NWMtZDM2NmEwZDA1ZDk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -3513,7 +3516,7 @@
             "id2": "xin4mwjdyxob",
             "id3": ""
         },
-		{
+        {
             "country": "Doc (2025)",
             "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMzBlMzg3ODItZDAwMC00OGFlLTg5YTEtMGU2YmEwY2E5NDlhXkEyXkFqcGc@._V1_.jpg",
@@ -5473,7 +5476,7 @@
             "id2": "vu1yvslphaqj",
             "id3": ""
         },
-		{
+        {
             "country": "Coyotl, Hero and Beast (2025)",
             "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYzYxNzdhNTctZDJmOC00YWQ1LWE0NDMtYTk2YmFlYzA3M2ZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -6657,7 +6660,7 @@
             "id2": "8cnadebokquo",
             "id3": ""
         },
-		{
+        {
             "country": "Yellowjackets (2021)",
             "channel": "[I][COLOR white]S03 Epizoda 03[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BOGVhNzViNTYtYjg0Ny00NzI3LWI2MTQtMzFlYWQ4NTQ2YmQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -6809,12 +6812,44 @@
             "id2": "ee9ije9x9kv5",
             "id3": ""
         },
-		{
+        {
             "country": "Severance (2022)",
             "channel": "[I][COLOR white]S02 Epizoda 08[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "69vgtdbnoufi",
+            "id3": ""
+        },
+		{
+            "country": "House of David (2025)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWExMTJiMGQtYTA3OC00ZGM0LTg5MGQtZjMwM2VlNTU3YjRhXkEyXkFqcGc@._V1_QL75_UX190_CR0,28,190,281_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "House of David (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWExMTJiMGQtYTA3OC00ZGM0LTg5MGQtZjMwM2VlNTU3YjRhXkEyXkFqcGc@._V1_QL75_UX190_CR0,28,190,281_.jpg",
+            "id1": "",
+            "id2": "h09dp0xhhn65",
+            "id3": ""
+        },
+        {
+            "country": "House of David (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWExMTJiMGQtYTA3OC00ZGM0LTg5MGQtZjMwM2VlNTU3YjRhXkEyXkFqcGc@._V1_QL75_UX190_CR0,28,190,281_.jpg",
+            "id1": "",
+            "id2": "72p87kkrniw5",
+            "id3": ""
+        },
+        {
+            "country": "House of David (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWExMTJiMGQtYTA3OC00ZGM0LTg5MGQtZjMwM2VlNTU3YjRhXkEyXkFqcGc@._V1_QL75_UX190_CR0,28,190,281_.jpg",
+            "id1": "",
+            "id2": "zuuudzoj0crc",
             "id3": ""
         },
         {
@@ -6881,7 +6916,7 @@
             "id2": "gpyq9jdiyaoh",
             "id3": ""
         },
-		{
+        {
             "country": "Prime Target (2025)",
             "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BNGExZjExZjgtYzZkZi00OTljLWI1ZTgtMTdiN2E1NTA1YThjXkEyXkFqcGc@._V1_.jpg",
@@ -7127,6 +7162,14 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BZmM1MGM0MDQtZTAzNy00ZGJkLWI4MDUtNjBmMzdhYjhlM2QwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "z1xqoi0wurl0",
+            "id3": ""
+        },
+		        {
+            "country": "The White Lotus (2021)",
+            "channel": "[I][COLOR white]S03 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZmM1MGM0MDQtZTAzNy00ZGJkLWI4MDUtNjBmMzdhYjhlM2QwXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "so1jeensgy8n",
             "id3": ""
         },
         {
@@ -7458,6 +7501,14 @@
             "id3": ""
         },
 		{
+            "country": "Reacher (2022)",
+            "channel": "[I][COLOR white]S03 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjJlMmYzM2QtZWU4OS00ZDNhLTk5MzItZTQxZmVhNjM4MTk5XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "2x3q5v5ddx41",
+            "id3": ""
+        },
+        {
             "country": "Daredevil Born Again (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMDRiNTBlY2EtZmRiZC00Mzc4LTljZDctNWQ5ZGY2NjUwNjE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",

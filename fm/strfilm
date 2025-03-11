@@ -37,6 +37,30 @@
     "channels": [
         {
             "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Old Guy (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOGM4NzRiNTAtNDQxNy00YjBmLTg3NjMtNDE4MjVlYzUyMmIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "5thu6x6e1d0r",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "William Tell (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjBhMDQwZTItYTk3Mi00MDc3LWEwMTEtMGE4YmZkMjJlODY4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "oj8lwu387yu7",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Night Call (2024) ",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNWMzZWZmMDQtMjNlNC00YTBmLWI3YzItNzM3ZjZlZGY0YmQwXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "c9skt3zaszak",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
             "channel": "Captain America Brave New World (2025)",
             "logo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2e317a1c-f1ce-4a5f-90db-d88cc01db2d0/diqz7q1-f09abcc6-904e-4b39-97b5-9b62514b7751.png/v1/fill/w_1280,h_2066,q_80,strp/captain_america_brave_new_world_poster_2025_by_mrandrew7w7_diqz7q1-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjA2NiIsInBhdGgiOiJcL2ZcLzJlMzE3YTFjLWYxY2UtNGE1Zi05MGRiLWQ4OGNjMDFkYjJkMFwvZGlxejdxMS1mMDlhYmNjNi05MDRlLTRiMzktOTdiNS05YjYyNTE0Yjc3NTEucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.twNOZJzs0phift96dP6fsfnTJ_6wM37SSbOFFdT2ilY",
             "id1": "",
@@ -2378,6 +2402,14 @@
             "id1": "",
             "id2": "fm0czbwyomd4",
             "id3": "r3k6ax0rkl9u"
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Houston, We Have a Problem! (2016)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZTQ4NGEyM2MtYjM1ZS00YTEzLWIxMTctNWMwM2VlNzZkMGVjXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "tgvmh6iuzdc0",
+            "id3": ""
         },
 		{
             "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",

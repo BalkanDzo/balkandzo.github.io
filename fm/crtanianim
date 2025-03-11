@@ -24,6 +24,38 @@
     "channels": [
         {
             "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Sonikov Film 3 (2024)",
+            "logo": "https://www.tuck.rs/wp-content/uploads/2024/12/1731940799Sonik3.jpg",
+            "id1": "",
+            "id2": "ncn41l22snnm",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "200% Vuk (2024)",
+            "logo": "https://gradsubotica.co.rs/wp-content/uploads/2024/09/200-vuk-eurocinema.jpg",
+            "id1": "",
+            "id2": "kdmopzliqzru",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Moana 2 (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDUxNThhYTUtYjgxNy00MGQ4LTgzOTEtZjg1YTU5NTcwNThlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "e8hp4kor9l3d",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Plankton (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYmYyZjUzYjgtY2U1My00MTA4LTllNWEtNWU3ZThkOWRmMTY1XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "9m394covnk4d",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
             "channel": "Transformersi Pocetak (2024)",
             "logo": "https://i0.wp.com/www.dollybellcinema.com/wp-content/uploads/2024/09/Transformers-One-360x620px.jpg?fit=360%2C620&ssl=1",
             "id1": "",
