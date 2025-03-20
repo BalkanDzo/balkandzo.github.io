@@ -89,6 +89,21 @@
         },
         {
             "country": "House of David (2025)"
+        },
+        {
+            "country": "Medusa (2025)"
+        },
+        {
+            "country": "The Wheel of Time (2021)"
+        },
+        {
+            "country": "A Body in the Snow The Trial of Karen Read (2025)"
+        },
+        {
+            "country": "Adolescence (2025)"
+        },
+        {
+            "country": "The Leopard (2025)"
         }
     ],
     "channels": [
@@ -2461,6 +2476,14 @@
             "id3": ""
         },
         {
+            "country": "Chicago P D (2014)",
+            "channel": "[I][COLOR white]S12 Epizoda 15[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2ZhMTljMTAtNGUxNC00NDMxLThiMDEtYjBiNzU3OGNmNmVlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "wrfcmels6s2a",
+            "id3": ""
+        },
+        {
             "country": "Cassandra (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYjI3NjlhNDItOTBlZC00OTMwLWI0YzYtYmI3ZDY2MDdkMTIxXkEyXkFqcGc@._V1_.jpg",
@@ -3405,6 +3428,190 @@
             "id3": ""
         },
         {
+            "country": "The Pitt (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 11[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTU3MDliMGEtMDQxNi00OTk1LTg1NWMtZDM2NmEwZDA1ZDk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "cdkr5fsexjkv",
+            "id3": ""
+        },
+        {
+            "country": "The Wheel of Time (2021)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://images.justwatch.com/poster/307296420/s718/the-wheel-of-time.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "The Wheel of Time (2021)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://images.justwatch.com/poster/307296420/s718/the-wheel-of-time.jpg",
+            "id1": "",
+            "id2": "ipsnv796eaqp",
+            "id3": ""
+        },
+        {
+            "country": "The Wheel of Time (2021)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://images.justwatch.com/poster/307296420/s718/the-wheel-of-time.jpg",
+            "id1": "",
+            "id2": "rvwwcnsznjzh",
+            "id3": ""
+        },
+        {
+            "country": "The Wheel of Time (2021)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://images.justwatch.com/poster/307296420/s718/the-wheel-of-time.jpg",
+            "id1": "",
+            "id2": "c6z6bfmpmlrn",
+            "id3": ""
+        },
+        {
+            "country": "The Wheel of Time (2021)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://images.justwatch.com/poster/307296420/s718/the-wheel-of-time.jpg",
+            "id1": "",
+            "id2": "s5j70kt47yr4",
+            "id3": ""
+        },
+        {
+            "country": "The Wheel of Time (2021)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://images.justwatch.com/poster/307296420/s718/the-wheel-of-time.jpg",
+            "id1": "",
+            "id2": "rlvvgc9edizh",
+            "id3": ""
+        },
+        {
+            "country": "The Wheel of Time (2021)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://images.justwatch.com/poster/307296420/s718/the-wheel-of-time.jpg",
+            "id1": "",
+            "id2": "7mbzqok2jlwc",
+            "id3": ""
+        },
+        {
+            "country": "The Wheel of Time (2021)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://images.justwatch.com/poster/307296420/s718/the-wheel-of-time.jpg",
+            "id1": "",
+            "id2": "i4trrdmp0zbc",
+            "id3": ""
+        },
+        {
+            "country": "The Wheel of Time (2021)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://images.justwatch.com/poster/307296420/s718/the-wheel-of-time.jpg",
+            "id1": "",
+            "id2": "fy33pi3n10cd",
+            "id3": ""
+        },
+        {
+            "country": "The Wheel of Time (2021)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 02---[/B][/COLOR]",
+            "logo": "https://images.justwatch.com/poster/307296420/s718/the-wheel-of-time.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "The Wheel of Time (2021)",
+            "channel": "[I][COLOR white]S02 Epizoda 01[/COLOR][/I]",
+            "logo": "https://images.justwatch.com/poster/307296420/s718/the-wheel-of-time.jpg",
+            "id1": "",
+            "id2": "wjaxvi2az05j",
+            "id3": ""
+        },
+        {
+            "country": "The Wheel of Time (2021)",
+            "channel": "[I][COLOR white]S02 Epizoda 02[/COLOR][/I]",
+            "logo": "https://images.justwatch.com/poster/307296420/s718/the-wheel-of-time.jpg",
+            "id1": "",
+            "id2": "6raqf6ple28e",
+            "id3": ""
+        },
+        {
+            "country": "The Wheel of Time (2021)",
+            "channel": "[I][COLOR white]S02 Epizoda 03[/COLOR][/I]",
+            "logo": "https://images.justwatch.com/poster/307296420/s718/the-wheel-of-time.jpg",
+            "id1": "",
+            "id2": "jjxnbnbzxg8e",
+            "id3": ""
+        },
+        {
+            "country": "The Wheel of Time (2021)",
+            "channel": "[I][COLOR white]S02 Epizoda 04[/COLOR][/I]",
+            "logo": "https://images.justwatch.com/poster/307296420/s718/the-wheel-of-time.jpg",
+            "id1": "",
+            "id2": "2p089gcpys42",
+            "id3": ""
+        },
+        {
+            "country": "The Wheel of Time (2021)",
+            "channel": "[I][COLOR white]S02 Epizoda 05[/COLOR][/I]",
+            "logo": "https://images.justwatch.com/poster/307296420/s718/the-wheel-of-time.jpg",
+            "id1": "",
+            "id2": "x609j3spuukw",
+            "id3": ""
+        },
+        {
+            "country": "The Wheel of Time (2021)",
+            "channel": "[I][COLOR white]S02 Epizoda 06[/COLOR][/I]",
+            "logo": "https://images.justwatch.com/poster/307296420/s718/the-wheel-of-time.jpg",
+            "id1": "",
+            "id2": "vdsw87r57u0f",
+            "id3": ""
+        },
+        {
+            "country": "The Wheel of Time (2021)",
+            "channel": "[I][COLOR white]S02 Epizoda 07[/COLOR][/I]",
+            "logo": "https://images.justwatch.com/poster/307296420/s718/the-wheel-of-time.jpg",
+            "id1": "",
+            "id2": "ve0pa5iny6zw",
+            "id3": ""
+        },
+        {
+            "country": "The Wheel of Time (2021)",
+            "channel": "[I][COLOR white]S02 Epizoda 08[/COLOR][/I]",
+            "logo": "https://images.justwatch.com/poster/307296420/s718/the-wheel-of-time.jpg",
+            "id1": "",
+            "id2": "gxlrcd4hsf86",
+            "id3": ""
+        },
+        {
+            "country": "The Wheel of Time (2021)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 03---[/B][/COLOR]",
+            "logo": "https://images.justwatch.com/poster/307296420/s718/the-wheel-of-time.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "The Wheel of Time (2021)",
+            "channel": "[I][COLOR white]S03 Epizoda 01[/COLOR][/I]",
+            "logo": "https://images.justwatch.com/poster/307296420/s718/the-wheel-of-time.jpg",
+            "id1": "",
+            "id2": "ifrpayx27kcm",
+            "id3": ""
+        },
+        {
+            "country": "The Wheel of Time (2021)",
+            "channel": "[I][COLOR white]S03 Epizoda 02[/COLOR][/I]",
+            "logo": "https://images.justwatch.com/poster/307296420/s718/the-wheel-of-time.jpg",
+            "id1": "",
+            "id2": "ugl38rn8c73f",
+            "id3": ""
+        },
+        {
+            "country": "The Wheel of Time (2021)",
+            "channel": "[I][COLOR white]S03 Epizoda 03[/COLOR][/I]",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgy5ggnecOMiEJWBkF1zkjkXIfTSCdSvfBFg&s",
+            "id1": "",
+            "id2": "dmmr9h4o1ie0",
+            "id3": ""
+        },
+        {
             "country": "Zero Day (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMmYwNWM3ZWEtMmRlMi00MTA5LWFlY2QtMGI2MTdjOWFiZjgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -3522,6 +3729,14 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BMzBlMzg3ODItZDAwMC00OGFlLTg5YTEtMGU2YmEwY2E5NDlhXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "a64qqp837gjx",
+            "id3": ""
+        },
+        {
+            "country": "Doc (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzBlMzg3ODItZDAwMC00OGFlLTg5YTEtMGU2YmEwY2E5NDlhXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "zq6uxkmjlxth",
             "id3": ""
         },
         {
@@ -5453,6 +5668,22 @@
             "id3": ""
         },
         {
+            "country": "Chicago Fire (2012)",
+            "channel": "[I][COLOR white]S11 Epizoda 14[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDgwYjlhMGItMDQ3YS00OGQyLWFiMTQtYzkwNTUzNjE4NzIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "w3lustmprdb5",
+            "id3": ""
+        },
+		{
+            "country": "Chicago Fire (2012)",
+            "channel": "[I][COLOR white]S11 Epizoda 15[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDgwYjlhMGItMDQ3YS00OGQyLWFiMTQtYzkwNTUzNjE4NzIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "rfti7i60zx4o",
+            "id3": ""
+        },
+        {
             "country": "Coyotl, Hero and Beast (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYzYxNzdhNTctZDJmOC00YWQ1LWE0NDMtYTk2YmFlYzA3M2ZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -5482,6 +5713,14 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BYzYxNzdhNTctZDJmOC00YWQ1LWE0NDMtYTk2YmFlYzA3M2ZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "asrhuxx5aeb7",
+            "id3": ""
+        },
+        {
+            "country": "Coyotl, Hero and Beast (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYzYxNzdhNTctZDJmOC00YWQ1LWE0NDMtYTk2YmFlYzA3M2ZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "84roxohdjux1",
             "id3": ""
         },
         {
@@ -6669,6 +6908,14 @@
             "id3": ""
         },
         {
+            "country": "Yellowjackets (2021)",
+            "channel": "[I][COLOR white]S03 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOGVhNzViNTYtYjg0Ny00NzI3LWI2MTQtMzFlYWQ4NTQ2YmQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "74a4jj88zlnr",
+            "id3": ""
+        },
+        {
             "country": "Severance (2022)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_.jpg",
@@ -6820,7 +7067,15 @@
             "id2": "69vgtdbnoufi",
             "id3": ""
         },
-		{
+        {
+            "country": "Severance (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "4m6pp7mabq28",
+            "id3": ""
+        },
+        {
             "country": "House of David (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZWExMTJiMGQtYTA3OC00ZGM0LTg5MGQtZjMwM2VlNTU3YjRhXkEyXkFqcGc@._V1_QL75_UX190_CR0,28,190,281_.jpg",
@@ -6850,6 +7105,126 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BZWExMTJiMGQtYTA3OC00ZGM0LTg5MGQtZjMwM2VlNTU3YjRhXkEyXkFqcGc@._V1_QL75_UX190_CR0,28,190,281_.jpg",
             "id1": "",
             "id2": "zuuudzoj0crc",
+            "id3": ""
+        },
+        {
+            "country": "House of David (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWExMTJiMGQtYTA3OC00ZGM0LTg5MGQtZjMwM2VlNTU3YjRhXkEyXkFqcGc@._V1_QL75_UX190_CR0,28,190,281_.jpg",
+            "id1": "",
+            "id2": "tunu9fiojjum",
+            "id3": ""
+        },
+		{
+            "country": "House of David (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWExMTJiMGQtYTA3OC00ZGM0LTg5MGQtZjMwM2VlNTU3YjRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "huw459rtf4fw",
+            "id3": ""
+        },
+        {
+            "country": "Medusa (2025)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmM3ZTQ0ZGUtY2QwZC00YTQ1LTk3ZmMtYmFiZDQ3NDVkMjZjXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Medusa (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmM3ZTQ0ZGUtY2QwZC00YTQ1LTk3ZmMtYmFiZDQ3NDVkMjZjXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+            "id1": "",
+            "id2": "3fhx57zqmohb",
+            "id3": ""
+        },
+        {
+            "country": "Medusa (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmM3ZTQ0ZGUtY2QwZC00YTQ1LTk3ZmMtYmFiZDQ3NDVkMjZjXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+            "id1": "",
+            "id2": "r760v5yqz0c0",
+            "id3": ""
+        },
+        {
+            "country": "Medusa (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmM3ZTQ0ZGUtY2QwZC00YTQ1LTk3ZmMtYmFiZDQ3NDVkMjZjXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+            "id1": "",
+            "id2": "vuz3fmiyle6f",
+            "id3": ""
+        },
+        {
+            "country": "Medusa (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmM3ZTQ0ZGUtY2QwZC00YTQ1LTk3ZmMtYmFiZDQ3NDVkMjZjXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+            "id1": "",
+            "id2": "21i51cz5fam3",
+            "id3": ""
+        },
+        {
+            "country": "Medusa (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmM3ZTQ0ZGUtY2QwZC00YTQ1LTk3ZmMtYmFiZDQ3NDVkMjZjXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+            "id1": "",
+            "id2": "gb0vkmhxcm8l",
+            "id3": ""
+        },
+        {
+            "country": "Medusa (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmM3ZTQ0ZGUtY2QwZC00YTQ1LTk3ZmMtYmFiZDQ3NDVkMjZjXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+            "id1": "",
+            "id2": "mgqms8c452ho",
+            "id3": ""
+        },
+        {
+            "country": "Medusa (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmM3ZTQ0ZGUtY2QwZC00YTQ1LTk3ZmMtYmFiZDQ3NDVkMjZjXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+            "id1": "",
+            "id2": "tirzmpkv90qp",
+            "id3": ""
+        },
+        {
+            "country": "Medusa (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmM3ZTQ0ZGUtY2QwZC00YTQ1LTk3ZmMtYmFiZDQ3NDVkMjZjXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+            "id1": "",
+            "id2": "9b2vmawt3aab",
+            "id3": ""
+        },
+        {
+            "country": "Medusa (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmM3ZTQ0ZGUtY2QwZC00YTQ1LTk3ZmMtYmFiZDQ3NDVkMjZjXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+            "id1": "",
+            "id2": "ud80lw6c2qi4",
+            "id3": ""
+        },
+        {
+            "country": "Medusa (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 10[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmM3ZTQ0ZGUtY2QwZC00YTQ1LTk3ZmMtYmFiZDQ3NDVkMjZjXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+            "id1": "",
+            "id2": "ihu3s4sz1gg3",
+            "id3": ""
+        },
+        {
+            "country": "Medusa (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 11[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmM3ZTQ0ZGUtY2QwZC00YTQ1LTk3ZmMtYmFiZDQ3NDVkMjZjXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+            "id1": "",
+            "id2": "kd9rec4isbcp",
+            "id3": ""
+        },
+        {
+            "country": "Medusa (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 12[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmM3ZTQ0ZGUtY2QwZC00YTQ1LTk3ZmMtYmFiZDQ3NDVkMjZjXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+            "id1": "",
+            "id2": "92885c47smyc",
             "id3": ""
         },
         {
@@ -7164,12 +7539,140 @@
             "id2": "z1xqoi0wurl0",
             "id3": ""
         },
-		        {
+        {
             "country": "The White Lotus (2021)",
             "channel": "[I][COLOR white]S03 Epizoda 04[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZmM1MGM0MDQtZTAzNy00ZGJkLWI4MDUtNjBmMzdhYjhlM2QwXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "so1jeensgy8n",
+            "id3": ""
+        },
+        {
+            "country": "The White Lotus (2021)",
+            "channel": "[I][COLOR white]S03 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZmM1MGM0MDQtZTAzNy00ZGJkLWI4MDUtNjBmMzdhYjhlM2QwXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+            "id1": "",
+            "id2": "kkplot3j80bs",
+            "id3": ""
+        },
+		{
+            "country": "A Body in the Snow The Trial of Karen Read (2025)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://images.justwatch.com/poster/327091447/s332/season-1",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "A Body in the Snow The Trial of Karen Read (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://images.justwatch.com/poster/327091447/s332/season-1",
+            "id1": "",
+            "id2": "7eeq8bf0ro5p",
+            "id3": ""
+        },
+        {
+            "country": "A Body in the Snow The Trial of Karen Read (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://images.justwatch.com/poster/327091447/s332/season-1",
+            "id1": "",
+            "id2": "l5ixwiywufaw",
+            "id3": ""
+        },
+		{
+            "country": "Adolescence (2025)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGY1YjBiNzMtYWZhNC00OWViLWE0MzItNjc4YzczOGNiM2I0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Adolescence (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGY1YjBiNzMtYWZhNC00OWViLWE0MzItNjc4YzczOGNiM2I0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "w321spambzwt",
+            "id3": ""
+        },
+        {
+            "country": "Adolescence (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGY1YjBiNzMtYWZhNC00OWViLWE0MzItNjc4YzczOGNiM2I0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "wtgvls6mbkft",
+            "id3": ""
+        },
+        {
+            "country": "Adolescence (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGY1YjBiNzMtYWZhNC00OWViLWE0MzItNjc4YzczOGNiM2I0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "806dhkl0nc8x",
+            "id3": ""
+        },
+        {
+            "country": "Adolescence (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGY1YjBiNzMtYWZhNC00OWViLWE0MzItNjc4YzczOGNiM2I0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "yes9cso2j8vz",
+            "id3": ""
+        },
+		{
+            "country": "The Leopard (2025)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://pics.filmaffinity.com/The_Leopard_TV_Miniseries-672124098-large.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "The Leopard (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://pics.filmaffinity.com/The_Leopard_TV_Miniseries-672124098-large.jpg",
+            "id1": "",
+            "id2": "zfu37qwn2y5t",
+            "id3": ""
+        },
+        {
+            "country": "The Leopard (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://pics.filmaffinity.com/The_Leopard_TV_Miniseries-672124098-large.jpg",
+            "id1": "",
+            "id2": "h4j9kps2dqd7",
+            "id3": ""
+        },
+        {
+            "country": "The Leopard (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://pics.filmaffinity.com/The_Leopard_TV_Miniseries-672124098-large.jpg",
+            "id1": "",
+            "id2": "1cnexk0q2tam",
+            "id3": ""
+        },
+        {
+            "country": "The Leopard (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://pics.filmaffinity.com/The_Leopard_TV_Miniseries-672124098-large.jpg",
+            "id1": "",
+            "id2": "lw4h7vd7vfzu",
+            "id3": ""
+        },
+        {
+            "country": "The Leopard (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://pics.filmaffinity.com/The_Leopard_TV_Miniseries-672124098-large.jpg",
+            "id1": "",
+            "id2": "1r2fx03oslz1",
+            "id3": ""
+        },
+        {
+            "country": "The Leopard (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://pics.filmaffinity.com/The_Leopard_TV_Miniseries-672124098-large.jpg",
+            "id1": "",
+            "id2": "36j8n1tgjl8i",
             "id3": ""
         },
         {
@@ -7314,6 +7817,14 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BZWNhODdkMWEtMzE2NS00NjhhLWI4MzgtNGRkYTZiN2JlMjZmXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "n8ln2dpxlh6w",
+            "id3": ""
+        },
+        {
+            "country": "1923 (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BM2MxYmFkNDQtMzRiNy00OTYzLWIwOWEtZTY5ZTI2MGZlNTk0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "sjtti8p3umi5",
             "id3": ""
         },
         {
@@ -7500,12 +8011,20 @@
             "id2": "o999c4fwtdnh",
             "id3": ""
         },
-		{
+        {
             "country": "Reacher (2022)",
             "channel": "[I][COLOR white]S03 Epizoda 05[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYjJlMmYzM2QtZWU4OS00ZDNhLTk5MzItZTQxZmVhNjM4MTk5XkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "2x3q5v5ddx41",
+            "id3": ""
+        },
+        {
+            "country": "Reacher (2022)",
+            "channel": "[I][COLOR white]S03 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWU5ODRlMjYtNTczMy00Y2YxLTg5M2UtMjFkODA4OGE5Njk4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "48jizmg4pz26",
             "id3": ""
         },
         {
@@ -7530,6 +8049,14 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BMDRiNTBlY2EtZmRiZC00Mzc4LTljZDctNWQ5ZGY2NjUwNjE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "7wmexny0h7q4",
+            "id3": ""
+        },
+        {
+            "country": "Daredevil Born Again (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMDRiNTBlY2EtZmRiZC00Mzc4LTljZDctNWQ5ZGY2NjUwNjE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "6kvm3g1mi89n",
             "id3": ""
         }
     ]

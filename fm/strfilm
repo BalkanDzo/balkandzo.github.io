@@ -37,6 +37,30 @@
     "channels": [
         {
             "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Last Breath (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYmNjMDg1Y2EtNmZiOS00NGUzLThjZGYtNzU2OGI5M2VkMDFhXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "z0gn0fdtr4x9",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "High Rollers (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNjQ3NmY4NjMtZmFlYy00YThmLWI2MGEtMWJjNWM1NmFiZDQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "zbup4u4l5xw8",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "The Electric State (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjQ1MTYzZmItMTkzYy00NzdmLTlhYmMtMzk5YjhiOThmZDgwXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+            "id1": "",
+            "id2": "w9hf49eibj54",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
             "channel": "Old Guy (2024)",
             "logo": "https://m.media-amazon.com/images/M/MV5BOGM4NzRiNTAtNDQxNy00YjBmLTg3NjMtNDE4MjVlYzUyMmIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
@@ -56,7 +80,7 @@
             "channel": "Night Call (2024) ",
             "logo": "https://m.media-amazon.com/images/M/MV5BNWMzZWZmMDQtMjNlNC00YTBmLWI3YzItNzM3ZjZlZGY0YmQwXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
-            "id2": "c9skt3zaszak",
+            "id2": "xyua51at9kaw",
             "id3": ""
         },
 		{
@@ -2402,6 +2426,46 @@
             "id1": "",
             "id2": "fm0czbwyomd4",
             "id3": "r3k6ax0rkl9u"
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Changeling (1980)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNjMzZWFmZWEtNWE0My00MDcwLTg4YzItMTczOTJkN2Q2NGY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "8c4uhy3aqtnh",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Peacemaker (1997)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZGJkYTc0ZDAtZWY0Ny00OTg0LWIyMmEtOTY2OTgyYmU3NzRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "wuev694zp040",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Negotiator (1998) ",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNTBjZDM3NzctOGE2YS00NDZiLTk4ZWMtY2IwOWI5ZTE4ZDc0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "pj17ihvgqb7y",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Liberty Stands Still (2002)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGEwMGI2NGEtZDg2Ni00ZWVjLTk0YjQtM2RiZDRlNTcwODQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "vks45fvp1x73",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The King's Speech (2010)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzU5MjEwMTg2Nl5BMl5BanBnXkFtZTcwNzM3MTYxNA@@._V1_.jpg",
+            "id1": "",
+            "id2": "8dofccgj00pn",
+            "id3": ""
         },
 		{
             "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",

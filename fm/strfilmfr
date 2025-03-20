@@ -201,6 +201,9 @@
         },
         {
             "country": "From Dusk Till Dawn"
+        },
+        {
+            "country": "Avengers"
         }
     ],
     "channels": [
@@ -3860,7 +3863,7 @@
             "id2": "z4r98t6g7whz",
             "id3": ""
         },
-		{
+        {
             "country": "From Dusk Till Dawn",
             "channel": "From Dusk Till Dawn (1996)",
             "logo": "https://m.media-amazon.com/images/M/MV5BZGNjMWMwNWEtYTQ2YS00N2E5LTg5ZWYtMDgzM2UxMTE1ZTE4XkEyXkFqcGc@._V1_.jpg",
@@ -3882,6 +3885,38 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BMGJlMDkzMDAtMDhkYy00YjBmLWEzZjktYzZjNmQ4MTQ5Yjk4XkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "c7oq3uiljh1c",
+            "id3": ""
+        },
+		{
+            "country": "Avengers",
+            "channel": "The Avengers (2012)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGE0YTVjNzUtNzJjOS00NGNlLTgxMzctZTY4YTE1Y2Y1ZTU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "d2q7f7x4h7ow",
+            "id3": ""
+        },
+        {
+            "country": "Avengers",
+            "channel": "Avengers Age of Ultron (2015)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODBhYTg1NGQtNGVmNS00ZTdiLThjYTYtZDFkNzRiNTZmNDZjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "h8h7s5q7uv86",
+            "id3": ""
+        },
+        {
+            "country": "Avengers",
+            "channel": "Avengers Infinity War (2018)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+            "id1": "",
+            "id2": "u50ow5flq82f",
+            "id3": ""
+        },
+        {
+            "country": "Avengers",
+            "channel": "Avengers Endgame (2019)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "pypfghh48e9e",
             "id3": ""
         }
     ]
