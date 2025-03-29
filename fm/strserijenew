@@ -104,6 +104,15 @@
         },
         {
             "country": "The Leopard (2025)"
+        },
+        {
+            "country": "Gangs of London (2020)"
+        },
+        {
+            "country": "Long Bright River (2025)"
+        },
+        {
+            "country": "Woman of the Dead (2022"
         }
     ],
     "channels": [
@@ -505,6 +514,22 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BOGVmOTg0ZWEtMWIwNS00NjkwLThiYWMtOWJmNGFkZWJhYzVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "vshj6n42u33l",
+            "id3": ""
+        },
+        {
+            "country": "Found (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 15[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOGVmOTg0ZWEtMWIwNS00NjkwLThiYWMtOWJmNGFkZWJhYzVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "r3qt4wntqnu6",
+            "id3": ""
+        },
+        {
+            "country": "Found (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 16[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOGVmOTg0ZWEtMWIwNS00NjkwLThiYWMtOWJmNGFkZWJhYzVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "17j8pdj7ovyb",
             "id3": ""
         },
         {
@@ -3436,6 +3461,22 @@
             "id3": ""
         },
         {
+            "country": "The Pitt (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 12[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTU3MDliMGEtMDQxNi00OTk1LTg1NWMtZDM2NmEwZDA1ZDk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "tj3g4hbipcyf",
+            "id3": ""
+        },
+        {
+            "country": "The Pitt (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 13[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTU3MDliMGEtMDQxNi00OTk1LTg1NWMtZDM2NmEwZDA1ZDk2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "7fnzl21noj9v",
+            "id3": ""
+        },
+        {
             "country": "The Wheel of Time (2021)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://images.justwatch.com/poster/307296420/s718/the-wheel-of-time.jpg",
@@ -3612,6 +3653,30 @@
             "id3": ""
         },
         {
+            "country": "The Wheel of Time  (2021)",
+            "channel": "[I][COLOR white]S03 Epizoda 04[/COLOR][/I]",
+            "logo": "https://resizing.flixster.com/13LrTklQ-rf_li6kqX6M05u0TRY=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vNDA3MjljYmUtN2I3MC00NDA1LWI3MzMtNTA2M2NhNWNmMjg1LmpwZw==",
+            "id1": "",
+            "id2": "2chbxzgr59wi",
+            "id3": ""
+        },
+        {
+            "country": "The Wheel of Time (2021)",
+            "channel": "[I][COLOR white]S03 Epizoda 05[/COLOR][/I]",
+            "logo": "https://resizing.flixster.com/lLaxpnhX3fSyBl3WI3QlamMn8z4=/fit-in/705x460/v2/https://resizing.flixster.com/13LrTklQ-rf_li6kqX6M05u0TRY=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vNDA3MjljYmUtN2I3MC00NDA1LWI3MzMtNTA2M2NhNWNmMjg1LmpwZw==",
+            "id1": "",
+            "id2": "b881oldgblmo",
+            "id3": ""
+        },
+        {
+            "country": "The Wheel of Time (2021)",
+            "channel": "[I][COLOR white]S03 Epizoda 06[/COLOR][/I]",
+            "logo": "https://resizing.flixster.com/lLaxpnhX3fSyBl3WI3QlamMn8z4=/fit-in/705x460/v2/https://resizing.flixster.com/13LrTklQ-rf_li6kqX6M05u0TRY=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vNDA3MjljYmUtN2I3MC00NDA1LWI3MzMtNTA2M2NhNWNmMjg1LmpwZw==",
+            "id1": "",
+            "id2": "y4mwqkk8u6ci",
+            "id3": ""
+        },
+        {
             "country": "Zero Day (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMmYwNWM3ZWEtMmRlMi00MTA5LWFlY2QtMGI2MTdjOWFiZjgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -3737,6 +3802,14 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BMzBlMzg3ODItZDAwMC00OGFlLTg5YTEtMGU2YmEwY2E5NDlhXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "zq6uxkmjlxth",
+            "id3": ""
+        },
+        {
+            "country": "Doc (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 10[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzBlMzg3ODItZDAwMC00OGFlLTg5YTEtMGU2YmEwY2E5NDlhXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "1s2l6se3x4az",
             "id3": ""
         },
         {
@@ -5675,12 +5748,28 @@
             "id2": "w3lustmprdb5",
             "id3": ""
         },
-		{
+        {
             "country": "Chicago Fire (2012)",
             "channel": "[I][COLOR white]S11 Epizoda 15[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZDgwYjlhMGItMDQ3YS00OGQyLWFiMTQtYzkwNTUzNjE4NzIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "rfti7i60zx4o",
+            "id3": ""
+        },
+        {
+            "country": "Chicago Fire (2012)",
+            "channel": "[I][COLOR white]S11 Epizoda 16[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDgwYjlhMGItMDQ3YS00OGQyLWFiMTQtYzkwNTUzNjE4NzIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "zznfielgmdh7",
+            "id3": ""
+        },
+        {
+            "country": "Chicago Fire (2012)",
+            "channel": "[I][COLOR white]S11 Epizoda 17[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDgwYjlhMGItMDQ3YS00OGQyLWFiMTQtYzkwNTUzNjE4NzIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "sc135t5uo0l1",
             "id3": ""
         },
         {
@@ -5721,6 +5810,22 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BYzYxNzdhNTctZDJmOC00YWQ1LWE0NDMtYTk2YmFlYzA3M2ZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "84roxohdjux1",
+            "id3": ""
+        },
+        {
+            "country": "Coyotl, Hero and Beast (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYzYxNzdhNTctZDJmOC00YWQ1LWE0NDMtYTk2YmFlYzA3M2ZlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "843a1x6d7c1f",
+            "id3": ""
+        },
+        {
+            "country": "Coyotl, Hero and Beast (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYzYxNzdhNTctZDJmOC00YWQ1LWE0NDMtYTk2YmFlYzA3M2ZlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ghlzniq41ygh",
             "id3": ""
         },
         {
@@ -6708,6 +6813,22 @@
             "id3": ""
         },
         {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S07 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "ve057di0uqr8",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S07 Epizoda 10[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "y2n75bxvn1rh",
+            "id3": ""
+        },
+        {
             "country": "Yellowjackets (2021)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BOGVhNzViNTYtYjg0Ny00NzI3LWI2MTQtMzFlYWQ4NTQ2YmQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -6916,6 +7037,22 @@
             "id3": ""
         },
         {
+            "country": "Yellowjackets (2021)",
+            "channel": "[I][COLOR white]S03 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOGVhNzViNTYtYjg0Ny00NzI3LWI2MTQtMzFlYWQ4NTQ2YmQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "v43geya80vmw",
+            "id3": ""
+        },
+		{
+            "country": "Yellowjackets (2021)",
+            "channel": "[I][COLOR white]S03 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOGVhNzViNTYtYjg0Ny00NzI3LWI2MTQtMzFlYWQ4NTQ2YmQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "ti59al3on2v0",
+            "id3": ""
+        },
+        {
             "country": "Severance (2022)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_.jpg",
@@ -7076,6 +7213,14 @@
             "id3": ""
         },
         {
+            "country": "Severance (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 10[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "aoxmy2t681q0",
+            "id3": ""
+        },
+        {
             "country": "House of David (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZWExMTJiMGQtYTA3OC00ZGM0LTg5MGQtZjMwM2VlNTU3YjRhXkEyXkFqcGc@._V1_QL75_UX190_CR0,28,190,281_.jpg",
@@ -7115,12 +7260,100 @@
             "id2": "tunu9fiojjum",
             "id3": ""
         },
-		{
+        {
             "country": "House of David (2025)",
             "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZWExMTJiMGQtYTA3OC00ZGM0LTg5MGQtZjMwM2VlNTU3YjRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "huw459rtf4fw",
+            "id3": ""
+        },
+        {
+            "country": "House of David (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWExMTJiMGQtYTA3OC00ZGM0LTg5MGQtZjMwM2VlNTU3YjRhXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "g3t9lbbatp8x",
+            "id3": ""
+        },
+        {
+            "country": "House of David (2025) ",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWExMTJiMGQtYTA3OC00ZGM0LTg5MGQtZjMwM2VlNTU3YjRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "a0ghapavi1np",
+            "id3": ""
+        },
+        {
+            "country": "Long Bright River (2025)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDliMDVlOTItNTk0NS00YmUxLWI4NzktYjI0ODZmNDM4OTVlXkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Long Bright River (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDliMDVlOTItNTk0NS00YmUxLWI4NzktYjI0ODZmNDM4OTVlXkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+            "id1": "",
+            "id2": "ygsbk8yt2d03",
+            "id3": ""
+        },
+        {
+            "country": "Long Bright River (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDliMDVlOTItNTk0NS00YmUxLWI4NzktYjI0ODZmNDM4OTVlXkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+            "id1": "",
+            "id2": "zi6rdp990404",
+            "id3": ""
+        },
+        {
+            "country": "Long Bright River (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDliMDVlOTItNTk0NS00YmUxLWI4NzktYjI0ODZmNDM4OTVlXkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+            "id1": "",
+            "id2": "gi9uknzrutp8",
+            "id3": ""
+        },
+        {
+            "country": "Long Bright River (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDliMDVlOTItNTk0NS00YmUxLWI4NzktYjI0ODZmNDM4OTVlXkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+            "id1": "",
+            "id2": "1da1hhd0a9qc",
+            "id3": ""
+        },
+        {
+            "country": "Long Bright River (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDliMDVlOTItNTk0NS00YmUxLWI4NzktYjI0ODZmNDM4OTVlXkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+            "id1": "",
+            "id2": "c36xdm1llsts",
+            "id3": ""
+        },
+        {
+            "country": "Long Bright River (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDliMDVlOTItNTk0NS00YmUxLWI4NzktYjI0ODZmNDM4OTVlXkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+            "id1": "",
+            "id2": "2ewsl1vfvvl1",
+            "id3": ""
+        },
+        {
+            "country": "Long Bright River (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDliMDVlOTItNTk0NS00YmUxLWI4NzktYjI0ODZmNDM4OTVlXkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+            "id1": "",
+            "id2": "0dp9pyqq6qp2",
+            "id3": ""
+        },
+        {
+            "country": "Long Bright River (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDliMDVlOTItNTk0NS00YmUxLWI4NzktYjI0ODZmNDM4OTVlXkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+            "id1": "",
+            "id2": "x3xyqj8mau50",
             "id3": ""
         },
         {
@@ -7555,7 +7788,127 @@
             "id2": "kkplot3j80bs",
             "id3": ""
         },
+        {
+            "country": "The White Lotus (2021)",
+            "channel": "[I][COLOR white]S03 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZmM1MGM0MDQtZTAzNy00ZGJkLWI4MDUtNjBmMzdhYjhlM2QwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "2teww4d0gw2m",
+            "id3": ""
+        },
 		{
+            "country": "Woman of the Dead (2022",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2E2N2UzOTYtYWIzOC00ODMzLThkMzktN2UwMWU2ZmE5MjI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Woman of the Dead (2022",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2E2N2UzOTYtYWIzOC00ODMzLThkMzktN2UwMWU2ZmE5MjI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "6diir2rbdbly",
+            "id3": ""
+        },
+        {
+            "country": "Woman of the Dead (2022",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2E2N2UzOTYtYWIzOC00ODMzLThkMzktN2UwMWU2ZmE5MjI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "re5yj0poucrg",
+            "id3": ""
+        },
+        {
+            "country": "Woman of the Dead (2022",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2E2N2UzOTYtYWIzOC00ODMzLThkMzktN2UwMWU2ZmE5MjI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "bmdx6rdwvrar",
+            "id3": ""
+        },
+        {
+            "country": "Woman of the Dead (2022",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2E2N2UzOTYtYWIzOC00ODMzLThkMzktN2UwMWU2ZmE5MjI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "9nii4j4nvp29",
+            "id3": ""
+        },
+        {
+            "country": "Woman of the Dead (2022",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2E2N2UzOTYtYWIzOC00ODMzLThkMzktN2UwMWU2ZmE5MjI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "44z3k4detwoy",
+            "id3": ""
+        },
+        {
+            "country": "Woman of the Dead (2022",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2E2N2UzOTYtYWIzOC00ODMzLThkMzktN2UwMWU2ZmE5MjI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "tpgovram0pje",
+            "id3": ""
+        },
+        {
+            "country": "Woman of the Dead (2022",
+            "channel": "[B][COLOR deepskyblue]---Sezona 02---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2E2N2UzOTYtYWIzOC00ODMzLThkMzktN2UwMWU2ZmE5MjI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Woman of the Dead (2022",
+            "channel": "[I][COLOR white]S02 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2E2N2UzOTYtYWIzOC00ODMzLThkMzktN2UwMWU2ZmE5MjI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "7qyagoq8gob2",
+            "id3": ""
+        },
+        {
+            "country": "Woman of the Dead (2022",
+            "channel": "[I][COLOR white]S02 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2E2N2UzOTYtYWIzOC00ODMzLThkMzktN2UwMWU2ZmE5MjI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "5hn1iwxojdki",
+            "id3": ""
+        },
+        {
+            "country": "Woman of the Dead (2022",
+            "channel": "[I][COLOR white]S02 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2E2N2UzOTYtYWIzOC00ODMzLThkMzktN2UwMWU2ZmE5MjI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "7q1su16q9i45",
+            "id3": ""
+        },
+        {
+            "country": "Woman of the Dead (2022",
+            "channel": "[I][COLOR white]S02 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2E2N2UzOTYtYWIzOC00ODMzLThkMzktN2UwMWU2ZmE5MjI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "jgigan7e7alj",
+            "id3": ""
+        },
+        {
+            "country": "Woman of the Dead (2022",
+            "channel": "[I][COLOR white]S02 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2E2N2UzOTYtYWIzOC00ODMzLThkMzktN2UwMWU2ZmE5MjI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "eqew1ig46z1j",
+            "id3": ""
+        },
+        {
+            "country": "Woman of the Dead (2022",
+            "channel": "[I][COLOR white]S02 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2E2N2UzOTYtYWIzOC00ODMzLThkMzktN2UwMWU2ZmE5MjI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "6zcrybjbjqnm",
+            "id3": ""
+        },
+        {
             "country": "A Body in the Snow The Trial of Karen Read (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://images.justwatch.com/poster/327091447/s332/season-1",
@@ -7579,7 +7932,31 @@
             "id2": "l5ixwiywufaw",
             "id3": ""
         },
-		{
+        {
+            "country": "A Body in the Snow The Trial of Karen Read (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZmIyZTAxNWQtNzg5Yy00NGIzLWE5YTctOTA5NDQ0ODgyNjRlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "d8ew9ofojvke",
+            "id3": ""
+        },
+        {
+            "country": "A Body in the Snow The Trial of Karen Read (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZmIyZTAxNWQtNzg5Yy00NGIzLWE5YTctOTA5NDQ0ODgyNjRlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "g8si0ufuyqht",
+            "id3": ""
+        },
+        {
+            "country": "A Body in the Snow The Trial of Karen Read (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZmIyZTAxNWQtNzg5Yy00NGIzLWE5YTctOTA5NDQ0ODgyNjRlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "5kqq7hhvj84w",
+            "id3": ""
+        },
+        {
             "country": "Adolescence (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BNGY1YjBiNzMtYWZhNC00OWViLWE0MzItNjc4YzczOGNiM2I0XkEyXkFqcGc@._V1_.jpg",
@@ -7619,7 +7996,7 @@
             "id2": "yes9cso2j8vz",
             "id3": ""
         },
-		{
+        {
             "country": "The Leopard (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://pics.filmaffinity.com/The_Leopard_TV_Miniseries-672124098-large.jpg",
@@ -7828,6 +8205,22 @@
             "id3": ""
         },
         {
+            "country": "1923 (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2ExYWFjMzYtOWQyOS00Mjc2LThlMWMtNGM0YzEyZmEyZWQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "7zbnssc9l8pz",
+            "id3": ""
+        },
+        {
+            "country": "1923 (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 05[/COLOR][/I]",
+            "logo": "https://resizing.flixster.com/NxHevPwPauQUdSTqTxVJMrThudM=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vN2Y3NTcwOTctOTRkNC00YmI2LTkzYzctMmIyZDgzODA4MjU2LmpwZw==",
+            "id1": "",
+            "id2": "7vn5oefoxal4",
+            "id3": ""
+        },
+        {
             "country": "Reacher (2022)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZWU5ODRlMjYtNTczMy00Y2YxLTg5M2UtMjFkODA4OGE5Njk4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -7958,17 +8351,17 @@
         {
             "country": "Reacher (2022)",
             "channel": "[I][COLOR white]S02 Epizoda 07[/COLOR][/I]",
-            "logo": "https://m.media-amazon.com/images/M/MV5BZWU5ODRlMjYtNTczMy00Y2YxLTg5M2UtMjFkODA4OGE5Njk4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjJlMmYzM2QtZWU4OS00ZDNhLTk5MzItZTQxZmVhNjM4MTk5XkEyXkFqcGc@._V1_.jpg",
             "id1": "",
-            "id2": "6apev6rqxjix",
+            "id2": "eix74b0me113",
             "id3": ""
         },
         {
             "country": "Reacher (2022)",
             "channel": "[I][COLOR white]S02 Epizoda 08[/COLOR][/I]",
-            "logo": "https://m.media-amazon.com/images/M/MV5BZWU5ODRlMjYtNTczMy00Y2YxLTg5M2UtMjFkODA4OGE5Njk4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjJlMmYzM2QtZWU4OS00ZDNhLTk5MzItZTQxZmVhNjM4MTk5XkEyXkFqcGc@._V1_.jpg",
             "id1": "",
-            "id2": "swpm59ui0sy6",
+            "id2": "0kg6i6dan8ok",
             "id3": ""
         },
         {
@@ -8028,6 +8421,22 @@
             "id3": ""
         },
         {
+            "country": "Reacher (2022)",
+            "channel": "[I][COLOR white]S03 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjJlMmYzM2QtZWU4OS00ZDNhLTk5MzItZTQxZmVhNjM4MTk5XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "0men8debfkkz",
+            "id3": ""
+        },
+        {
+            "country": "Reacher (2022)",
+            "channel": "[I][COLOR white]S03 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjJlMmYzM2QtZWU4OS00ZDNhLTk5MzItZTQxZmVhNjM4MTk5XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "umqi9i5megb7",
+            "id3": ""
+        },
+        {
             "country": "Daredevil Born Again (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMDRiNTBlY2EtZmRiZC00Mzc4LTljZDctNWQ5ZGY2NjUwNjE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -8057,6 +8466,310 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BMDRiNTBlY2EtZmRiZC00Mzc4LTljZDctNWQ5ZGY2NjUwNjE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "6kvm3g1mi89n",
+            "id3": ""
+        },
+        {
+            "country": "Daredevil Born Again (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMDRiNTBlY2EtZmRiZC00Mzc4LTljZDctNWQ5ZGY2NjUwNjE4XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+            "id1": "",
+            "id2": "hvlp7wkvopej",
+            "id3": ""
+        },
+        {
+            "country": "Daredevil Born Again (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMDRiNTBlY2EtZmRiZC00Mzc4LTljZDctNWQ5ZGY2NjUwNjE4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "9g0ch95o2jag",
+            "id3": ""
+        },
+        {
+            "country": "Daredevil Born Again (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMDRiNTBlY2EtZmRiZC00Mzc4LTljZDctNWQ5ZGY2NjUwNjE4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "9ykj17b6fcvg",
+            "id3": ""
+        },
+        {
+            "country": "Gangs of London (2020)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWYzYmVmZjItNjZhZi00NzBjLWJmYWItNTljZjhmZDQxN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Gangs of London (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWYzYmVmZjItNjZhZi00NzBjLWJmYWItNTljZjhmZDQxN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "3h40zdf07ufz",
+            "id3": ""
+        },
+        {
+            "country": "Gangs of London (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWYzYmVmZjItNjZhZi00NzBjLWJmYWItNTljZjhmZDQxN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "itkmppdnkt8m",
+            "id3": ""
+        },
+        {
+            "country": "Gangs of London (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWYzYmVmZjItNjZhZi00NzBjLWJmYWItNTljZjhmZDQxN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "9b14jm4bmvs6",
+            "id3": ""
+        },
+        {
+            "country": "Gangs of London (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWYzYmVmZjItNjZhZi00NzBjLWJmYWItNTljZjhmZDQxN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "hw6eogq0crx2",
+            "id3": ""
+        },
+        {
+            "country": "Gangs of London (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWYzYmVmZjItNjZhZi00NzBjLWJmYWItNTljZjhmZDQxN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "cy7k4z757u8d",
+            "id3": ""
+        },
+        {
+            "country": "Gangs of London (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWYzYmVmZjItNjZhZi00NzBjLWJmYWItNTljZjhmZDQxN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "dapd2js9shcg",
+            "id3": ""
+        },
+        {
+            "country": "Gangs of London (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWYzYmVmZjItNjZhZi00NzBjLWJmYWItNTljZjhmZDQxN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "uxcmx640xqt2",
+            "id3": ""
+        },
+        {
+            "country": "Gangs of London (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWYzYmVmZjItNjZhZi00NzBjLWJmYWItNTljZjhmZDQxN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "1lyass88x0lh",
+            "id3": ""
+        },
+        {
+            "country": "Gangs of London (2020)",
+            "channel": "[I][COLOR white]S01 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWYzYmVmZjItNjZhZi00NzBjLWJmYWItNTljZjhmZDQxN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "i477qg9ky9ei",
+            "id3": ""
+        },
+        {
+            "country": "Gangs of London (2020)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 02---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWYzYmVmZjItNjZhZi00NzBjLWJmYWItNTljZjhmZDQxN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Gangs of London (2020)",
+            "channel": "[I][COLOR white]S02 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWYzYmVmZjItNjZhZi00NzBjLWJmYWItNTljZjhmZDQxN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "dedmg4lavhm6",
+            "id3": ""
+        },
+        {
+            "country": "Gangs of London (2020)",
+            "channel": "[I][COLOR white]S02 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWYzYmVmZjItNjZhZi00NzBjLWJmYWItNTljZjhmZDQxN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "yjb3srp1t0u3",
+            "id3": ""
+        },
+        {
+            "country": "Gangs of London (2020)",
+            "channel": "[I][COLOR white]S02 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWYzYmVmZjItNjZhZi00NzBjLWJmYWItNTljZjhmZDQxN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "r7euvtakvkxn",
+            "id3": ""
+        },
+        {
+            "country": "Gangs of London (2020)",
+            "channel": "[I][COLOR white]S02 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWYzYmVmZjItNjZhZi00NzBjLWJmYWItNTljZjhmZDQxN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "7gqdglxmlkt0",
+            "id3": ""
+        },
+        {
+            "country": "Gangs of London (2020)",
+            "channel": "[I][COLOR white]S02 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWYzYmVmZjItNjZhZi00NzBjLWJmYWItNTljZjhmZDQxN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "0umua93jp150",
+            "id3": ""
+        },
+        {
+            "country": "Gangs of London (2020)",
+            "channel": "[I][COLOR white]S02 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWYzYmVmZjItNjZhZi00NzBjLWJmYWItNTljZjhmZDQxN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "wt8g34g32div",
+            "id3": ""
+        },
+        {
+            "country": "Gangs of London (2020)",
+            "channel": "[I][COLOR white]S02 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWYzYmVmZjItNjZhZi00NzBjLWJmYWItNTljZjhmZDQxN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "mh66uq334tfr",
+            "id3": ""
+        },
+        {
+            "country": "Gangs of London (2020)",
+            "channel": "[I][COLOR white]S02 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWYzYmVmZjItNjZhZi00NzBjLWJmYWItNTljZjhmZDQxN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "wnk8fyshrlqj",
+            "id3": ""
+        },
+        {
+            "country": "Gangs of London (2020)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 03---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWYzYmVmZjItNjZhZi00NzBjLWJmYWItNTljZjhmZDQxN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Gangs of London (2020)",
+            "channel": "[I][COLOR white]S03 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWYzYmVmZjItNjZhZi00NzBjLWJmYWItNTljZjhmZDQxN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "f878pt0cbt74",
+            "id3": ""
+        },
+        {
+            "country": "Gangs of London (2020)",
+            "channel": "[I][COLOR white]S03 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWYzYmVmZjItNjZhZi00NzBjLWJmYWItNTljZjhmZDQxN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "56zjsgnqfvws",
+            "id3": ""
+        },
+        {
+            "country": "Gangs of London (2020)",
+            "channel": "[I][COLOR white]S03 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWYzYmVmZjItNjZhZi00NzBjLWJmYWItNTljZjhmZDQxN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "q94oz66myj3f",
+            "id3": ""
+        },
+        {
+            "country": "The Residence (2025)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNmJlOWFiNGEtZGYyMy00ZWY5LWJlMjMtYjgzZTViNDI3NzUxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "The Residence (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNmJlOWFiNGEtZGYyMy00ZWY5LWJlMjMtYjgzZTViNDI3NzUxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "pwyjbvs4pevj",
+            "id3": ""
+        },
+        {
+            "country": "The Residence (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNmJlOWFiNGEtZGYyMy00ZWY5LWJlMjMtYjgzZTViNDI3NzUxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "kv9t9f5hj087",
+            "id3": ""
+        },
+        {
+            "country": "The Residence (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNmJlOWFiNGEtZGYyMy00ZWY5LWJlMjMtYjgzZTViNDI3NzUxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "nri84rwgcq6s",
+            "id3": ""
+        },
+        {
+            "country": "The Residence (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNmJlOWFiNGEtZGYyMy00ZWY5LWJlMjMtYjgzZTViNDI3NzUxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "cqbxccntj0xl",
+            "id3": ""
+        },
+        {
+            "country": "The Residence (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNmJlOWFiNGEtZGYyMy00ZWY5LWJlMjMtYjgzZTViNDI3NzUxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "1o44yof7uon1",
+            "id3": ""
+        },
+        {
+            "country": "The Residence (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNmJlOWFiNGEtZGYyMy00ZWY5LWJlMjMtYjgzZTViNDI3NzUxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "o2vz1vo2iv19",
+            "id3": ""
+        },
+        {
+            "country": "The Residence (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNmJlOWFiNGEtZGYyMy00ZWY5LWJlMjMtYjgzZTViNDI3NzUxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "2a31thfmbfkf",
+            "id3": ""
+        },
+        {
+            "country": "The Residence (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNmJlOWFiNGEtZGYyMy00ZWY5LWJlMjMtYjgzZTViNDI3NzUxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "jsw9vjen1pfs",
+            "id3": ""
+        },
+        {
+            "country": "A Decent Man (2025)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjE1MDlmNzMtMTBiOC00NTgzLWIwZmItN2U0OTU1YmFkNzlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "A Decent Man (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjE1MDlmNzMtMTBiOC00NTgzLWIwZmItN2U0OTU1YmFkNzlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "jqui9fsdmeev",
+            "id3": ""
+        },
+        {
+            "country": "A Decent Man (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjE1MDlmNzMtMTBiOC00NTgzLWIwZmItN2U0OTU1YmFkNzlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "1tooz0z2b3y6",
             "id3": ""
         }
     ]
