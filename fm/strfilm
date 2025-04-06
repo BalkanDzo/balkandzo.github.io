@@ -37,6 +37,102 @@
     "channels": [
         {
             "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Bring Them Down (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNWVhMGNlODgtYzAyMS00OGJhLTkyOGItNDY3MjA4NjVjYzMzXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "zlhgagt2rc10",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Banger (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNjdhMDhhNTAtMTExOS00YWE4LTlmNDUtODgzZTIwODMxYjJmXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+            "id1": "",
+            "id2": "pyey00a6yh6s",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "The Last Supper (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMDBhYjBlYzctOTMyNC00NmMxLTk4YmMtMTU4Yjg3MzMwNjc1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "78rkm1jjqpjo",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Black Bag (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNzA1OWU4NDMtMDUxMC00NWI4LWJhYjUtYWQ0OGQ5MTc2NDRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "2af8jbsxdc2l",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Fight or Flight (2025)",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTanBZ_wgxrzuTIN7L72F6JRIEsQ48XjSf8Vg&s",
+            "id1": "",
+            "id2": "37qd2qlt39pg",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "The Monkey (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNzZhMTc5MWUtOTE2MS00MjUwLTljYWEtYTk1ZmVjNzhmMzYzXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+            "id1": "",
+            "id2": "lbeuyjgyq7r3",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "The Life List (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjNhNzUyMTQtYTFiZS00NzM2LWI3YTgtZmI1ZTA1MDUzMzBhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "zfb63emcloxl",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Cleaner (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmE1MzkyMDctZjgzNC00YzkxLWI1YTctY2E4YzNjNmI1YTljXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "iunnr3g77cwi",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Tyler Perry's Duplicity (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZGEzNjdlYzYtMzNjMC00Yjg1LTgzMmItN2Y5NGM1NmYxYjBiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "jui2vs6l37sl",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Riff Raff (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2FiYzNhNTItN2M4Mi00MDRjLTk2NTMtYmQxODk4ZTMzN2E5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "eagloanxkeb5",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Hellhound (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjc4ZmQ4YmEtYjhhNy00NTNlLTkwMzctMjNiZmRkY2JkNTBkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "jdw4mqxs5wn0",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Hajjan (2023)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNzFmMTFkNGQtZDRiOS00N2VjLWFmZDUtZmVmNjA4MjBmYjg3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "obapmxoo79ko",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
             "channel": "Last Breath (2025)",
             "logo": "https://m.media-amazon.com/images/M/MV5BYmNjMDg1Y2EtNmZiOS00NGUzLThjZGYtNzU2OGI5M2VkMDFhXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
@@ -2426,6 +2522,46 @@
             "id1": "",
             "id2": "fm0czbwyomd4",
             "id3": "r3k6ax0rkl9u"
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Deception (2008)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTI2ZDg2ZWItNTBmNS00MDU4LTlhNzMtNzE0MjEyMmY3NDk0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "444ii7tyhuu5",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Core (2003)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTY3MTY3MzkzNl5BMl5BanBnXkFtZTYwNTAwNDk2._V1_QL75_UY281_CR6,0,190,281_.jpg",
+            "id1": "",
+            "id2": "pwtpp3xj9dlh",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Kill 'Em All (2017)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYzNlOWE4ZjMtOTcwNy00ZThhLWJiM2QtNGExZmJiNDhmYzJmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "1t5qt0wvs0zy",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Kill Em All 2 (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTFjZTg5ZjQtZDgwYy00M2EwLWJiZjItMGMyNzE4YTcyMTIwXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "09f88n2ju1dp",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Island (2023)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZjRhNTM4OTMtNDg2Mi00N2QwLWEyYzQtMWNkMzhmOWI1ZTE2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "gxpzkf8emv8h",
+            "id3": ""
         },
 		{
             "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
