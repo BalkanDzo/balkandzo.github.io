@@ -86,6 +86,12 @@
         },
         {
             "country": "Mama i tata se igraju rata (2020)"
+        },
+		{
+            "country": "Ubice Moga Oca (2016)"
+        },
+		{
+            "country": "Oblak u sluzbi zakona (2023)"
         }
     ],
     "channels": [
@@ -4497,6 +4503,46 @@
             "id2": "kcafl9hccsti",
             "id3": ""
         },
+		{
+            "country": "Kumovi (2022-)",
+            "channel": "[I][COLOR white]S05 Epizoda 058[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYmJhNDVhYTMtYmI5ZC00NmU0LTg4Y2EtMTI2MWU1NWY5ZjUzXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "1cdb215fw6z8",
+            "id3": ""
+        },
+		{
+            "country": "Kumovi (2022-)",
+            "channel": "[I][COLOR white]S05 Epizoda 059[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYmJhNDVhYTMtYmI5ZC00NmU0LTg4Y2EtMTI2MWU1NWY5ZjUzXkEyXkFqcGc@._V1_.jpg\n",
+            "id1": "",
+            "id2": "yqm45d9o08l3",
+            "id3": ""
+        },
+		{
+            "country": "Kumovi (2022-)",
+            "channel": "[I][COLOR white]S05 Epizoda 060[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYmJhNDVhYTMtYmI5ZC00NmU0LTg4Y2EtMTI2MWU1NWY5ZjUzXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "v2wfq6mj5kd8",
+            "id3": ""
+        },
+		{
+            "country": "Kumovi (2022-)",
+            "channel": "[I][COLOR white]S05 Epizoda 061[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYmJhNDVhYTMtYmI5ZC00NmU0LTg4Y2EtMTI2MWU1NWY5ZjUzXkEyXkFqcGc@._V1_.jpg\n",
+            "id1": "",
+            "id2": "7kxc28mklnre",
+            "id3": ""
+        },
+		{
+            "country": "Kumovi (2022-)",
+            "channel": "[I][COLOR white]S05 Epizoda 062[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYmJhNDVhYTMtYmI5ZC00NmU0LTg4Y2EtMTI2MWU1NWY5ZjUzXkEyXkFqcGc@._V1_.jpg\n",
+            "id1": "",
+            "id2": "p324to7e463h",
+            "id3": ""
+        },
         {
             "country": "Pasjaca (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
@@ -4801,6 +4847,62 @@
             "id2": "gi6gyb96zb7t",
             "id3": ""
         },
+		{
+            "country": "Pasjaca (2025)",
+            "channel": "[I][COLOR white]S04 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOWYyZDg4OTktZDdmMy00N2E4LWFjNzQtN2FhNDU4M2Y0YzAzXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "bgub0v3hcxru",
+            "id3": ""
+        },
+        {
+            "country": "Pasjaca (2025)",
+            "channel": "[I][COLOR white]S04 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOWYyZDg4OTktZDdmMy00N2E4LWFjNzQtN2FhNDU4M2Y0YzAzXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ehi2ud0cjn2x",
+            "id3": ""
+        },
+		{
+            "country": "Pasjaca (2025)",
+            "channel": "[I][COLOR white]S04 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOWYyZDg4OTktZDdmMy00N2E4LWFjNzQtN2FhNDU4M2Y0YzAzXkEyXkFqcGc@._V1_.jpg\n",
+            "id1": "",
+            "id2": "t3jaz64cl3fy",
+            "id3": ""
+        },
+		{
+            "country": "Pasjaca (2025)",
+            "channel": "[I][COLOR white]S04 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOWYyZDg4OTktZDdmMy00N2E4LWFjNzQtN2FhNDU4M2Y0YzAzXkEyXkFqcGc@._V1_.jpg\n",
+            "id1": "",
+            "id2": "653ar8sjer9t",
+            "id3": ""
+        },
+		{
+            "country": "Pasjaca (2025)",
+            "channel": "[I][COLOR white]S04 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOWYyZDg4OTktZDdmMy00N2E4LWFjNzQtN2FhNDU4M2Y0YzAzXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "pca0xlrclb2g",
+            "id3": ""
+        },
+		{
+            "country": "Pasjaca (2025)",
+            "channel": "[I][COLOR white]S04 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOWYyZDg4OTktZDdmMy00N2E4LWFjNzQtN2FhNDU4M2Y0YzAzXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "x4k01m0vjm3t",
+            "id3": ""
+        },
+        {
+            "country": "Pasjaca (2025)",
+            "channel": "[I][COLOR white]S04 Epizoda 10[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOWYyZDg4OTktZDdmMy00N2E4LWFjNzQtN2FhNDU4M2Y0YzAzXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "lea3zu38p7s8",
+            "id3": ""
+        },
         {
             "country": "Pontonovo Srce (2024)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
@@ -4839,6 +4941,22 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BY2RjNzk5NTQtMTAxMy00NTdmLTg0ODItMmUxNWU4MGVjZmM4XkEyXkFqcGc@._V1_.jpg\n",
             "id1": "",
             "id2": "1u1c52f9n10c",
+            "id3": ""
+        },
+		{
+            "country": "Pontonovo Srce (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2RjNzk5NTQtMTAxMy00NTdmLTg0ODItMmUxNWU4MGVjZmM4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "yo12i59zqqa7",
+            "id3": ""
+        },
+		{
+            "country": "Pontonovo Srce (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2RjNzk5NTQtMTAxMy00NTdmLTg0ODItMmUxNWU4MGVjZmM4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "kd3gcrq2avcc",
             "id3": ""
         },
         {
@@ -7177,6 +7295,70 @@
             "id2": "czw3l2imrzsn",
             "id3": ""
         },
+		{
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S09 Epizoda 026[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "nn5vk3kaja3z",
+            "id3": ""
+        },
+        {
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S09 Epizoda 027[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "l1aoi9xwjt4h",
+            "id3": ""
+        },
+        {
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S09 Epizoda 028[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "yiesak05dgv1",
+            "id3": ""
+        },
+		{
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S09 Epizoda 029[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ujilkc0uaenn",
+            "id3": ""
+        },
+		{
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S09 Epizoda 030[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "mwi28k2nr6c9",
+            "id3": ""
+        },
+		{
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S09 Epizoda 031[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "z9bl3c661yrx",
+            "id3": ""
+        },
+		{
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S09 Epizoda 032[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg\n",
+            "id1": "",
+            "id2": "vn91z1j8gjj7",
+            "id3": ""
+        },
+        {
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S09 Epizoda 033[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg\n",
+            "id1": "",
+            "id2": "x80r6xisiq70",
+            "id3": ""
+        },
         {
             "country": "U dobru i zlu (2024)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
@@ -8103,6 +8285,30 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BNDJmODcwYWQtZmNjZS00OTg5LWFiODAtMGViZDg3Y2QyZWQ0XkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "8m2lf7zwq8my",
+            "id3": ""
+        },
+		{
+            "country": "U dobru i zlu (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 119[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDJmODcwYWQtZmNjZS00OTg5LWFiODAtMGViZDg3Y2QyZWQ0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "41syc4ulmkrs",
+            "id3": ""
+        },
+		{
+            "country": "U dobru i zlu (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 120[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDJmODcwYWQtZmNjZS00OTg5LWFiODAtMGViZDg3Y2QyZWQ0XkEyXkFqcGc@._V1_.jpg\n",
+            "id1": "",
+            "id2": "evpxbot2ent7",
+            "id3": ""
+        },
+        {
+            "country": "U dobru i zlu (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 121[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDJmODcwYWQtZmNjZS00OTg5LWFiODAtMGViZDg3Y2QyZWQ0XkEyXkFqcGc@._V1_.jpg\n",
+            "id1": "",
+            "id2": "h5kpv38t74lw",
             "id3": ""
         },
         {
@@ -9199,6 +9405,62 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "eo7koran1nz1",
+            "id3": ""
+        },
+		{
+            "country": "Sjene proslosti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 141[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "7zhicekn3als",
+            "id3": ""
+        },
+        {
+            "country": "Sjene proslosti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 142[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "93edr46he4bd",
+            "id3": ""
+        },
+        {
+            "country": "Sjene proslosti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 143[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "ulbtepeoonrk",
+            "id3": ""
+        },
+		{
+            "country": "Sjene proslosti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 144[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg\n",
+            "id1": "",
+            "id2": "vhrzp9fyp72q",
+            "id3": ""
+        },
+        {
+            "country": "Sjene proslosti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 145[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg\n",
+            "id1": "",
+            "id2": "4lvhuz3flby4",
+            "id3": ""
+        },
+		{
+            "country": "Sjene proslosti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 146[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg\n",
+            "id1": "",
+            "id2": "mxmowq5qfgc7",
+            "id3": ""
+        },
+		{
+            "country": "Sjene proslosti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 147[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg\n",
+            "id1": "",
+            "id2": "6e2hetdygxro",
             "id3": ""
         },
         {
@@ -14497,6 +14759,38 @@
             "id2": "bi8kklgxxjsz",
             "id3": ""
         },
+		{
+            "country": "Mama i tata se igraju rata (2020)",
+            "channel": "[I][COLOR white]S03 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmE1NjE3NTItZTRmMS00ZWY0LWIyNjUtNmNmZTgxYTM0ZTA5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "kz3und42vsoj",
+            "id3": ""
+        },
+		{
+            "country": "Mama i tata se igraju rata (2020)",
+            "channel": "[I][COLOR white]S03 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmE1NjE3NTItZTRmMS00ZWY0LWIyNjUtNmNmZTgxYTM0ZTA5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "49ogcrwcj96y",
+            "id3": ""
+        },
+		{
+            "country": "Mama i tata se igraju rata (2020)",
+            "channel": "[I][COLOR white]S03 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmE1NjE3NTItZTRmMS00ZWY0LWIyNjUtNmNmZTgxYTM0ZTA5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "w3mjgi0pzmvv",
+            "id3": ""
+        },
+		{
+            "country": "Mama i tata se igraju rata (2020)",
+            "channel": "[I][COLOR white]S03 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmE1NjE3NTItZTRmMS00ZWY0LWIyNjUtNmNmZTgxYTM0ZTA5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg\n",
+            "id1": "",
+            "id2": "6gfgaopzgkor",
+            "id3": ""
+        },
         {
             "country": "Tajne (2013)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
@@ -15303,6 +15597,102 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "zxulhv136tl4",
+            "id3": ""
+        },
+		{
+            "country": "Tajne (2013)",
+            "channel": "[I][COLOR white]S01 Epizoda 107[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "o6b61g3uovjd",
+            "id3": ""
+        },
+        {
+            "country": "Tajne (2013)",
+            "channel": "[I][COLOR white]S01 Epizoda 108[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "hulqrn78kpft",
+            "id3": ""
+        },
+        {
+            "country": "Tajne (2013)",
+            "channel": "[I][COLOR white]S01 Epizoda 109[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "7ej52w13mmn0",
+            "id3": ""
+        },
+        {
+            "country": "Tajne (2013)",
+            "channel": "[I][COLOR white]S01 Epizoda 110[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "w9by0hyxkaw6",
+            "id3": ""
+        },
+		{
+            "country": "Tajne (2013)",
+            "channel": "[I][COLOR white]S01 Epizoda 111[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "1dov0evl6qpi",
+            "id3": ""
+        },
+        {
+            "country": "Tajne (2013)",
+            "channel": "[I][COLOR white]S01 Epizoda 112[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "65wcjpiccm5x",
+            "id3": ""
+        },
+        {
+            "country": "Tajne (2013)",
+            "channel": "[I][COLOR white]S01 Epizoda 113[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "la3dvp6x9ppt",
+            "id3": ""
+        },
+		{
+            "country": "Tajne (2013)",
+            "channel": "[I][COLOR white]S01 Epizoda 114[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "iv2xpkvabo51",
+            "id3": ""
+        },
+		{
+            "country": "Tajne (2013)",
+            "channel": "[I][COLOR white]S01 Epizoda 115[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ittiahivg4n8",
+            "id3": ""
+        },
+        {
+            "country": "Tajne (2013)",
+            "channel": "[I][COLOR white]S01 Epizoda 116[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "k3c851t6v76y",
+            "id3": ""
+        },
+        {
+            "country": "Tajne (2013)",
+            "channel": "[I][COLOR white]S01 Epizoda 117[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "yuy1knj795pu",
+            "id3": ""
+        },
+		{
+            "country": "Tajne (2013)",
+            "channel": "[I][COLOR white]S01 Epizoda 118[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "l8so4excim0v",
             "id3": ""
         },
         {
@@ -17697,6 +18087,22 @@
             "id2": "5cme90sg4ogt",
             "id3": ""
         },
+		{
+            "country": "Branilac (2021)",
+            "channel": "[I][COLOR white]S03 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGFlYmU2OGQtNDQ2ZC00MzkzLTg0M2EtZjliOTVkOTEzMDk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "yyh3jz80013n",
+            "id3": ""
+        },
+		{
+            "country": "Branilac (2021)",
+            "channel": "[I][COLOR white]S03 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGFlYmU2OGQtNDQ2ZC00MzkzLTg0M2EtZjliOTVkOTEzMDk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "uuvf6a5pzgh6",
+            "id3": ""
+        },
         {
             "country": "Metropolitanci (2022)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
@@ -18945,6 +19351,22 @@
             "id2": "ofpbu02ljsp7",
             "id3": ""
         },
+		{
+            "country": "Moze I Drugacije (2010)",
+            "channel": "[I][COLOR white]S03 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZGE2ZjE1ZWUtMDZhOS00NWNlLWE5ZmEtNzAzYjg0Y2Y1ZTBjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "t329ukvdjz5i",
+            "id3": ""
+        },
+		{
+            "country": "Moze I Drugacije (2010)",
+            "channel": "[I][COLOR white]S03 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZGE2ZjE1ZWUtMDZhOS00NWNlLWE5ZmEtNzAzYjg0Y2Y1ZTBjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg\n",
+            "id1": "",
+            "id2": "lpwplln04agb",
+            "id3": ""
+        },
         {
             "country": "Srecna Porodica Rale I Mare (2024)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
@@ -19192,6 +19614,870 @@
             "id1": "",
             "id2": "gblin4avfr1q",
             "id3": ""
-        }
+        },
+		{
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "ranset5no91d",
+            "id3": "jqvgg0wtilrt"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "suo9s0o7n3fa",
+            "id3": "4atwsca2zknc"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "15lyhn57yz4e",
+            "id3": "avpkeo2ax4s5"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "tq7ipwbfk0qc",
+            "id3": "586ct5dwe9bd"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "wv5tgmk4u381",
+            "id3": "r4gz5f806xiq"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "s4xdmne08deb",
+            "id3": "1mkbcyplrly8"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "k9frfgt0c3tf",
+            "id3": "jn5s9xeqjr3v"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "692g56g4nsnf",
+            "id3": "ub0bi4es5j7c"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S01 Epizoda 09[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "ph43ufw1ac19",
+            "id3": "cygs0jf2mlkt"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S01 Epizoda 10[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "jt43dciysiuu",
+            "id3": "0j096b5kuajh"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 02---[/B][/COLOR]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S02 Epizoda 01[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "mx2zb0e33950",
+            "id3": "glp4ew7a0ldr"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S02 Epizoda 02[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "uso6gqe2bsqs",
+            "id3": "0xi2a26ep6w7"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S02 Epizoda 03[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "dkcvlsxahug0",
+            "id3": "aybb8phozyby"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S02 Epizoda 04[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "ncc4yi6o5uzf",
+            "id3": "071hkr4nqwxh"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S02 Epizoda 05[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "l7g2qn79rve0",
+            "id3": "h8inkg3t0o0v"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S02 Epizoda 06[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "chnctx7e1e1a",
+            "id3": "ecuwd9l61y3d"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S02 Epizoda 07[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "7o1yrfk214h6",
+            "id3": "9p4tlp0oob5d"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S02 Epizoda 08[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "h83xgqfsnzvv",
+            "id3": "poiz5kl9du7t"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S02 Epizoda 09[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "ia8psgfbqq7r",
+            "id3": "d9fmcrhsuuw2"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S02 Epizoda 10[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "tv1fmn80zptp",
+            "id3": "po8eravsjs0i"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S02 Epizoda 11[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "2ocpg3950al4",
+            "id3": "yejp4ptz64gf"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S02 Epizoda 12[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "17m972pm55tc",
+            "id3": "lepwhhp82gyn"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 03---[/B][/COLOR]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S03 Epizoda 01[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "i53iy1361919",
+            "id3": "9jk3ptwgjqzg"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S03 Epizoda 02[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "iwbpfhextt3d",
+            "id3": "zu8yuvdsdlem"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S03 Epizoda 03[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "9j1wp8bsshfh",
+            "id3": "epdorhv15grn"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S03 Epizoda 04[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "iu0ndto7thrr",
+            "id3": "2teyc4tpyqek"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S03 Epizoda 05[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "btx57ev3wocu",
+            "id3": "ekp1z1hddrag"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S03 Epizoda 06[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "y8ffkc79umpy",
+            "id3": "i5yk6s5e3m4g"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S03 Epizoda 07[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "mgumfmk4u15y",
+            "id3": "rjp0sia4bvdf"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S03 Epizoda 08[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "x86iihmxr3yg",
+            "id3": "0zaaf3ucdh3z"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S03 Epizoda 09[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "r78nre4dhvln",
+            "id3": "y561cg7bwm99"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S03 Epizoda 10[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "hmejzs9qj43z",
+            "id3": "ptpwzwjwah1f"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S03 Epizoda 11[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "khwnc1lw3uhi",
+            "id3": "ri9fat1j1054"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 04---[/B][/COLOR]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S04 Epizoda 01[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "q74s3tvxuplv",
+            "id3": "k88jd6m5b44d"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S04 Epizoda 02[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "i9qyexar8vzo",
+            "id3": "cad2vxdx1oc0"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S04 Epizoda 03[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "mfwtcgoxcz1g",
+            "id3": "8n6kit0vlzzq"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S04 Epizoda 04[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "jbi9s6m0hat4",
+            "id3": "p4l71ul03vqf"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S04 Epizoda 05[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "5bs7mdgyff3l",
+            "id3": "iyecoqa0ffaa"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S04 Epizoda 06[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "ig3wiphtyi3d",
+            "id3": "cfg79pbt2tja"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S04 Epizoda 07[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "6mnmd3dxbl0m",
+            "id3": "hfka0tw3qtz0"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S04 Epizoda 08[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "tk7wwt7wpmx5",
+            "id3": "y9p8fp3y49bi"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S04 Epizoda 09[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "9t095drmoeth",
+            "id3": "kf9kxd50hjl8"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S04 Epizoda 10[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "qpa1jnd3j8i5",
+            "id3": "5hdws8jeye4j"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 05---[/B][/COLOR]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S05 Epizoda 01[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "cro4v6rmoxjt",
+            "id3": "cz97llxny5gp"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S05 Epizoda 02[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "gp4bjwbt28uf",
+            "id3": "3v0kr34kte4w"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S05 Epizoda 03[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "zv4bgdbsggsz",
+            "id3": "iuy67c1f75k0"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S05 Epizoda 04[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "4vylitstoqn8",
+            "id3": "liuo4zq3gfpd"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S05 Epizoda 05[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "0vcqqixso2ml",
+            "id3": "tyf6p0kvkhz0"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S05 Epizoda 06[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "hugwhwqzpcr8",
+            "id3": "sv2qcx8fzu9f"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S05 Epizoda 07[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "po8ablppgljz",
+            "id3": "mpnqj863ggam"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S05 Epizoda 08[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "4vei872ot5cw",
+            "id3": "hxj6ofrrb4ok"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S05 Epizoda 09[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "sajc8rfm10tq",
+            "id3": "sbzcu0q06fwe"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S05 Epizoda 10[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "sm1qnf3hxn8f",
+            "id3": "lms5nyhh9zok"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S05 Epizoda 11[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "qnq7ktaagbqm",
+            "id3": "rz1lyfgnboay"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S05 Epizoda 12[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "ztr9wbyx1ozm",
+            "id3": "jl0p6qdm5vxw"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 06---[/B][/COLOR]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S06 Epizoda 01[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "xssyexg0umh8",
+            "id3": "90j6y3nait0a"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S06 Epizoda 02[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "9ii5dc4o2rse",
+            "id3": "4bfdsliy6xxj"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S06 Epizoda 03[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "v6u3mjvmz5ef",
+            "id3": "uylihq3976nf"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S06 Epizoda 04[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "83tnz71jh2zo",
+            "id3": "qczd39afap94"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S06 Epizoda 05[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "5iycsiuro95q",
+            "id3": "yvl5zv7it488"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S06 Epizoda 06[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "yy4tn6nm5pfu",
+            "id3": "1lkl2vmgivht"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S06 Epizoda 07[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "q24qku3e6d1c",
+            "id3": "nnpu04765xwy"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S06 Epizoda 08[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "lq2g0sqqi4r2",
+            "id3": "ni9eydl5xty9"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S06 Epizoda 09[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "119hy7mazyki",
+            "id3": "i1sbmlldz794"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S06 Epizoda 10[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "1e78g8vg2f57",
+            "id3": "zr0bjsp6pv9d"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S06 Epizoda 11[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "grywxt7x9bsb",
+            "id3": "6wxkwok95bsx"
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S06 Epizoda 12[/COLOR][/I]",
+            "logo": "https://www.fashioncompany.rs/wp-content/uploads/2018/06/05_ubice-mog-oca.jpg",
+            "id1": "",
+            "id2": "x39229kkzdt9",
+            "id3": "lm9t2x0tmrhl"
+        },
+		{
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 07---[/B][/COLOR]",
+            "logo": "https://static.rtsplaneta.rs/rev-1739425950/image_transform.php/transform/1/instance_id/1/img_format/webp/lang/sr/video_id/4063767/tasks/thumbnail_w/img_compression/80/format/cover/width/1920",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S07 Epizoda 01[/COLOR][/I]",
+            "logo": "https://static.rtsplaneta.rs/rev-1739425950/image_transform.php/transform/1/instance_id/1/img_format/webp/lang/sr/video_id/4063767/tasks/thumbnail_w/img_compression/80/format/cover/width/1920",
+            "id1": "",
+            "id2": "gzeqd0b4u21f",
+            "id3": ""
+        },
+		{
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S07 Epizoda 02[/COLOR][/I]",
+            "logo": "https://static.rtsplaneta.rs/rev-1739425950/image_transform.php/transform/1/instance_id/1/img_format/webp/lang/sr/video_id/4063767/tasks/thumbnail_w/img_compression/80/format/cover/width/1920 \n",
+            "id1": "",
+            "id2": "96oh9n84mqq1",
+            "id3": ""
+        },
+		{
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S07 Epizoda 03[/COLOR][/I]",
+            "logo": "https://static.rtsplaneta.rs/rev-1739425950/image_transform.php/transform/1/instance_id/1/img_format/webp/lang/sr/video_id/4063767/tasks/thumbnail_w/img_compression/80/format/cover/width/1920",
+            "id1": "",
+            "id2": "0oo0kxkjnahx",
+            "id3": ""
+        },
+		{
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
+            "id1": "",
+            "id2": "hjpkuinikli6",
+            "id3": "r46h7pqueffb"
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
+            "id1": "",
+            "id2": "ntr89atcq6ys",
+            "id3": "457ofe08x306"
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
+            "id1": "",
+            "id2": "eetlheyu3e6g",
+            "id3": "vr2z2q87ugev"
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
+            "id1": "",
+            "id2": "2pmmvzaqf8ux",
+            "id3": "8jy1zkk440a2"
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
+            "id1": "",
+            "id2": "p8sx40zuo93g",
+            "id3": "0mb03xn369ud"
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
+            "id1": "",
+            "id2": "pqyt7vzw079e",
+            "id3": "3ylln5veft0c"
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
+            "id1": "",
+            "id2": "a15ma9wbp3ma",
+            "id3": "pjf4s4xfkl8u"
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
+            "id1": "",
+            "id2": "rnuwzgi3mjjj",
+            "id3": "7ne80j27bvs6"
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
+            "id1": "",
+            "id2": "z772mzuzmbr0",
+            "id3": "z7b4pielb0ix"
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 10[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
+            "id1": "",
+            "id2": "d7s342m6zkjd",
+            "id3": "d91ao60om0nv"
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 11[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
+            "id1": "",
+            "id2": "tuevmq3sx9as",
+            "id3": "6fezza222vy1"
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 12[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
+            "id1": "",
+            "id2": "nt4531punjqf",
+            "id3": "lo3qsbszh3el"
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 13[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
+            "id1": "",
+            "id2": "l2ldqjunlq35",
+            "id3": "anqocwp8e5ft"
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 14[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
+            "id1": "",
+            "id2": "acyedlguercq",
+            "id3": "ns5f39l49mex"
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 02---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
+            "id1": "",
+            "id2": "ocxwih0rcm75",
+            "id3": "txqd0g1vy853"
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
+            "id1": "",
+            "id2": "nd6ixa1sjh3g",
+            "id3": "69vd0avwunah"
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
+            "id1": "",
+            "id2": "bq031ev80hxj",
+            "id3": "crwvmtgawefi"
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
+            "id1": "",
+            "id2": "o8vt6ea87bzj",
+            "id3": "8ae2hsdt0a1u"
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
+            "id1": "",
+            "id2": "zbkwudb1uow2",
+            "id3": "fcjbciokhm69"
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
+            "id1": "",
+            "id2": "84qft8qxlcm0",
+            "id3": "7zedotq91i4g"
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
+            "id1": "",
+            "id2": "jtcqgl7x8l9e",
+            "id3": "wuleb6dr48wi"
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
+            "id1": "",
+            "id2": "9o337bt5wlio",
+            "id3": "i8zntbk28cgz"
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
+            "id1": "",
+            "id2": "fhay7qf0iu1i",
+            "id3": "q700ha8lq30o"
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 10[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
+            "id1": "",
+            "id2": "ghcnmuysbj6x",
+            "id3": "4cp48rd7t1iz"
+        },
+		{
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 03---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_QL75_UX500_CR0,132,500,281_.jpg\n",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+		{
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S03 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_QL75_UX500_CR0,132,500,281_.jpg\n",
+            "id1": "",
+            "id2": "hsfpmcv3jawi",
+            "id3": ""
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S03 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_QL75_UX500_CR0,132,500,281_.jpg\n",
+            "id1": "",
+            "id2": "sfbahb3mp5e5",
+            "id3": ""
+        },
+		{
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S03 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_QL75_UX500_CR0,132,500,281_.jpg\n",
+            "id1": "",
+            "id2": "12l3n03gcyjr",
+            "id3": ""
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S03 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_QL75_UX500_CR0,132,500,281_.jpg\n",
+            "id1": "",
+            "id2": "xbyj8g9v054r",
+            "id3": ""
+        },
     ]
 }

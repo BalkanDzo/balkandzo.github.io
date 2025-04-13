@@ -134,6 +134,15 @@
         },
         {
             "country": "Ronja the Robbers Daughter (2024)"
+        },
+        {
+            "country": "Black Mirror (2011)"
+        },
+        {
+            "country": "A Decent Man (2025)"
+        },
+        {
+            "country": "The Gardener (2025)"
         }
     ],
     "channels": [
@@ -2538,6 +2547,14 @@
             "id3": ""
         },
         {
+            "country": "Chicago P D 2014)",
+            "channel": "[I][COLOR white]S12 Epizoda 17[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2ZhMTljMTAtNGUxNC00NDMxLThiMDEtYjBiNzU3OGNmNmVlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "r89mdyzzlujv",
+            "id3": ""
+        },
+        {
             "country": "Cassandra (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYjI3NjlhNDItOTBlZC00OTMwLWI0YzYtYmI3ZDY2MDdkMTIxXkEyXkFqcGc@._V1_.jpg",
@@ -3505,12 +3522,20 @@
             "id2": "7fnzl21noj9v",
             "id3": ""
         },
-		{
+        {
             "country": "The Pitt (2025)",
             "channel": "[I][COLOR white]S01 Epizoda 14[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMTU3MDliMGEtMDQxNi00OTk1LTg1NWMtZDM2NmEwZDA1ZDk2XkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "6jltp8w0vfgn",
+            "id3": ""
+        },
+        {
+            "country": "The Pitt (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 15[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTU3MDliMGEtMDQxNi00OTk1LTg1NWMtZDM2NmEwZDA1ZDk2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "bml0xniuxqyl",
             "id3": ""
         },
         {
@@ -3711,6 +3736,14 @@
             "logo": "https://resizing.flixster.com/lLaxpnhX3fSyBl3WI3QlamMn8z4=/fit-in/705x460/v2/https://resizing.flixster.com/13LrTklQ-rf_li6kqX6M05u0TRY=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vNDA3MjljYmUtN2I3MC00NDA1LWI3MzMtNTA2M2NhNWNmMjg1LmpwZw==",
             "id1": "",
             "id2": "y4mwqkk8u6ci",
+            "id3": ""
+        },
+        {
+            "country": "The Wheel of Time (2021)",
+            "channel": "[I][COLOR white]S03 Epizoda 07[/COLOR][/I]",
+            "logo": "https://img.etimg.com/thumb/width-1200,height-1200,imgsize-60760,resizemode-75,msid-105014888/news/international/us/the-wheel-of-time-season-3-when-is-the-next-chapter-releasing-and-what-awaits-in-the-epic-saga.jpg",
+            "id1": "",
+            "id2": "wcikbb4renyr",
             "id3": ""
         },
         {
@@ -5810,6 +5843,14 @@
             "id3": ""
         },
         {
+            "country": "Chicago Fire (2012)",
+            "channel": "[I][COLOR white]S11 Epizoda 18[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDgwYjlhMGItMDQ3YS00OGQyLWFiMTQtYzkwNTUzNjE4NzIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "co8zo1egk4cj",
+            "id3": ""
+        },
+        {
             "country": "Coyotl, Hero and Beast (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYzYxNzdhNTctZDJmOC00YWQ1LWE0NDMtYTk2YmFlYzA3M2ZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -5871,6 +5912,14 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BYzYxNzdhNTctZDJmOC00YWQ1LWE0NDMtYTk2YmFlYzA3M2ZlXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "oi2ad5vh0jid",
+            "id3": ""
+        },
+        {
+            "country": "Coyotl, Hero and Beast (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYzYxNzdhNTctZDJmOC00YWQ1LWE0NDMtYTk2YmFlYzA3M2ZlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ifvvf4i63jm4",
             "id3": ""
         },
         {
@@ -6874,6 +6923,22 @@
             "id3": ""
         },
         {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S07 Epizoda 11[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "ouvk2ng9eyfh",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S07 Epizoda 12[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "m5a5jpqgs4vz",
+            "id3": ""
+        },
+        {
             "country": "Yellowjackets (2021)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BOGVhNzViNTYtYjg0Ny00NzI3LWI2MTQtMzFlYWQ4NTQ2YmQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -7095,6 +7160,22 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BOGVhNzViNTYtYjg0Ny00NzI3LWI2MTQtMzFlYWQ4NTQ2YmQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "ti59al3on2v0",
+            "id3": ""
+        },
+        {
+            "country": "Yellowjackets (2021)",
+            "channel": "[I][COLOR white]S03 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOGVhNzViNTYtYjg0Ny00NzI3LWI2MTQtMzFlYWQ4NTQ2YmQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "8fiqlcdbqack",
+            "id3": ""
+        },
+        {
+            "country": "Yellowjackets (2021)",
+            "channel": "[I][COLOR white]S03 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOGVhNzViNTYtYjg0Ny00NzI3LWI2MTQtMzFlYWQ4NTQ2YmQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "xbfizgrxb027",
             "id3": ""
         },
         {
@@ -7359,6 +7440,14 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BZWExMTJiMGQtYTA3OC00ZGM0LTg5MGQtZjMwM2VlNTU3YjRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "a0ghapavi1np",
+            "id3": ""
+        },
+        {
+            "country": "House of David (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWExMTJiMGQtYTA3OC00ZGM0LTg5MGQtZjMwM2VlNTU3YjRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "l6lkzerkzvif",
             "id3": ""
         },
         {
@@ -7882,6 +7971,14 @@
             "id3": ""
         },
         {
+            "country": "The White Lotus (2021)",
+            "channel": "[I][COLOR white]S03 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZmM1MGM0MDQtZTAzNy00ZGJkLWI4MDUtNjBmMzdhYjhlM2QwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "zvnw0qjgctci",
+            "id3": ""
+        },
+        {
             "country": "Woman of the Dead (2022",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BY2E2N2UzOTYtYWIzOC00ODMzLThkMzktN2UwMWU2ZmE5MjI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -8314,6 +8411,14 @@
             "id3": ""
         },
         {
+            "country": "1923 (022)",
+            "channel": "[I][COLOR white]S02 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2ExYWFjMzYtOWQyOS00Mjc2LThlMWMtNGM0YzEyZmEyZWQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "8lo8xovjkc2z",
+            "id3": ""
+        },
+        {
             "country": "Caught (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMWUwZjI3OWYtMDVjMS00YzE2LWIxNWEtODU2ZTFhNDEzZjBjXkEyXkFqcGc@._V1_.jpg",
@@ -8383,6 +8488,14 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BYThkYTQzOWUtOGEzMy00NzQxLTgyNmQtMTg2YWQyYjMyNGI1XkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "kj9sbrfq549l",
+            "id3": ""
+        },
+        {
+            "country": "MobLand (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNjQzZWVkMDQtZTgyZC00ZjVlLThlMTktNDBjNDU1Y2JhNDhkXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "bri6m2fmty42",
             "id3": ""
         },
         {
@@ -8666,6 +8779,14 @@
             "id3": ""
         },
         {
+            "country": "Daredevil Born Again (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMDRiNTBlY2EtZmRiZC00Mzc4LTljZDctNWQ5ZGY2NjUwNjE4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "oyctm311mi1i",
+            "id3": ""
+        },
+        {
             "country": "Gangs of London (2020)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYWYzYmVmZjItNjZhZi00NzBjLWJmYWItNTljZjhmZDQxN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -8882,6 +9003,14 @@
             "id3": ""
         },
         {
+            "country": "Gangs of London (2020)",
+            "channel": "[I][COLOR white]S03 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWYzYmVmZjItNjZhZi00NzBjLWJmYWItNTljZjhmZDQxN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "1ounyyk3i9xg",
+            "id3": ""
+        },
+        {
             "country": "Pulse (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZmY0YWFjZTEtY2NmNS00NjJlLTlmMjMtMzQxZTE2ZDBjYzk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -8969,7 +9098,7 @@
             "id2": "k2pk5fqk74ec",
             "id3": ""
         },
-		{
+        {
             "country": "Ronja the Robbers Daughter (2024)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BOWYwODVkMzItMWU3OC00Njk2LWFjMDUtOTY0MGZmZGRlMzY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -9338,6 +9467,14 @@
             "id3": ""
         },
         {
+            "country": "The Cleaning Lady (2022)",
+            "channel": "[I][COLOR white]S04 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWFlYzk1YWYtNmEzYy00MWEyLWFiMTktZDg0MmE3ODMzNWZlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "t10rrt4xgjhq",
+            "id3": ""
+        },
+        {
             "country": "The Residence (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BNmJlOWFiNGEtZGYyMy00ZWY5LWJlMjMtYjgzZTViNDI3NzUxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -9439,6 +9576,70 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BMjE1MDlmNzMtMTBiOC00NTgzLWIwZmItN2U0OTU1YmFkNzlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "hyv1nojpqk7k",
+            "id3": ""
+        },
+        {
+            "country": "A Decent Man (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjE1MDlmNzMtMTBiOC00NTgzLWIwZmItN2U0OTU1YmFkNzlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "5fkfbywfaa7d",
+            "id3": ""
+        },
+		{
+            "country": "The Gardener (2025)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWMxNTNlOGUtNjVlNi00MTRkLWIyMTQtMmViODkxM2M5MjA0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "The Gardener (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWMxNTNlOGUtNjVlNi00MTRkLWIyMTQtMmViODkxM2M5MjA0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "rzgfdk3hv8mg",
+            "id3": ""
+        },
+        {
+            "country": "The Gardener (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWMxNTNlOGUtNjVlNi00MTRkLWIyMTQtMmViODkxM2M5MjA0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "m5cnxivoh5dp",
+            "id3": ""
+        },
+        {
+            "country": "The Gardener (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWMxNTNlOGUtNjVlNi00MTRkLWIyMTQtMmViODkxM2M5MjA0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "jtf3jbfscnxg",
+            "id3": ""
+        },
+        {
+            "country": "The Gardener (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWMxNTNlOGUtNjVlNi00MTRkLWIyMTQtMmViODkxM2M5MjA0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "7horezxqdrf4",
+            "id3": ""
+        },
+        {
+            "country": "The Gardener (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWMxNTNlOGUtNjVlNi00MTRkLWIyMTQtMmViODkxM2M5MjA0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "avp465vj35kr",
+            "id3": ""
+        },
+        {
+            "country": "The Gardener (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWMxNTNlOGUtNjVlNi00MTRkLWIyMTQtMmViODkxM2M5MjA0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "w1zso2ex63m8",
             "id3": ""
         },
         {
@@ -10407,6 +10608,334 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BMjZhNDFkZDEtMmFiNC00ZWM0LWJhY2MtNzNiYTdiMmQyNmNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "ihcb4twd5jrj",
+            "id3": ""
+        },
+        {
+            "country": "All American (2018)",
+            "channel": "[I][COLOR white]S07 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjZhNDFkZDEtMmFiNC00ZWM0LWJhY2MtNzNiYTdiMmQyNmNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "gzmqquwnme7c",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "n8flyvy0p7j0",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "t1kxd9774mh8",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "24aggaa4ctxj",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 02---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S02 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "j7q6gkpf4duh",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S02 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "smhbqurioc5m",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S02 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "8rkix9va103b",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S02 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "bjgztb7ewyi6",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 03---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S03 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "jszaxq9ym4mm",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S03 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "bam1nsla0mir",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S03 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "r91rh9pkfk49",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S03 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "3uuyv1d0dp64",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S03 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "oox4hdlv7bmy",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S03 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "6ztwlc7uelog",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 04---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S04 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "oz3bdevt2ffa",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S04 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "z7ax4k7lodlu",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S04 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "ywxij0pf0y7q",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S04 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "mis90pklihjg",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S04 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "oabrkru6swlr",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S04 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "8i4fr70xqofq",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 05---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S05 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "vcodppsvkm73",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S05 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "lcga3nz49auu",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S05 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "hdnrog83hl39",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 06---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S06 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "kn2j5a547krb",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S06 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "dyap1xn59vta",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S06 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "ku87cz6nw6ps",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S06 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "f7ruj4uyzocl",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S06 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "liekzawl41ph",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 07---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S07 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "0u90tjtwucqr",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S07 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "1lkhutllgrnc",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S07 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "t44hcijtknbj",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S07 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "7bnhxxxljhgv",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S07 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "ucjpkrbba2xh",
+            "id3": ""
+        },
+        {
+            "country": "Black Mirror (2011)",
+            "channel": "[I][COLOR white]S07 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "wlrv0yknkh52",
             "id3": ""
         }
     ]
