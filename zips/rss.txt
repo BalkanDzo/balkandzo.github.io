@@ -3,7 +3,7 @@
 <channel>
   <title>BD Addon Updater</title>
   <item>
-    <title>Trenutno nema azuiranja addona. Sva azuriranja su dodata vec u Build 7.0</title>
+    <title>BD Update: Fix PVR Generatori.</title>
   </item>
 </channel>
 </rss>
