@@ -37,6 +37,62 @@
     "channels": [
         {
             "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Clear Cut (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYzhiZWFkY2EtODY4OS00NDRlLTlhNzctYTQ3NzJkYmE4NDYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "ikdhbmwtkt5c",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "The World Will Tremble (2025) ",
+            "logo": "https://m.media-amazon.com/images/M/MV5BM2Y4YjZmM2QtZGYwMC00MDI4LThlNzUtN2ZiNDQ4YmJiZTk2XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "4kqcj6jlozo7",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Mickey 17 (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZGQwYmEzMzktYzBmMy00NmVmLTkyYTUtOTYyZjliZDNhZGVkXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ct0v68ume1p8",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Becoming Led Zeppelin (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNTBhMzliNzYtMjQwMy00MjdhLWIyOGYtYzdiY2FlNjk3YTkzXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "35fiskar6ddz",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Novocaine (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMWU4MmUxODktMWUwYy00YzM0LTg1ZmItNzVlMTZhOWVlNWFjXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+            "id1": "",
+            "id2": "cy2pvaxaqctd",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "In the Lost Lands (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTMzZmJkZWQtOTc4ZC00ZWQ3LThlZTEtZmQzNjE3M2QxNWFmXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "hrz865u4ckam",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Home Sweet Home Rebirth (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzg3MjI1MGItMDM2OC00MzNkLWFmYmYtNzkxOTI2YTc5YjIwXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "c0s7nur9exw5",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
             "channel": "Bring Them Down (2024)",
             "logo": "https://m.media-amazon.com/images/M/MV5BNWVhMGNlODgtYzAyMS00OGJhLTkyOGItNDY3MjA4NjVjYzMzXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
@@ -2522,6 +2578,102 @@
             "id1": "",
             "id2": "fm0czbwyomd4",
             "id3": "r3k6ax0rkl9u"
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Long Kiss Goodnight (1996)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZjJmNzZjODktNmNhMy00NDZiLWIwNGUtM2NjYWNhZWU4YTY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "v6xrur0h5ogu",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Pianist (2002)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjEwNmEwYjgtNTk3ZC00NjljLTg5ZDctZTY3ZGQwZjRkZmQxXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "4osclvkp7azg",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The White Massai (2005)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZjc0N2Q2ZjItN2E0NS00YTU1LWIyNmItMGY4NTcyYTczZDI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "bnoqpywac60o",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Immortals (2011)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTMzMjA2MjA2N15BMl5BanBnXkFtZTcwMTkwNTc5Ng@@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "4cilb6p347ot",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The November Man (2014)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNTkzMDk5NjUxNV5BMl5BanBnXkFtZTgwMzMwOTMyMjE@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "o04igg7d3hdt",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Jab Harry Met Sejal (2017)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjIzMDI2NDUwOV5BMl5BanBnXkFtZTgwNzE2NjU3MjI@._V1_.jpg",
+            "id1": "",
+            "id2": "trfzs5s9x989",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Mosul (2019)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOGM4N2E5NDAtMWZjNC00ZWNjLTk4YjgtYTU0OGVjM2JmZDc3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "maq25j44g93v",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Last Days of American Crime (2020)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNjkxZTFhYWUtMjFlYy00Y2M1LTg4MDUtZTViY2MxMmEwZTg0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "er5havc9e6z7",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Bloodshot (2020)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDFjMTI4ZTQtYzNlNS00YmJiLWEyYzYtYWFiYTZjOTI5MDM1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "s9bjm77evt62",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Nowhere (2023)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZmQwODM5NTctYzRkMi00MmIwLWFjODAtMTFiMWY2OWE3MGQyXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "sxz6be3yw8qe",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Pathaan (2023)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDdkNTY1MDQtY2I5MC00OTFlLTg5OWQtZWE2YzE5NWFiMDgzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "8zts5fjfa2ul",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Waterloo (1970)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDQ0NGJjOWYtZDVlMC00ZTk0LWJiNTktYjVkOTYyMGNhNWUxXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "8e7cfez1305m",
+            "id3": ""
         },
 		{
             "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
