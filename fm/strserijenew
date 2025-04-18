@@ -143,6 +143,9 @@
         },
         {
             "country": "The Gardener (2025)"
+        },
+        {
+            "country": "The Last of Us (2023)"
         }
     ],
     "channels": [
@@ -560,6 +563,14 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BOGVmOTg0ZWEtMWIwNS00NjkwLThiYWMtOWJmNGFkZWJhYzVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "17j8pdj7ovyb",
+            "id3": ""
+        },
+        {
+            "country": "Found (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 18[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOGVmOTg0ZWEtMWIwNS00NjkwLThiYWMtOWJmNGFkZWJhYzVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "grl750627x10",
             "id3": ""
         },
         {
@@ -3744,6 +3755,14 @@
             "logo": "https://img.etimg.com/thumb/width-1200,height-1200,imgsize-60760,resizemode-75,msid-105014888/news/international/us/the-wheel-of-time-season-3-when-is-the-next-chapter-releasing-and-what-awaits-in-the-epic-saga.jpg",
             "id1": "",
             "id2": "wcikbb4renyr",
+            "id3": ""
+        },
+		{
+            "country": "The Wheel of Time (2021)",
+            "channel": "[I][COLOR white]S03 Epizoda 08[/COLOR][/I]",
+            "logo": "https://resizing.flixster.com/13LrTklQ-rf_li6kqX6M05u0TRY=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vNDA3MjljYmUtN2I3MC00NDA1LWI3MzMtNTA2M2NhNWNmMjg1LmpwZw==",
+            "id1": "",
+            "id2": "3pplbb4re8dj",
             "id3": ""
         },
         {
@@ -8499,6 +8518,14 @@
             "id3": ""
         },
         {
+            "country": "MobLand (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNjQzZWVkMDQtZTgyZC00ZjVlLThlMTktNDBjNDU1Y2JhNDhkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "eley0uua9rj0",
+            "id3": ""
+        },
+        {
             "country": "Reacher (2022)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZWU5ODRlMjYtNTczMy00Y2YxLTg5M2UtMjFkODA4OGE5Njk4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -8784,6 +8811,14 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BMDRiNTBlY2EtZmRiZC00Mzc4LTljZDctNWQ5ZGY2NjUwNjE4XkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "oyctm311mi1i",
+            "id3": ""
+        },
+        {
+            "country": "Daredevil Born Again (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMDRiNTBlY2EtZmRiZC00Mzc4LTljZDctNWQ5ZGY2NjUwNjE4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "p3athe48rwr7",
             "id3": ""
         },
         {
@@ -9586,7 +9621,7 @@
             "id2": "5fkfbywfaa7d",
             "id3": ""
         },
-		{
+        {
             "country": "The Gardener (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYWMxNTNlOGUtNjVlNi00MTRkLWIyMTQtMmViODkxM2M5MjA0XkEyXkFqcGc@._V1_.jpg",
@@ -10936,6 +10971,102 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "wlrv0yknkh52",
+            "id3": ""
+        },
+        {
+            "country": "The Last of Us (2023)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "The Last of Us (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "utlfe1tnwlwg",
+            "id3": ""
+        },
+        {
+            "country": "The Last of Us (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "8e0fcis1nohq",
+            "id3": ""
+        },
+        {
+            "country": "The Last of Us (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "e2gswmkghzkd",
+            "id3": ""
+        },
+        {
+            "country": "The Last of Us (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "bs1tlp3q6w6m",
+            "id3": ""
+        },
+        {
+            "country": "The Last of Us (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "6ac4qrme0epb",
+            "id3": ""
+        },
+        {
+            "country": "The Last of Us (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "31x15kto0t0m",
+            "id3": ""
+        },
+        {
+            "country": "The Last of Us (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "pl589i56gpss",
+            "id3": ""
+        },
+        {
+            "country": "The Last of Us (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "n7iagq7m1nct",
+            "id3": ""
+        },
+        {
+            "country": "The Last of Us (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "9bj7m4q1208t",
+            "id3": ""
+        },
+        {
+            "country": "The Last of Us (2023)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 02---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "The Last of Us (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ukut4e3as898",
             "id3": ""
         }
     ]

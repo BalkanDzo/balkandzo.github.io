@@ -37,6 +37,54 @@
     "channels": [
         {
             "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "A Working Man (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYmQxZGIxNTYtYTQwMy00ODdkLWI0MmQtM2E0ZmIyNmYzMGMzXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "q3x1tz3iohlg",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Faith of Angels (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTY2YjA5NWItZjIyYi00OWQ5LTliY2QtYzM4N2Y0YjRkMDQ0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "rt35nqsxs92e",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "The Woman in the Yard (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWNiNTYxMGQtNTZlNC00MjgxLWI0NWEtMDQyYjIxODRkNTQ3XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "2t5ekftktrsz",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "G20 (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTc5MTg3MTEtNzQwMi00Y2VkLWI4N2UtNDdmMzFjMGIyNTEzXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+            "id1": "",
+            "id2": "zd60ubmwosf0",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Home Sweet Home Rebirth (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzk1YmViZmItM2E4Zi00YThkLThiNGMtYmMxMTk0MjkwMjEwXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "1g133gfkqz0q",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "The Alto Knights (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjk2MDg4ZDgtZjkxMC00NmRkLTg0NDEtNDY5NTIxYWYyMWU3XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "j7yc7d4lqo31",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
             "channel": "Clear Cut (2024)",
             "logo": "https://m.media-amazon.com/images/M/MV5BYzhiZWFkY2EtODY4OS00NDRlLTlhNzctYTQ3NzJkYmE4NDYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
@@ -81,14 +129,6 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BOTMzZmJkZWQtOTc4ZC00ZWQ3LThlZTEtZmQzNjE3M2QxNWFmXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "hrz865u4ckam",
-            "id3": ""
-        },
-        {
-            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
-            "channel": "Home Sweet Home Rebirth (2025)",
-            "logo": "https://m.media-amazon.com/images/M/MV5BMzg3MjI1MGItMDM2OC00MzNkLWFmYmYtNzkxOTI2YTc5YjIwXkEyXkFqcGc@._V1_.jpg",
-            "id1": "",
-            "id2": "c0s7nur9exw5",
             "id3": ""
         },
 		{
@@ -2578,6 +2618,102 @@
             "id1": "",
             "id2": "fm0czbwyomd4",
             "id3": "r3k6ax0rkl9u"
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Angel Heart (1987)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGNiN2ZjNDQtZjEyNS00ZGFjLWE4YWQtMDczZjU1ZDFlZDhlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "skyuj4ultaxd",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Ghost (1990)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZjkwOWM2MWMtMWE1YS00MTBlLTg1ODctYTI3M2I0NGIxMGYyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "r981t264jnuf",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Constantine (2005)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjNhNTlmYmYtYjcxZi00ZDU1LTkxMWYtYzFlMWMzY2RiODM1XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "6en7ot83vaty",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Rab Ne Bana Di Jodi (2008)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2M3MzMzM2UtNDJkNC00NTI2LTg1YjgtOWRiNjNmNTk3MjlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "fwj200gqlj3w",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Triangle (2009)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNzU3ZDA2MmUtYzFhMS00OGYyLWI3MDgtNDI4Zjg2YmRkNGYzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "pv7zd22s0swn",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Colombiana (2011)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjEyMDA4ODAtMjI3NC00ZjZlLTg3OTYtMDUzOWE0MDU4ZTI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "nkmi59qxdmft",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Adjustment Bureau (2011)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTU3ODg3MDAxMl5BMl5BanBnXkFtZTcwMjc0MDMzNA@@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "9mpe46smci2c",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Jab Tak Hai Jaan (2012)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTUyMzM5OTM5NF5BMl5BanBnXkFtZTcwNTIwMjA3OA@@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "cy07khr0xmgo",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Raees (2017)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTc2NTYwMTE1NV5BMl5BanBnXkFtZTgwODQ5MzAwMTI@._V1_.jpg",
+            "id1": "",
+            "id2": "9wmqfnqpqzoc",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Red Rooms (2023)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2JmOTRiNTctYmIzOC00ZDY1LTgzZmUtMzE1MmVmMjAxYTRkXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "0cx5kaxng2n8",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Box Metaphor (2023)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2NjMGJhMjYtMGE5ZS00NmMzLWI5YmYtZTMyNWMzMmM2ZWEyXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "lk675or2wf0n",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Quiet Ones (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjNlM2I2ZjAtNjg0OS00MTVkLTgzMzAtNTM3Yzc0OThiYjUxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "4k5dsmyscqvk",
+            "id3": ""
         },
 		{
             "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
