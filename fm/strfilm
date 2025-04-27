@@ -37,6 +37,62 @@
     "channels": [
         {
             "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Bullet Train Explosion (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTVhMGM1NTYtMmI0MC00NjA2LTljMmUtYmJiNmZkMDVhMTIxXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ibg869jn95b2",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Havoc (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWJjMjdhNGEtZjEyMi00OTg2LTllMzQtN2JlZWNjYzI4YzFhXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "jyoqaao86h3q",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Ash (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTYwZDE3ZDctOTc2Mi00MWIyLWFmMjctZTJmNzNmMjZkOTI0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "g3il9vluzme4",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "The Gardener (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjRmMjc5MTgtYmYxNS00NTI5LWJmMmYtNDBkNzFiZTZlYWU0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "11a1p4r156tc",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Locked (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZjg2NDFhZDEtYzZlZC00ZTRkLTg4NDctYjIwNTQxYWY4ODFiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "dizvbuutl9jf",
+            "id3": ""
+        }.
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Silent Zone (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTI4ODM3NTMtZmE2Mi00OTIxLWFhN2YtOGRkNDI0NmNkNmUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "ctlwd49klyxu",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "iHostage (2025) ",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGEyNWI4NjctY2NkYS00ZDY0LTkyNTUtOGRhM2UzNWYxOTc2XkEyXkFqcGc@._V1_QL75_UX190_CR0,28,190,281_.jpg",
+            "id1": "",
+            "id2": "lwuoqimgqx9s",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
             "channel": "A Working Man (2025)",
             "logo": "https://m.media-amazon.com/images/M/MV5BYmQxZGIxNTYtYTQwMy00ODdkLWI0MmQtM2E0ZmIyNmYzMGMzXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
@@ -2618,6 +2674,166 @@
             "id1": "",
             "id2": "fm0czbwyomd4",
             "id3": "r3k6ax0rkl9u"
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Three Amigos! (1986)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNTE5NDQ1NTMyNl5BMl5BanBnXkFtZTcwNjY5MDQ3NA@@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "jeuzxrn2h8q3",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Main Hoon Na (2004)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMDcwZDJhOGQtNWI5NS00MmI3LWFkYjMtNTY3OGUxMjgwMjZiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "jyomyonv8jho",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Chak De! India (2007) ",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjYyOTdmYTYtYjQ4Ni00ZmFiLWJlZjYtZmJkNDI5MmNlNjMyXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "8cjkp201bk9u",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Ra.One (2011)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzcyMjMxOTg4MF5BMl5BanBnXkFtZTcwNzEwMDE5Ng@@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "r20hjjm9e2s9",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Chennai Express (2013)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNjFmN2I5ZWUtOTJmNC00NjhiLTliYmItODViZmNiNmUyOTI3XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "2c91esxbjs0m",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Happy New Year (2014)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "73tnuz66137x",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Run Lola Run (1998)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzA0NDdiNDgtNjI4Ny00OTc0LTg3NGMtZDBlNmI1ZGUxYTg2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "yv8t8gixmqaf",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Swordfish (2001)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMmVlOGM1YjQtNzMzYS00ZmY5LTlkMDQtN2EyZTQ4NTExNjNjXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "0peqijq39ba1",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Manchurian Candidate (2004)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGVkNDJkYWYtYjE4Yy00OTEzLThkOTUtZTJiMjRkYzliNDk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "6nilwwj3dtoo",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Deja Vu (2006)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTM0NzE1MzcxOV5BMl5BanBnXkFtZTcwMDkyNDYyMw@@._V1_.jpg",
+            "id1": "",
+            "id2": "o4qgbyj1vt78",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Next (2007)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTg3MjgyNjE1Nl5BMl5BanBnXkFtZTcwNTY1NDU0MQ@@._V1_.jpg",
+            "id1": "",
+            "id2": "rd1uv967093u",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Hachi A Dog's Tale (2009)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTAxMDA2MjM4NDReQTJeQWpwZ15BbWU3MDE0NTgxMTM@._V1_.jpg",
+            "id1": "",
+            "id2": "8v63wwgi0uoh",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Sabotage (2014)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTUxNjI4MjEyN15BMl5BanBnXkFtZTgwMDUxMDM4MDE@._V1_.jpg",
+            "id1": "",
+            "id2": "866rfwj39xoc",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Assassin's Creed (2016)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTU2Mjc1ODY2OV5BMl5BanBnXkFtZTgwNTMzMTYzMDI@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "lydom80k46ci",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Great Wall (2016)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3MjAzOTQxNF5BMl5BanBnXkFtZTgwOTc5OTY1OTE@._V1_.jpg",
+            "id1": "",
+            "id2": "i5dq2exclwjf",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Music of Silence (2017)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZTRhMGMyYzItOWJjNS00Y2FiLWFhODktZDZjYWViMmE4OTYyXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "8dx4wgaaxne8",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Power Rangers (2017)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTA5MzU1NDI4NzBeQTJeQWpwZ15BbWU4MDUxMDQ0NDEy._V1_.jpg",
+            "id1": "",
+            "id2": "kwbyy97w5t3b",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Guardians (2017)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzczODZjYTctY2Q5MC00Mjg0LWIzZmYtM2ExZmJmMzM0ODRlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "mefm396fufzw",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Ready Player One (2018)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNzVkMTgzODQtMWIwZC00NzE4LTgzZjYtMzAwM2I5OGZhNjE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "xmgs14qffz3a",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Alita Battle Angel (2019)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYmZhZGQzM2MtMWEyZC00YTU1LTk4YTQtMTg3ZjEzM2U1NTkxXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ufju18grqwms",
+            "id3": ""
         },
 		{
             "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
