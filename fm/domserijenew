@@ -4635,6 +4635,14 @@
             "id3": ""
         },
 		{
+            "country": "Kumovi (2022-)",
+            "channel": "[I][COLOR white]S05 Epizoda 071[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYmJhNDVhYTMtYmI5ZC00NmU0LTg4Y2EtMTI2MWU1NWY5ZjUzXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "7agaqctvmawg",
+            "id3": ""
+        },
+		{
             "country": "Pelagijin Venac (2024)",
             "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
             "logo": "https://www.b92.net/data/images/2025-04-17/126065_pelagijin-venac-epg_kf.jpg?timestamp=1745316077",
@@ -4656,6 +4664,14 @@
             "logo": "https://www.b92.net/data/images/2025-04-17/126065_pelagijin-venac-epg_kf.jpg?timestamp=1745316077",
             "id1": "",
             "id2": "v0ts5ri8u5op",
+            "id3": ""
+        },
+		{
+            "country": "Pelagijin Venac (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://www.b92.net/data/images/2025-04-17/126065_pelagijin-venac-epg_kf.jpg?timestamp=1745316077\n",
+            "id1": "",
+            "id2": "x2ooaofdt0hr",
             "id3": ""
         },
         {
@@ -7618,6 +7634,38 @@
             "id2": "voccutqiqzvu",
             "id3": ""
         },
+		{
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S09 Epizoda 046[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg\n",
+            "id1": "",
+            "id2": "pvy4hy66nidy",
+            "id3": ""
+        },
+        {
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S09 Epizoda 047[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg\n",
+            "id1": "",
+            "id2": "vlg1jqrwwyui",
+            "id3": ""
+        },
+        {
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S09 Epizoda 048[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg\n",
+            "id1": "",
+            "id2": "8snnsbjtumjk",
+            "id3": ""
+        },
+        {
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S09 Epizoda 049[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg\n",
+            "id1": "",
+            "id2": "pnel6a6iqjwf",
+            "id3": ""
+        },
         {
             "country": "U dobru i zlu (2024)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
@@ -8632,6 +8680,22 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BNDJmODcwYWQtZmNjZS00OTg5LWFiODAtMGViZDg3Y2QyZWQ0XkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "oyju58d6zcfa",
+            "id3": ""
+        },
+		{
+            "country": "U dobru i zlu (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 130[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDJmODcwYWQtZmNjZS00OTg5LWFiODAtMGViZDg3Y2QyZWQ0XkEyXkFqcGc@._V1_.jpg\n",
+            "id1": "",
+            "id2": "qm3q8bx1u3rh",
+            "id3": ""
+        },
+        {
+            "country": "U dobru i zlu (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 131[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDJmODcwYWQtZmNjZS00OTg5LWFiODAtMGViZDg3Y2QyZWQ0XkEyXkFqcGc@._V1_.jpg\n",
+            "id1": "",
+            "id2": "ettqpoqkw5rg",
             "id3": ""
         },
         {
@@ -9864,6 +9928,22 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg\n",
             "id1": "",
             "id2": "uvss44y2mx5y",
+            "id3": ""
+        },
+		{
+            "country": "Sjene proslosti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 158[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "o7p6vmkjs2rr",
+            "id3": ""
+        },
+        {
+            "country": "Sjene proslosti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 159[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "xxzhr9esj1fg",
             "id3": ""
         },
         {
@@ -16210,6 +16290,30 @@
             "id2": "ql116o2rw0xd",
             "id3": ""
         },
+		{
+            "country": "Tajne (2013)",
+            "channel": "[I][COLOR white]S01 Epizoda 132[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg\n",
+            "id1": "",
+            "id2": "fna6e9fqf4vn",
+            "id3": ""
+        },
+        {
+            "country": "Tajne (2013)",
+            "channel": "[I][COLOR white]S01 Epizoda 133[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg\n",
+            "id1": "",
+            "id2": "to8ie05ysx6k",
+            "id3": ""
+        },
+        {
+            "country": "Tajne (2013)",
+            "channel": "[I][COLOR white]S01 Epizoda 134[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGE3MWU2NmItYzExMC00NzM3LWFiYmItZjk5MzIxNzAxYzQ4XkEyXkFqcGc@._V1_.jpg\n",
+            "id1": "",
+            "id2": "r8k5v9b4er25",
+            "id3": ""
+        },
         {
             "country": "Kafana Na Balkanu (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
@@ -20778,6 +20882,22 @@
             "id2": "86l0w4uh52dy",
             "id3": ""
         },
+		{
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S07 Epizoda 07[/COLOR][/I]",
+            "logo": "https://static.rtsplaneta.rs/rev-1739425950/image_transform.php/transform/1/instance_id/1/img_format/webp/lang/sr/video_id/4063767/tasks/thumbnail_w/img_compression/80/format/cover/width/1920",
+            "id1": "",
+            "id2": "p1yhgtc5w1i2",
+            "id3": ""
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S07 Epizoda 08[/COLOR][/I]",
+            "logo": "https://static.rtsplaneta.rs/rev-1739425950/image_transform.php/transform/1/instance_id/1/img_format/webp/lang/sr/video_id/4063767/tasks/thumbnail_w/img_compression/80/format/cover/width/1920",
+            "id1": "",
+            "id2": "o4r385djh092",
+            "id3": ""
+        },
         {
             "country": "Oblak u sluzbi zakona (2023)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
@@ -21048,6 +21168,14 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_QL75_UX500_CR0,132,500,281_.jpg",
             "id1": "",
             "id2": "60mdg6gdflge",
+            "id3": ""
+        },
+		{
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S03 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_QL75_UX500_CR0,132,500,281_.jpg\n",
+            "id1": "",
+            "id2": "744ebpy43slx",
             "id3": ""
         }
     ]

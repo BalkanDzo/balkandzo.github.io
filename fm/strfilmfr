@@ -207,6 +207,9 @@
         },
         {
             "country": "John Wick"
+        },
+        {
+            "country": "Star Wars"
         }
     ],
     "channels": [
@@ -2762,7 +2765,7 @@
             "id2": "1gzp1o304qtv",
             "id3": ""
         },
-		{
+        {
             "country": "Jason Statham",
             "channel": "A Working Man (2025)",
             "logo": "https://m.media-amazon.com/images/M/MV5BYmQxZGIxNTYtYTQwMy00ODdkLWI0MmQtM2E0ZmIyNmYzMGMzXkEyXkFqcGc@._V1_.jpg",
@@ -3938,7 +3941,7 @@
             "id2": "pypfghh48e9e",
             "id3": ""
         },
-		{
+        {
             "country": "John Wick",
             "channel": "John Wick(2014)",
             "logo": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_.jpg",
@@ -3968,6 +3971,86 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BOGRiYjBkMzktODUyZi00ZWNmLThlOTMtNTA3ZDZlNThjOTRlXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "zwt5habhzkeg",
+            "id3": ""
+        },
+		{
+            "country": "Star Wars",
+            "channel": "Star Wars Episode IV - A New Hope (1977)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "0htot2m3r3ff",
+            "id3": ""
+        },
+        {
+            "country": "Star Wars",
+            "channel": "Star Wars Episode VI - Return of the Jedi (1983)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNWEwOTI0MmUtMGNmNy00ODViLTlkZDQtZTg1YmQ3MDgyNTUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "u7ry1x2i8ra6",
+            "id3": ""
+        },
+        {
+            "country": "Star Wars",
+            "channel": "Star Wars Episode I - The Phantom Menace (1999) ",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODVhNGIxOGItYWNlMi00YTA0LWI3NTctZmQxZGUwZDEyZWI4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "iazt24t89jod",
+            "id3": ""
+        },
+        {
+            "country": "Star Wars",
+            "channel": "Star Wars Episode II - Attack of the Clones (2002)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNTgxMjY2YzUtZmVmNC00YjAwLWJlODMtNDBhNzllNzIzMjgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "c21hz5lze2ij",
+            "id3": ""
+        },
+        {
+            "country": "Star Wars",
+            "channel": "Star Wars Episode III - Revenge of the Sith (2005)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_.jpg",
+            "id1": "",
+            "id2": "ztekepo6frd9",
+            "id3": ""
+        },
+        {
+            "country": "Star Wars",
+            "channel": "Star Wars Episode VII - The Force Awakens (2015)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_.jpg",
+            "id1": "",
+            "id2": "awnr9f0ujiti",
+            "id3": ""
+        },
+        {
+            "country": "Star Wars",
+            "channel": "Rogue One A Star Wars Story (2016)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_.jpg",
+            "id1": "",
+            "id2": "zvcrg1d75u3i",
+            "id3": ""
+        },
+        {
+            "country": "Star Wars",
+            "channel": "Star Wars Episode VIII - The Last Jedi (2017)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "xrbffi3z1wcc",
+            "id3": ""
+        },
+        {
+            "country": "Star Wars",
+            "channel": "Solo A Star Wars Story (2018)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzQ4OTVhNTItN2U5Yi00ZGY0LTg4YzUtOGUzNDBkNDI3MTA5XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "7ajuwdb4agas",
+            "id3": ""
+        },
+        {
+            "country": "Star Wars",
+            "channel": "Star Wars Episode IX - The Rise of Skywalker (2019) ",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODg5ZTNmMTUtYThlNy00NjljLWE0MGUtYmQ1NDg4NWU5MjQ1XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "nytc8urigddz",
             "id3": ""
         }
     ]
