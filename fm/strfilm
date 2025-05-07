@@ -37,6 +37,46 @@
     "channels": [
         {
             "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Holland (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTJjZmE4Y2UtYzQ5OS00N2Y2LWEzYjEtNzhiMjA3YTlkMjdjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "ohycbpza2j9a",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Death of a Unicorn (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNjUzMjhkZjktNTU5Mi00MzhmLWJhMTQtZjhkYjczOTEzM2M5XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "l5iuydyr45j6",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Jewel Thief The Heist Begins (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOWM5ZGVkNjItZDg0MC00YjIwLTkyNjEtYjdlMGM2Mjc4ODFmXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "sqecq9gmr38t",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Exterritorial (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjVkMzI2MjAtYzA3NC00OGE1LWEyZDMtODc0YTc5NTZjYzFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "z3mv1csdu7vc",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Freaky Tales (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTYyNmYyN2EtYTFjNS00ZWY5LWJiZmMtNTk5N2MyYzkzMDhmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "67khhnn55u41",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
             "channel": "Bullet Train Explosion (2025)",
             "logo": "https://m.media-amazon.com/images/M/MV5BMTVhMGM1NTYtMmI0MC00NjA2LTljMmUtYmJiNmZkMDVhMTIxXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
@@ -2674,6 +2714,94 @@
             "id1": "",
             "id2": "fm0czbwyomd4",
             "id3": "r3k6ax0rkl9u"
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "True Blood (1989)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOGFiYjNkYzktMzY3MS00NjYxLWI1NDUtOGU2YWE3Y2FiN2NmXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "mpcn6398qyfv",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Turner and Hooch (1989)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYzYzYTliNGYtMGQzZS00ZGE0LWFmM2UtMzRlYWQ5NzI5ZTVlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "i285cwt62knh",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Don't Say a Word (2001)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOGY3OWJmZmQtYWFjZi00MzFhLTg4Y2YtOWI5YTkxZGRmOWNkXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "1gtpfwg8v066",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Don (2006)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjBmOTg2NTgtZTc2Mi00ZWRhLTkzMWQtMDI0YThhZTcyMzYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "a1myllishs20",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Don 2 (2011)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTc3YmI2OTgtMTBmMi00Y2FmLWJjNGUtZTJjOGI1NDVlMDY5XkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+            "id1": "",
+            "id2": "jqldp5u1yush",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Rite (2011)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTcxNTAxMTMzNF5BMl5BanBnXkFtZTcwMjQ1MDAxNA@@._V1_.jpg",
+            "id1": "",
+            "id2": "hba8fbr09nd2",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Jack Reacher (2012)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTM1NjUxMDI3OV5BMl5BanBnXkFtZTcwNjg1ODM3OA@@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "e1l3hynztfm8",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Accountant (2016)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDc5Mzg2NTYxNV5BMl5BanBnXkFtZTgwMjQ2ODAwOTE@._V1_.jpg",
+            "id1": "",
+            "id2": "yfghoinz686c",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Jack Reacher Never Go Back (2016)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODQ3ODQ3NDI4NV5BMl5BanBnXkFtZTgwMDY1Mzk5OTE@._V1_.jpg",
+            "id1": "",
+            "id2": "xhresmwpf8sj",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "T-34 (2018)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNWU2OGM2MWMtNWRlYi00MjMxLThiNGUtMDIzNjVlOTU3MDEyXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "njiypuon6tvt",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Greenland (2020)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2U0ZDk5ODctM2JhNC00NmZlLWFiYjgtNzIxMzkxZjNiYmE1XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "83sdjspkdchd",
+            "id3": ""
         },
 		{
             "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",

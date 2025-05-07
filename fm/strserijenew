@@ -161,6 +161,15 @@
         },
         {
             "country": "You (2018)"
+        },
+        {
+            "country": "Battle Camp (2025)"
+        },
+        {
+            "country": "The Eternaut (2025)"
+        },
+        {
+            "country": "The Walking Dead Dead City (2023)"
         }
     ],
     "channels": [
@@ -2594,6 +2603,14 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BN2ZhMTljMTAtNGUxNC00NDMxLThiMDEtYjBiNzU3OGNmNmVlXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "rfwru07w2pk7",
+            "id3": ""
+        },
+        {
+            "country": "Chicago P D (2014)",
+            "channel": "[I][COLOR white]S12 Epizoda 19[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2ZhMTljMTAtNGUxNC00NDMxLThiMDEtYjBiNzU3OGNmNmVlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "j7t20p0kdtph",
             "id3": ""
         },
         {
@@ -7029,6 +7046,70 @@
             "id3": ""
         },
         {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S07 Epizoda 14[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "4yd6use7glwt",
+            "id3": ""
+        },
+        {
+            "country": "The Eternaut (2025)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTdjY2U5NjctOTNiNC00ZGM5LWJhNTgtOTkzNWUzMWM4NmM0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "The Eternaut (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTdjY2U5NjctOTNiNC00ZGM5LWJhNTgtOTkzNWUzMWM4NmM0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "zkyyuhaec9nc",
+            "id3": ""
+        },
+        {
+            "country": "The Eternaut (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTdjY2U5NjctOTNiNC00ZGM5LWJhNTgtOTkzNWUzMWM4NmM0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "n0r7i4mawnh0",
+            "id3": ""
+        },
+        {
+            "country": "The Eternaut (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTdjY2U5NjctOTNiNC00ZGM5LWJhNTgtOTkzNWUzMWM4NmM0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "vdbc9726m1qr",
+            "id3": ""
+        },
+        {
+            "country": "The Eternaut (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTdjY2U5NjctOTNiNC00ZGM5LWJhNTgtOTkzNWUzMWM4NmM0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ghnjwvzfgj6x",
+            "id3": ""
+        },
+        {
+            "country": "The Eternaut (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTdjY2U5NjctOTNiNC00ZGM5LWJhNTgtOTkzNWUzMWM4NmM0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ntf0hhq1jbde",
+            "id3": ""
+        },
+        {
+            "country": "The Eternaut (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTdjY2U5NjctOTNiNC00ZGM5LWJhNTgtOTkzNWUzMWM4NmM0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "lbieds0vffk6",
+            "id3": ""
+        },
+        {
             "country": "You (2018)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMTVlYmRhMWQtNmE0Yi00ODM1LWEzMWEtNTQzZGZhODRmZTE0XkEyXkFqcGc@._V1_.jpg",
@@ -9045,6 +9126,22 @@
             "id3": ""
         },
         {
+            "country": "MobLand (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDVmMzJkOWUtMjdjMi00NzA4LTgxMTItYjA4NjVjZDI0ZWU1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "6bxhg17jkuwm",
+            "id3": ""
+        },
+        {
+            "country": "MobLand (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDVmMzJkOWUtMjdjMi00NzA4LTgxMTItYjA4NjVjZDI0ZWU1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "vis42zcsu18h",
+            "id3": ""
+        },
+        {
             "country": "Reacher (2022)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZWU5ODRlMjYtNTczMy00Y2YxLTg5M2UtMjFkODA4OGE5Njk4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -10045,6 +10142,22 @@
             "id3": ""
         },
         {
+            "country": "The Cleaning Lady (2022)",
+            "channel": "[I][COLOR white]S04 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWFlYzk1YWYtNmEzYy00MWEyLWFiMTktZDg0MmE3ODMzNWZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "2gdvf5mnryfe",
+            "id3": ""
+        },
+        {
+            "country": "The Cleaning Lady (2022)",
+            "channel": "[I][COLOR white]S04 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWFlYzk1YWYtNmEzYy00MWEyLWFiMTktZDg0MmE3ODMzNWZlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "i2c9xxenkcro",
+            "id3": ""
+        },
+        {
             "country": "The Glass Dome (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMmFlZjJmMDYtYzY1Ni00NWU4LWJjNTItOWEwYjk3Y2ViOTQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -10362,6 +10475,118 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "ywvtgjce2y0h",
+            "id3": ""
+        },
+        {
+            "country": "Andor (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "9b6791d3kjgj",
+            "id3": ""
+        },
+        {
+            "country": "Andor (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "0euwxbd52mw2",
+            "id3": ""
+        },
+        {
+            "country": "Andor (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "ihx3jundkve8",
+            "id3": ""
+        },
+        {
+            "country": "Battle Camp (2025)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjRmZWFiNmItNTk0NC00MzMwLWIxZTQtYTRlNTY2MDQ5NDIxXkEyXkFqcGc@._V1_QL75_UX190_CR0,28,190,281_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Battle Camp (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjRmZWFiNmItNTk0NC00MzMwLWIxZTQtYTRlNTY2MDQ5NDIxXkEyXkFqcGc@._V1_QL75_UX190_CR0,28,190,281_.jpg",
+            "id1": "",
+            "id2": "x07hdk2jqtjf",
+            "id3": ""
+        },
+        {
+            "country": "Battle Camp (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjRmZWFiNmItNTk0NC00MzMwLWIxZTQtYTRlNTY2MDQ5NDIxXkEyXkFqcGc@._V1_QL75_UX190_CR0,28,190,281_.jpg",
+            "id1": "",
+            "id2": "i5zyq03zjgpu",
+            "id3": ""
+        },
+        {
+            "country": "Battle Camp (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjRmZWFiNmItNTk0NC00MzMwLWIxZTQtYTRlNTY2MDQ5NDIxXkEyXkFqcGc@._V1_QL75_UX190_CR0,28,190,281_.jpg",
+            "id1": "",
+            "id2": "fwrfomxv0x0x",
+            "id3": ""
+        },
+        {
+            "country": "Battle Camp (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjRmZWFiNmItNTk0NC00MzMwLWIxZTQtYTRlNTY2MDQ5NDIxXkEyXkFqcGc@._V1_QL75_UX190_CR0,28,190,281_.jpg",
+            "id1": "",
+            "id2": "pmkmyzkl4kxi",
+            "id3": ""
+        },
+        {
+            "country": "Battle Camp (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjRmZWFiNmItNTk0NC00MzMwLWIxZTQtYTRlNTY2MDQ5NDIxXkEyXkFqcGc@._V1_QL75_UX190_CR0,28,190,281_.jpg",
+            "id1": "",
+            "id2": "1z1d0atnv5if",
+            "id3": ""
+        },
+        {
+            "country": "Battle Camp (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjRmZWFiNmItNTk0NC00MzMwLWIxZTQtYTRlNTY2MDQ5NDIxXkEyXkFqcGc@._V1_QL75_UX190_CR0,28,190,281_.jpg",
+            "id1": "",
+            "id2": "r8hmuqxp7nrl",
+            "id3": ""
+        },
+        {
+            "country": "Battle Camp (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjRmZWFiNmItNTk0NC00MzMwLWIxZTQtYTRlNTY2MDQ5NDIxXkEyXkFqcGc@._V1_QL75_UX190_CR0,28,190,281_.jpg",
+            "id1": "",
+            "id2": "k88yrbln0wai",
+            "id3": ""
+        },
+        {
+            "country": "Battle Camp (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjRmZWFiNmItNTk0NC00MzMwLWIxZTQtYTRlNTY2MDQ5NDIxXkEyXkFqcGc@._V1_QL75_UX190_CR0,28,190,281_.jpg",
+            "id1": "",
+            "id2": "cfb59wt26c35",
+            "id3": ""
+        },
+        {
+            "country": "Battle Camp (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjRmZWFiNmItNTk0NC00MzMwLWIxZTQtYTRlNTY2MDQ5NDIxXkEyXkFqcGc@._V1_QL75_UX190_CR0,28,190,281_.jpg",
+            "id1": "",
+            "id2": "2zvxky9u9gfb",
+            "id3": ""
+        },
+        {
+            "country": "Battle Camp (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 10[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjRmZWFiNmItNTk0NC00MzMwLWIxZTQtYTRlNTY2MDQ5NDIxXkEyXkFqcGc@._V1_QL75_UX190_CR0,28,190,281_.jpg",
+            "id1": "",
+            "id2": "f5oo2fhcka8p",
             "id3": ""
         },
         {
@@ -11397,6 +11622,14 @@
             "id3": ""
         },
         {
+            "country": "All American (2018)",
+            "channel": "[I][COLOR white]S07 Epizoda 10[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjZhNDFkZDEtMmFiNC00ZWM0LWJhY2MtNzNiYTdiMmQyNmNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "v1jgbll49ccp",
+            "id3": ""
+        },
+        {
             "country": "Black Mirror (2011)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -11818,6 +12051,94 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "eb4nv64i6oyy",
+            "id3": ""
+        },
+        {
+            "country": "The Last of Us (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "6d1i63e86m9h",
+            "id3": ""
+        },
+        {
+            "country": "The Last of Us (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "avqdgsh6nfpr",
+            "id3": ""
+        },
+        {
+            "country": "The Walking Dead Dead City (2023)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI0ZjgxYWYtODZmNi00ZWI0LWI4MmEtZDBmOTNmMTRlMjY0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "The Walking Dead Dead City (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI0ZjgxYWYtODZmNi00ZWI0LWI4MmEtZDBmOTNmMTRlMjY0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "10nqrsknipct",
+            "id3": ""
+        },
+        {
+            "country": "The Walking Dead Dead City (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI0ZjgxYWYtODZmNi00ZWI0LWI4MmEtZDBmOTNmMTRlMjY0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "sgw0vmpkteuw",
+            "id3": ""
+        },
+        {
+            "country": "The Walking Dead Dead City (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI0ZjgxYWYtODZmNi00ZWI0LWI4MmEtZDBmOTNmMTRlMjY0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "z5fm1es7hsna",
+            "id3": ""
+        },
+        {
+            "country": "The Walking Dead Dead City (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI0ZjgxYWYtODZmNi00ZWI0LWI4MmEtZDBmOTNmMTRlMjY0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "9syysfbru0us",
+            "id3": ""
+        },
+        {
+            "country": "The Walking Dead Dead City (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI0ZjgxYWYtODZmNi00ZWI0LWI4MmEtZDBmOTNmMTRlMjY0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "uqfi31v2hbqj",
+            "id3": ""
+        },
+        {
+            "country": "The Walking Dead Dead City (2023)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI0ZjgxYWYtODZmNi00ZWI0LWI4MmEtZDBmOTNmMTRlMjY0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "tz4d6ewvto6e",
+            "id3": ""
+        },
+        {
+            "country": "The Walking Dead Dead City (2023)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 02---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI0ZjgxYWYtODZmNi00ZWI0LWI4MmEtZDBmOTNmMTRlMjY0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "The Walking Dead Dead City (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI0ZjgxYWYtODZmNi00ZWI0LWI4MmEtZDBmOTNmMTRlMjY0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "2yy0bh3j7snb",
             "id3": ""
         },
         {

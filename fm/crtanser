@@ -58,6 +58,9 @@
         },
         {
             "country": "Zmajeve Kugle"
+        },
+        {
+            "country": "Asterix and Obelix The Big Fight (2025)"
         }
     ],
     "channels": [
@@ -11037,7 +11040,7 @@
             "id2": "oejvvsjj8pg0",
             "id3": "fea06jsdha8e"
         },
-		{
+        {
             "country": "Zmajeve Kugle",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj0w0acvaWUXBasq3RKLN5oYp44MpHlz6tDw&s",
@@ -12267,6 +12270,54 @@
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj0w0acvaWUXBasq3RKLN5oYp44MpHlz6tDw&s",
             "id1": "",
             "id2": "u8dptgzy8i1u",
+            "id3": ""
+        },
+		{
+            "country": "Asterix and Obelix The Big Fight (2025)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOWU3ZDg0NDQtNWFiMS00MzhlLThhZjAtYjkwNDM5ODllMzBlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Asterix and Obelix The Big Fight (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOWU3ZDg0NDQtNWFiMS00MzhlLThhZjAtYjkwNDM5ODllMzBlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "5ai2j733haco",
+            "id3": ""
+        },
+        {
+            "country": "Asterix and Obelix The Big Fight (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOWU3ZDg0NDQtNWFiMS00MzhlLThhZjAtYjkwNDM5ODllMzBlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "rdek7g7myiuk",
+            "id3": ""
+        },
+        {
+            "country": "Asterix and Obelix The Big Fight (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOWU3ZDg0NDQtNWFiMS00MzhlLThhZjAtYjkwNDM5ODllMzBlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "hdphr56qpzd0",
+            "id3": ""
+        },
+        {
+            "country": "Asterix and Obelix The Big Fight (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOWU3ZDg0NDQtNWFiMS00MzhlLThhZjAtYjkwNDM5ODllMzBlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "gaawgagreh3c",
+            "id3": ""
+        },
+        {
+            "country": "Asterix and Obelix The Big Fight (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOWU3ZDg0NDQtNWFiMS00MzhlLThhZjAtYjkwNDM5ODllMzBlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "hn4npghtlhr2",
             "id3": ""
         }
     ]
