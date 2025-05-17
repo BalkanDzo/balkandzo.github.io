@@ -210,6 +210,42 @@
         },
         {
             "country": "Star Wars"
+        },
+        {
+            "country": "Fantastic Four"
+        },
+        {
+            "country": "Friday the 13th"
+        },
+        {
+            "country": "Maze Runner"
+        },
+        {
+            "country": "Lost Bullet"
+        },
+        {
+            "country": "Pirates Of The Caribbean"
+        },
+        {
+            "country": "Fantastic Four"
+        },
+        {
+            "country": "Friday the 13th"
+        },
+        {
+            "country": "Halloween "
+        },
+        {
+            "country": "Maze Runner"
+        },
+        {
+            "country": "Lost Bullet"
+        },
+        {
+            "country": "Pirates Of The Caribbean"
+        },
+        {
+            "country": "Die Hard"
         }
     ],
     "channels": [
@@ -3973,7 +4009,7 @@
             "id2": "zwt5habhzkeg",
             "id3": ""
         },
-		{
+        {
             "country": "Star Wars",
             "channel": "Star Wars Episode IV - A New Hope (1977)",
             "logo": "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -4051,6 +4087,358 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BODg5ZTNmMTUtYThlNy00NjljLWE0MGUtYmQ1NDg4NWU5MjQ1XkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "nytc8urigddz",
+            "id3": ""
+        },
+        {
+            "country": "Fantastic Four",
+            "channel": "Fantastic Four (2005)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNzgxOGY2NzMtZGYyMi00YTk0LWFmYzAtZWFkYjQ4YmQyNjAzXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "k8a93welrjwt",
+            "id3": ""
+        },
+        {
+            "country": "Fantastic Four",
+            "channel": "Fantastic Four Rise of the Silver Surfer (2007)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMWZiN2Q5YWQtN2FkYi00ZjkzLThmZmYtNzY4OTU4MTRlNTNjXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "lu3xyk7u6tpv",
+            "id3": ""
+        },
+        {
+            "country": "Fantastic Four",
+            "channel": "Fantastic Four (2015)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTk0OTMyMDA0OF5BMl5BanBnXkFtZTgwMzY5NTkzNTE@._V1_.jpg",
+            "id1": "",
+            "id2": "4lu2mrs3o142",
+            "id3": ""
+        },
+        {
+            "country": "Friday the 13th",
+            "channel": "Friday the 13th (1980)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNzI1ODZhNDctNTdjOC00Mzg2LTg1ZjktNjJkNjA2YzYxMGQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "8lo8g5vl5qa6",
+            "id3": ""
+        },
+        {
+            "country": "Friday the 13th",
+            "channel": "Friday the 13th Part 2 (1981)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjBkMGM2MDAtMjUwYS00ZjVlLWEzNGItZDJmOTA2YmE2NjRhXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "6jeww8ovxps9",
+            "id3": ""
+        },
+        {
+            "country": "Friday the 13th",
+            "channel": "Friday the 13th Part 3 (1982)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYzdkOWZiY2UtNjk0Zi00M2M4LWFjMjAtNGI4YmMzMTgyZTRmXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+            "id1": "",
+            "id2": "5gsk6bz9p8cs",
+            "id3": ""
+        },
+        {
+            "country": "Friday the 13th",
+            "channel": "Friday the 13th The Final Chapter (1984)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZjE1N2NlMjctMmM5OS00NGUyLWFiNjYtNzM2MDJlOTUxODVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "smjpr6auznj2",
+            "id3": ""
+        },
+        {
+            "country": "Friday the 13th",
+            "channel": "Friday the 13th A New Beginning (1985)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZTMyZmM0MDctNjIxNS00ZWYxLTk2OTAtMDk3NDkzN2YxODQ4XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "l8u132m5s98c",
+            "id3": ""
+        },
+        {
+            "country": "Friday the 13th",
+            "channel": "Friday the 13th Part VI Jason Lives (1986)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjhmNDkwZTItNDFhZi00YWMyLWJjNTctNGE3M2MxNGRmMDMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "kd217vl6dd8d",
+            "id3": ""
+        },
+        {
+            "country": "Friday the 13th",
+            "channel": "Friday the 13th The New Blood (1988)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZTA5ZTFlYzQtMWNmMS00ZDI4LTg4ZWQtNzYzNjFiYzQyODhjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "j0t6zkgmu5e7",
+            "id3": ""
+        },
+        {
+            "country": "Friday the 13th",
+            "channel": "Friday the 13th Part VIII Jason Takes Manhattan (1989) ",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODg3MThhYjUtYzFmOC00NmI4LTkzODgtMjgxN2M2NmE0ZjViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "87ai0gm17z3w",
+            "id3": ""
+        },
+        {
+            "country": "Friday the 13th",
+            "channel": "Jason Goes to Hell The Final Friday (1993)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMWVmZjc4YjYtYmY3Mi00MTY2LWIzMzctMjQ2MGEwNzE2YTZlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "4f1yqi2ezahx",
+            "id3": ""
+        },
+        {
+            "country": "Friday the 13th",
+            "channel": "Jason X (2001) ",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMDY4NWZhZmMtNDQwZi00MmZiLTllNTItYTRjN2FkYTU1MDVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "3mzpmyfrot7t",
+            "id3": ""
+        },
+        {
+            "country": "Friday the 13th",
+            "channel": "Freddy vs. Jason (2003)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTc4ODQ3YTAtNDJiZi00NTUzLTllOWUtYjE3NjYyNjdlNDlmXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "401camhgt04l",
+            "id3": ""
+        },
+        {
+            "country": "Friday the 13th",
+            "channel": "Friday the 13th Killer Cut (2009)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNTg1YzcwZDgtZmUzYi00NGI0LTlhN2YtNGMxZTI5MDc3ZmMyXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "d4kpixi22v7z",
+            "id3": ""
+        },
+        {
+            "country": "Halloween ",
+            "channel": "Halloween (1978)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzZiNTdiYTgtYjNkMS00MmJmLWEwZGQtNmY0NGJkMGE0YmYzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "q4ilzcotgn5e",
+            "id3": ""
+        },
+        {
+            "country": "Halloween ",
+            "channel": "Halloween II (1981)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2M5ZGEwZjItODgwOC00OWM3LTliYmQtNzlmY2NmODE1MzAwXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "cd8j9m7r5862",
+            "id3": ""
+        },
+        {
+            "country": "Halloween ",
+            "channel": "Halloween III Season of the Witch (1982)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjExOTczODczNl5BMl5BanBnXkFtZTYwNzMyMDY5._V1_QL75_UX121_.jpg",
+            "id1": "",
+            "id2": "iep78mr9l0bs",
+            "id3": ""
+        },
+        {
+            "country": "Halloween ",
+            "channel": "Halloween 4 The Return of Michael Myers (1988)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA4MDk1MzY3OV5BMl5BanBnXkFtZTYwMzY3MTg4._V1_QL75_UX134_.jpg",
+            "id1": "",
+            "id2": "ekliysrmjpez",
+            "id3": ""
+        },
+        {
+            "country": "Halloween ",
+            "channel": "Halloween 5 The Revenge of Michael Myers (1989)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTI2MWRkMzUtNGI2OC00MzA1LTkwMjEtZGRkOTk3ZjU1MjIxXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "fduj461tideo",
+            "id3": ""
+        },
+        {
+            "country": "Halloween ",
+            "channel": "Halloween The Curse of Michael Myers (1995)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2YyN2U1YjctMzMyNS00YmQyLWI5ZjUtYjUwMWU0MmYxZmU1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "zemhkqunywn2",
+            "id3": ""
+        },
+        {
+            "country": "Halloween ",
+            "channel": "Halloween H20 20 Years Later (1998)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTgyZjI3MWEtOWNiMS00ZDE3LWJmNjMtZjZhZWY4MmU5MzBmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "f4rmev464475",
+            "id3": ""
+        },
+        {
+            "country": "Halloween ",
+            "channel": "Halloween Resurrection (2002)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZTlhMTRiNDYtZjc3My00MDZmLWE4N2YtMGQ3YzE5ZTFiYTY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "fm3jnb88xyy6",
+            "id3": ""
+        },
+        {
+            "country": "Halloween ",
+            "channel": "Halloween (2007)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTMzOTg4MzcxNF5BMl5BanBnXkFtZTcwMzY5MDE1MQ@@._V1_.jpg",
+            "id1": "",
+            "id2": "7buohlb4mac3",
+            "id3": ""
+        },
+        {
+            "country": "Halloween ",
+            "channel": "Halloween II (2009)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjE2OTEzODI0NF5BMl5BanBnXkFtZTcwMTE4MTY2Mg@@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "fy30bti8j6v9",
+            "id3": ""
+        },
+        {
+            "country": "Halloween ",
+            "channel": "Halloween (2018)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2FlMzdkZTMtN2MwOS00NjQzLTlkMGYtMTRiYWUxZjM2M2ZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "j3purqd4bl58",
+            "id3": ""
+        },
+        {
+            "country": "Halloween ",
+            "channel": "Halloween Kills (2021)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTc0N2RmMWItZWFjNS00MWJmLWI5OTYtZTc1ZWExYThiYmUyXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "3qc1572iwo57",
+            "id3": ""
+        },
+        {
+            "country": "Halloween ",
+            "channel": "Halloween Ends (2022)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzllZDYwNWMtYTU5Mi00NDVmLWE2YWQtMDZiZWFmOTcxZmJmXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "9uvoa33eo2aw",
+            "id3": ""
+        },
+        {
+            "country": "Maze Runner",
+            "channel": "The Maze Runner (2014)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjUyNTA3MTAyM15BMl5BanBnXkFtZTgwOTEyMTkyMjE@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "rx95jl6zu2et",
+            "id3": ""
+        },
+        {
+            "country": "Maze Runner",
+            "channel": "Maze Runner The Scorch Trials (2015)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjE3MDU2NzQyMl5BMl5BanBnXkFtZTgwMzQxMDQ3NTE@._V1_.jpg",
+            "id1": "",
+            "id2": "va74ly4xd4ub",
+            "id3": ""
+        },
+        {
+            "country": "Maze Runner",
+            "channel": "Maze Runner The Death Cure (2018)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTYyNzk3MDc2NF5BMl5BanBnXkFtZTgwMDk3OTM1NDM@._V1_.jpg",
+            "id1": "",
+            "id2": "xwnezg7gxrxa",
+            "id3": ""
+        },
+        {
+            "country": "Lost Bullet",
+            "channel": "Lost Bullet (2020)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2M0MDA2MDAtYTUyNC00NGFlLTllYTEtMDE3NTlkMWM4ZTQ0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "jll17mjjgpbt",
+            "id3": ""
+        },
+        {
+            "country": "Lost Bullet",
+            "channel": "Lost Bullet 2 Back for More (2022)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODVmOGM0NjAtNWVlYy00ZTE1LThjZWQtMzE1NWUyMTk1MTg1XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "4n6gilhg2vhh",
+            "id3": ""
+        },
+        {
+            "country": "Lost Bullet",
+            "channel": "Last Bullet (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZGJkM2I2MjAtMmRiNy00MTkyLTg4ZDUtZjI1MmQxNzljNTUxXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+            "id1": "",
+            "id2": "gfbpneiybx8u",
+            "id3": ""
+        },
+        {
+            "country": "Pirates Of The Caribbean",
+            "channel": "Pirates of the Caribbean The Curse of the Black Pearl (2003)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDhlMzEyNzItMTA5Mi00YWRhLThlNTktYTQyMTA0MDIyNDEyXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "nggdxb3jwdyh",
+            "id3": ""
+        },
+        {
+            "country": "Pirates Of The Caribbean",
+            "channel": "Pirates of the Caribbean Dead Man's Chest (2006)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTcwODc1MTMxM15BMl5BanBnXkFtZTYwMDg1NzY3._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "6nf8ksub5hgu",
+            "id3": ""
+        },
+        {
+            "country": "Pirates Of The Caribbean",
+            "channel": "Pirates of the Caribbean At World's End (2007)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODVhMDk2NWQtMGFjNS00MTUxLTk2N2ItZGJiYmM0ZGRhZTBiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "1x4pyeznh2f2",
+            "id3": ""
+        },
+        {
+            "country": "Pirates Of The Caribbean",
+            "channel": "Pirates of the Caribbean On Stranger Tides (2011)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjE5MjkwODI3Nl5BMl5BanBnXkFtZTcwNjcwMDk4NA@@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "z9rjyxlebf5y",
+            "id3": ""
+        },
+        {
+            "country": "Pirates Of The Caribbean",
+            "channel": "Pirates of the Caribbean Dead Men Tell No Tales (2017)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_.jpg",
+            "id1": "",
+            "id2": "w36r9lqx5yef",
+            "id3": ""
+        },
+		{
+            "country": "Die Hard",
+            "channel": "Die Hard (1988)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGNlYmM1NmQtYWExMS00NmRjLTg5ZmEtMmYyYzJkMzljYWMxXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "eql4jdj73hti",
+            "id3": ""
+        },
+        {
+            "country": "Die Hard",
+            "channel": "Die Hard 2 (1990)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTA1OGFlZWUtZjE4Yy00MzFmLTlhYjctOGY5ZmZjOWFlOWUwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "7klgiaang7ha",
+            "id3": ""
+        },
+        {
+            "country": "Die Hard",
+            "channel": "Die Hard with a Vengeance (1995)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjkzNzdkMTctNzMwMS00M2Q0LWIyOTMtNmM2NDY5NWZjNTJlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "nqztd63r2pmo",
+            "id3": ""
+        },
+        {
+            "country": "Die Hard",
+            "channel": "Live Free or Die Hard (2007)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDQxMDE1OTg4NV5BMl5BanBnXkFtZTcwMTMzOTQzMw@@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "9sulgcttnlg8",
+            "id3": ""
+        },
+        {
+            "country": "Die Hard",
+            "channel": "A Good Day to Die Hard (2013)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTcwNzgyNzUzOV5BMl5BanBnXkFtZTcwMzAwOTA5OA@@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "x53m8x0pibej",
             "id3": ""
         }
     ]

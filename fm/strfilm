@@ -37,6 +37,102 @@
     "channels": [
         {
             "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Peter Pan's Neverland Nightmare (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGZmNzhkZDAtMzJlZC00OTkxLWE1NWUtZDNjYTVlNjk0ZjNkXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "7pflnkt0bg74",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "A Minecraft Movie (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYzFjMzNjOTktNDBlNy00YWZhLWExYTctZDcxNDA4OWVhOTJjXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "wxvo332dbxpj",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Snow White (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2UwOGUxMzEtMzEyZi00NjEwLTkxOTMtYTljOWEzYjYyMWNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "z4q8p1vrb4z0",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "The Ugly Stepsister (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNzVjYjk3YjEtMDRiMy00ZjFkLWI5ZmUtMDE1ZDMyYTMxMWUwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "s0bdggmkto4u",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Last Bullet (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZGJkM2I2MjAtMmRiNy00MTkyLTg4ZDUtZjI1MmQxNzljNTUxXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+            "id1": "",
+            "id2": "gfbpneiybx8u",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Drop (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOWUyOTNlMjItNWUyZC00ZGJiLTg3MDMtODJmMGQyMGY3NzU3XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "lp6ma8pw43kr",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Warfare (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYzEyYjE1NmEtOTFmNy00ZmQxLThlYzctOGRjNmQ0N2VjMmNmXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "eilfgb40ys0t",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Salvable (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNzkyZWMyY2MtZDQ0MS00YzNkLWFlN2MtMGFhN2M2MDNkZTk0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "b0c47o1gzqsj",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "N.E.S.T. (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2Q3Mzg3MDItYzc5ZC00OWJhLWE0NmItNzcxNmFjN2I5ZWYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "jkmry6tf4xc5",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Homestead (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYjA2Y2IzMGQtMzY3Zi00YzI2LWIyOGUtMzkwYzVkYmU5ZWY5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "3rruyd47uzyt",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Day of Reckoning (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzU5ZGUxZmEtMTEyNi00OWMxLTgxMzQtNjUzYTk2ZjUyZjEwXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "cukriqlk2yc5",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Fair Rain (2025) ",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTEzMzc5YmMtMWVhYS00YWQzLThhMDAtOTM5OTJlOGIwYjc1XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "76n9rrk5sjrz",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
             "channel": "Holland (2025)",
             "logo": "https://m.media-amazon.com/images/M/MV5BMTJjZmE4Y2UtYzQ5OS00N2Y2LWEzYjEtNzhiMjA3YTlkMjdjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
@@ -2717,6 +2813,94 @@
         },
 		{
             "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "California Dreamin' (2007)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDViYTUwN2UtYTk0MS00NTY2LWFjMzMtMzk1ZjM5YjY0YzIzXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "g2c3pacxolke",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Echo 8 (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjI2ZDAwMDAtZjY2ZC00NjNlLWIyNGEtOGI0NmI1MzZiZmQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "2vic6h54g1ha",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Body (2012)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWFmOGQ3MzMtOGFmYi00ZGEyLWI0NzEtMWY2MWVjNTUwMjc3XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "yyssmi8qojfr",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "The Shawshank Redemption (1994)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "y41rmq5x27v1",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "One in the Chamber (2012)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNTNmMTljMmEtMWQwMS00OGMzLWJlMTItM2ViMzI2MTFiOGZlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "mqmfew6inmv6",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Robin Hood (2010)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTM5NzcwMzEwOF5BMl5BanBnXkFtZTcwNjg5MTgwMw@@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "c3b6wsefqdrd",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Goodrich (2024)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMWVkNDNmYjEtNDZiYS00NjcyLWJiMWYtZTc2Y2FhMzc4NTE0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "h6smep6b0h9y",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Inside Man Most Wanted (2019)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjBjZGI5ZjEtODMwMi00YWUxLWI3NjktZWM5MDY2MWRiNzcwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "x1ms9quf239z",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "2012 (2009)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMTY0MjEyODQzMF5BMl5BanBnXkFtZTcwMTczMjQ4Mg@@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "lbqe657izor3",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "300 (2006)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOTg2MzA4ZmItMTM5NC00NDkyLWI1NTQtMjdjZDFmODY2MmNkXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "lu7s47su8m19",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Lucy (2014)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODcxMzY3ODY1NF5BMl5BanBnXkFtZTgwNzg1NDY4MTE@._V1_.jpg",
+            "id1": "",
+            "id2": "i2e0ph07qxih",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
             "channel": "True Blood (1989)",
             "logo": "https://m.media-amazon.com/images/M/MV5BOGFiYjNkYzktMzY3MS00NjYxLWI1NDUtOGU2YWE3Y2FiN2NmXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
@@ -2776,7 +2960,7 @@
             "channel": "The Accountant (2016)",
             "logo": "https://m.media-amazon.com/images/M/MV5BNDc5Mzg2NTYxNV5BMl5BanBnXkFtZTgwMjQ2ODAwOTE@._V1_.jpg",
             "id1": "",
-            "id2": "yfghoinz686c",
+            "id2": "gd6nlgjppgwl",
             "id3": ""
         },
         {
@@ -2896,7 +3080,7 @@
             "channel": "Hachi A Dog's Tale (2009)",
             "logo": "https://m.media-amazon.com/images/M/MV5BMTAxMDA2MjM4NDReQTJeQWpwZ15BbWU3MDE0NTgxMTM@._V1_.jpg",
             "id1": "",
-            "id2": "8v63wwgi0uoh",
+            "id2": "pui50u1p5qwx",
             "id3": ""
         },
         {

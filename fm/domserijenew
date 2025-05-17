@@ -98,6 +98,9 @@
         },
         {
             "country": "Sram (2024)"
+        },
+        {
+            "country": "Volja Sinovljeva (2024)"
         }
     ],
     "channels": [
@@ -4677,12 +4680,28 @@
             "id2": "sbjzs647dd2p",
             "id3": ""
         },
-		{
+        {
             "country": "Kumovi (2022-)",
             "channel": "[I][COLOR white]S05 Epizoda 076[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYmJhNDVhYTMtYmI5ZC00NmU0LTg4Y2EtMTI2MWU1NWY5ZjUzXkEyXkFqcGc@._V1_.jpg\n",
             "id1": "",
             "id2": "1pxmwzcazwp1",
+            "id3": ""
+        },
+        {
+            "country": "Kumovi (2022-)",
+            "channel": "[I][COLOR white]S05 Epizoda 077[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYmJhNDVhYTMtYmI5ZC00NmU0LTg4Y2EtMTI2MWU1NWY5ZjUzXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "jz3jist7x4hh",
+            "id3": ""
+        },
+        {
+            "country": "Kumovi (2022-)",
+            "channel": "[I][COLOR white]S05 Epizoda 078[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYmJhNDVhYTMtYmI5ZC00NmU0LTg4Y2EtMTI2MWU1NWY5ZjUzXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "o22sc59ss2hh",
             "id3": ""
         },
         {
@@ -4765,12 +4784,76 @@
             "id2": "vf1tjd1e8m3t",
             "id3": ""
         },
-		{
+        {
             "country": "Pelagijin Venac (2024)",
             "channel": "[I][COLOR white]S01 Epizoda 11[/COLOR][/I]",
             "logo": "https://www.b92.net/data/images/2025-04-17/126065_pelagijin-venac-epg_kf.jpg?timestamp=1745316077",
             "id1": "",
             "id2": "aj14d6mv9xex",
+            "id3": ""
+        },
+        {
+            "country": "Pelagijin Venac (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 12[/COLOR][/I]",
+            "logo": "https://www.b92.net/data/images/2025-04-17/126065_pelagijin-venac-epg_kf.jpg?timestamp=1745316077\n",
+            "id1": "",
+            "id2": "dad5m0f71e02",
+            "id3": ""
+        },
+        {
+            "country": "Pelagijin Venac (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 13[/COLOR][/I]",
+            "logo": "https://www.b92.net/data/images/2025-04-17/126065_pelagijin-venac-epg_kf.jpg?timestamp=1745316077\n",
+            "id1": "",
+            "id2": "smbf3vt98xsh",
+            "id3": ""
+        },
+        {
+            "country": "Pelagijin Venac (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 14[/COLOR][/I]",
+            "logo": "https://www.b92.net/data/images/2025-04-17/126065_pelagijin-venac-epg_kf.jpg?timestamp=1745316077\n",
+            "id1": "",
+            "id2": "8ljk0foruikk",
+            "id3": ""
+        },
+        {
+            "country": "Pelagijin Venac (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 15[/COLOR][/I]",
+            "logo": "https://www.b92.net/data/images/2025-04-17/126065_pelagijin-venac-epg_kf.jpg?timestamp=1745316077",
+            "id1": "",
+            "id2": "d7qzn9r1doj7",
+            "id3": ""
+        },
+        {
+            "country": "Pelagijin Venac (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 16[/COLOR][/I]",
+            "logo": "https://www.b92.net/data/images/2025-04-17/126065_pelagijin-venac-epg_kf.jpg?timestamp=1745316077",
+            "id1": "",
+            "id2": "vt9sw3ga2007",
+            "id3": ""
+        },
+        {
+            "country": "Pelagijin Venac (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 17[/COLOR][/I]",
+            "logo": "https://www.b92.net/data/images/2025-04-17/126065_pelagijin-venac-epg_kf.jpg?timestamp=1745316077",
+            "id1": "",
+            "id2": "5kx47nbm96d9",
+            "id3": ""
+        },
+        {
+            "country": "Pelagijin Venac (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 18[/COLOR][/I]",
+            "logo": "https://www.b92.net/data/images/2025-04-17/126065_pelagijin-venac-epg_kf.jpg?timestamp=1745316077",
+            "id1": "",
+            "id2": "hka7gtqrf8fb",
+            "id3": ""
+        },
+        {
+            "country": "Pelagijin Venac (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 19[/COLOR][/I]",
+            "logo": "https://www.b92.net/data/images/2025-04-17/126065_pelagijin-venac-epg_kf.jpg?timestamp=1745316077",
+            "id1": "",
+            "id2": "7kn1l537qx9y",
             "id3": ""
         },
         {
@@ -7821,12 +7904,92 @@
             "id2": "lrl1ent8fba9",
             "id3": ""
         },
-		{
+        {
             "country": "Igra Sudbine (2020-)",
             "channel": "[I][COLOR white]S09 Epizoda 057[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "xnn50w9br38c",
+            "id3": ""
+        },
+        {
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S09 Epizoda 058[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg\n",
+            "id1": "",
+            "id2": "q9uod37jew26",
+            "id3": ""
+        },
+        {
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S09 Epizoda 059[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "5yjfricgdnxm",
+            "id3": ""
+        },
+        {
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S09 Epizoda 060[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "9sod4tf7lauv",
+            "id3": ""
+        },
+        {
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S09 Epizoda 061[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "c7udejxhr2yn",
+            "id3": ""
+        },
+        {
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S09 Epizoda 062[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "hl4ah0l9n5sk",
+            "id3": ""
+        },
+        {
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S09 Epizoda 063[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ryrudq4xa8kf",
+            "id3": ""
+        },
+        {
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S09 Epizoda 064[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "if9uokh8qvsi",
+            "id3": ""
+        },
+        {
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S09 Epizoda 065[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "q3887bar0auc",
+            "id3": ""
+        },
+        {
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S09 Epizoda 066[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "9fis6udj6eh4",
+            "id3": ""
+        },
+        {
+            "country": "Igra Sudbine (2020-)",
+            "channel": "[I][COLOR white]S09 Epizoda 067[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODAxYmU3YjAtNTQ1My00ZWEzLTg2NTItMmJmMTczMmFmMzFiXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "g9rtwml0peg2",
             "id3": ""
         },
         {
@@ -8891,6 +9054,166 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BNDJmODcwYWQtZmNjZS00OTg5LWFiODAtMGViZDg3Y2QyZWQ0XkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "kprtzfaw7d9d",
+            "id3": ""
+        },
+        {
+            "country": "U dobru i zlu (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 136[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDJmODcwYWQtZmNjZS00OTg5LWFiODAtMGViZDg3Y2QyZWQ0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "e7udklpft8qz",
+            "id3": ""
+        },
+        {
+            "country": "U dobru i zlu (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 137[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDJmODcwYWQtZmNjZS00OTg5LWFiODAtMGViZDg3Y2QyZWQ0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "myhx60j2gl39",
+            "id3": ""
+        },
+        {
+            "country": "U dobru i zlu (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 138[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDJmODcwYWQtZmNjZS00OTg5LWFiODAtMGViZDg3Y2QyZWQ0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "yjggam20r41v",
+            "id3": ""
+        },
+        {
+            "country": "U dobru i zlu (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 139[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDJmODcwYWQtZmNjZS00OTg5LWFiODAtMGViZDg3Y2QyZWQ0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "fm31xqqsfiro",
+            "id3": ""
+        },
+        {
+            "country": "U dobru i zlu (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 140[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDJmODcwYWQtZmNjZS00OTg5LWFiODAtMGViZDg3Y2QyZWQ0XkEyXkFqcGc@._V1_.jpg\n",
+            "id1": "",
+            "id2": "7whc1y5o5jtm",
+            "id3": ""
+        },
+        {
+            "country": "U dobru i zlu (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 141[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDJmODcwYWQtZmNjZS00OTg5LWFiODAtMGViZDg3Y2QyZWQ0XkEyXkFqcGc@._V1_.jpg\n",
+            "id1": "",
+            "id2": "x7h4rcr8xuzw",
+            "id3": ""
+        },
+        {
+            "country": "U dobru i zlu (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 142[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDJmODcwYWQtZmNjZS00OTg5LWFiODAtMGViZDg3Y2QyZWQ0XkEyXkFqcGc@._V1_.jpg\n",
+            "id1": "",
+            "id2": "hszhsjkomay8",
+            "id3": ""
+        },
+        {
+            "country": "U dobru i zlu (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 143[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDJmODcwYWQtZmNjZS00OTg5LWFiODAtMGViZDg3Y2QyZWQ0XkEyXkFqcGc@._V1_.jpg\n",
+            "id1": "",
+            "id2": "3kwp5ospmhha",
+            "id3": ""
+        },
+        {
+            "country": "U dobru i zlu (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 144[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDJmODcwYWQtZmNjZS00OTg5LWFiODAtMGViZDg3Y2QyZWQ0XkEyXkFqcGc@._V1_.jpg\n",
+            "id1": "",
+            "id2": "fctffgdpvd96",
+            "id3": ""
+        },
+        {
+            "country": "U dobru i zlu (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 145[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDJmODcwYWQtZmNjZS00OTg5LWFiODAtMGViZDg3Y2QyZWQ0XkEyXkFqcGc@._V1_.jpg\n",
+            "id1": "",
+            "id2": "blrmq4hp0gco",
+            "id3": ""
+        },
+        {
+            "country": "U dobru i zlu (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 146[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNDJmODcwYWQtZmNjZS00OTg5LWFiODAtMGViZDg3Y2QyZWQ0XkEyXkFqcGc@._V1_.jpg\n",
+            "id1": "",
+            "id2": "11h38eqgjkfb",
+            "id3": ""
+        },
+		{
+            "country": "Volja Sinovljeva (2024)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://mojasupernova.mts.rs/Picture/2633/jpeg/Volja-sinovljeva-vest-1130x635.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Volja Sinovljeva (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://mojasupernova.mts.rs/Picture/2633/jpeg/Volja-sinovljeva-vest-1130x635.jpg",
+            "id1": "",
+            "id2": "capuc36l56h2",
+            "id3": ""
+        },
+        {
+            "country": "Volja Sinovljeva (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://mojasupernova.mts.rs/Picture/2633/jpeg/Volja-sinovljeva-vest-1130x635.jpg",
+            "id1": "",
+            "id2": "cfe7157vnmc8",
+            "id3": ""
+        },
+        {
+            "country": "Volja Sinovljeva (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://mojasupernova.mts.rs/Picture/2633/jpeg/Volja-sinovljeva-vest-1130x635.jpg",
+            "id1": "",
+            "id2": "uzkja448tyfx",
+            "id3": ""
+        },
+        {
+            "country": "Volja Sinovljeva (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://mojasupernova.mts.rs/Picture/2633/jpeg/Volja-sinovljeva-vest-1130x635.jpg",
+            "id1": "",
+            "id2": "8xb9hidns6zl",
+            "id3": ""
+        },
+        {
+            "country": "Volja Sinovljeva (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://mojasupernova.mts.rs/Picture/2633/jpeg/Volja-sinovljeva-vest-1130x635.jpg",
+            "id1": "",
+            "id2": "9y279rdans2g",
+            "id3": ""
+        },
+        {
+            "country": "Volja Sinovljeva (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://mojasupernova.mts.rs/Picture/2633/jpeg/Volja-sinovljeva-vest-1130x635.jpg",
+            "id1": "",
+            "id2": "zyh4ib22kltv",
+            "id3": ""
+        },
+        {
+            "country": "Volja Sinovljeva (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://mojasupernova.mts.rs/Picture/2633/jpeg/Volja-sinovljeva-vest-1130x635.jpg",
+            "id1": "",
+            "id2": "q43ac2d26csj",
+            "id3": ""
+        },
+        {
+            "country": "Volja Sinovljeva (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://mojasupernova.mts.rs/Picture/2633/jpeg/Volja-sinovljeva-vest-1130x635.jpg",
+            "id1": "",
+            "id2": "gosk7ibxg6mx",
             "id3": ""
         },
         {
@@ -10189,12 +10512,60 @@
             "id2": "vrvqxvjkhnm4",
             "id3": ""
         },
-		{
+        {
             "country": "Sjene proslosti (2024)",
             "channel": "[I][COLOR white]S01 Epizoda 166[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg\n",
             "id1": "",
             "id2": "udk7iyd3yvl1",
+            "id3": ""
+        },
+        {
+            "country": "Sjene proslosti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 167[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "dl94hcm8ldcv",
+            "id3": ""
+        },
+        {
+            "country": "Sjene proslosti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 168[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg\n",
+            "id1": "",
+            "id2": "1r534y930zlh",
+            "id3": ""
+        },
+        {
+            "country": "Sjene proslosti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 169[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "fk5rr92faqs7",
+            "id3": ""
+        },
+        {
+            "country": "Sjene proslosti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 170[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "h9a9jkjvo0a7",
+            "id3": ""
+        },
+        {
+            "country": "Sjene proslosti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 171[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "uikwnrc5kvs7",
+            "id3": ""
+        },
+        {
+            "country": "Sjene proslosti (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 172[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDA5NDEwMDgtNThhYS00OTMwLWFiYTgtMzNlZDc4YjFkZjMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "59zj0ex8ivrp",
             "id3": ""
         },
         {
@@ -21206,6 +21577,22 @@
             "id3": ""
         },
         {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S07 Epizoda 11[/COLOR][/I]",
+            "logo": "https://static.rtsplaneta.rs/rev-1739425950/image_transform.php/transform/1/instance_id/1/img_format/webp/lang/sr/video_id/4063767/tasks/thumbnail_w/img_compression/80/format/cover/width/1920",
+            "id1": "",
+            "id2": "qptw9c14nv4c",
+            "id3": ""
+        },
+        {
+            "country": "Ubice Moga Oca (2016)",
+            "channel": "[I][COLOR white]S07 Epizoda 12[/COLOR][/I]",
+            "logo": "https://static.rtsplaneta.rs/rev-1739425950/image_transform.php/transform/1/instance_id/1/img_format/webp/lang/sr/video_id/4063767/tasks/thumbnail_w/img_compression/80/format/cover/width/1920",
+            "id1": "",
+            "id2": "og4jspte293n",
+            "id3": ""
+        },
+        {
             "country": "Oblak u sluzbi zakona (2023)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_UY1200_CR235,0,630,1200_AL_.jpg",
@@ -21501,12 +21888,140 @@
             "id2": "l27wjou6aavk",
             "id3": ""
         },
-		{
+        {
             "country": "Oblak u sluzbi zakona (2023)",
             "channel": "[I][COLOR white]S03 Epizoda 11[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_QL75_UX500_CR0,132,500,281_.jpg\n",
             "id1": "",
             "id2": "l3pr9tzxjr45",
+            "id3": ""
+        },
+        {
+            "country": "Oblak u sluzbi zakona (2023)",
+            "channel": "[I][COLOR white]S03 Epizoda 12[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NmMxNjYtZjY1Zi00NDc3LTkzZGYtNWMyYTAxMTk5YTU5XkEyXkFqcGc@._V1_QL75_UX500_CR0,132,500,281_.jpg\n",
+            "id1": "",
+            "id2": "zd1zh7aj20mw",
+            "id3": ""
+        },
+        {
+            "country": "Sram (2024)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://static.wikia.nocookie.net/sram/images/f/f9/Season_2.jpeg/revision/latest?cb=20250417204957",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Sram (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://static.wikia.nocookie.net/sram/images/f/f9/Season_2.jpeg/revision/latest?cb=20250417204957",
+            "id1": "",
+            "id2": "pxp65vov543u",
+            "id3": ""
+        },
+        {
+            "country": "Sram (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://static.wikia.nocookie.net/sram/images/f/f9/Season_2.jpeg/revision/latest?cb=20250417204957",
+            "id1": "",
+            "id2": "b4m9lbdf4zax",
+            "id3": ""
+        },
+        {
+            "country": "Sram (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://static.wikia.nocookie.net/sram/images/f/f9/Season_2.jpeg/revision/latest?cb=20250417204957",
+            "id1": "",
+            "id2": "y9rs7eiew71b",
+            "id3": ""
+        },
+        {
+            "country": "Sram (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://static.wikia.nocookie.net/sram/images/f/f9/Season_2.jpeg/revision/latest?cb=20250417204957",
+            "id1": "",
+            "id2": "4gd1b1xokbw7",
+            "id3": ""
+        },
+        {
+            "country": "Sram (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://static.wikia.nocookie.net/sram/images/f/f9/Season_2.jpeg/revision/latest?cb=20250417204957",
+            "id1": "",
+            "id2": "x5cd48caacyg",
+            "id3": ""
+        },
+        {
+            "country": "Sram (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://static.wikia.nocookie.net/sram/images/f/f9/Season_2.jpeg/revision/latest?cb=20250417204957",
+            "id1": "",
+            "id2": "kae4c8tf3mwe",
+            "id3": ""
+        },
+        {
+            "country": "Sram (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://static.wikia.nocookie.net/sram/images/f/f9/Season_2.jpeg/revision/latest?cb=20250417204957",
+            "id1": "",
+            "id2": "6rm9oi46u3fx",
+            "id3": ""
+        },
+        {
+            "country": "Sram (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://static.wikia.nocookie.net/sram/images/f/f9/Season_2.jpeg/revision/latest?cb=20250417204957",
+            "id1": "",
+            "id2": "bm7u0v21x9dl",
+            "id3": ""
+        },
+        {
+            "country": "Sram (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 09[/COLOR][/I]",
+            "logo": "https://static.wikia.nocookie.net/sram/images/f/f9/Season_2.jpeg/revision/latest?cb=20250417204957",
+            "id1": "",
+            "id2": "rszfd70wixp7",
+            "id3": ""
+        },
+        {
+            "country": "Sram (2024)",
+            "channel": "[I][COLOR white]S01 Epizoda 10[/COLOR][/I]",
+            "logo": "https://static.wikia.nocookie.net/sram/images/f/f9/Season_2.jpeg/revision/latest?cb=20250417204957",
+            "id1": "",
+            "id2": "0izu7g9e75ws",
+            "id3": ""
+        },
+        {
+            "country": "Sram (2024)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 02---[/B][/COLOR]",
+            "logo": "https://static.wikia.nocookie.net/sram/images/f/f9/Season_2.jpeg/revision/latest?cb=20250417204957",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Sram (2024)",
+            "channel": "[I][COLOR white]S02 Epizoda 01[/COLOR][/I]",
+            "logo": "https://static.wikia.nocookie.net/sram/images/f/f9/Season_2.jpeg/revision/latest?cb=20250417204957",
+            "id1": "",
+            "id2": "a2i7ppy1db7q",
+            "id3": ""
+        },
+        {
+            "country": "Sram (2024)",
+            "channel": "[I][COLOR white]S02 Epizoda 02[/COLOR][/I]",
+            "logo": "https://static.wikia.nocookie.net/sram/images/f/f9/Season_2.jpeg/revision/latest?cb=20250417204957",
+            "id1": "",
+            "id2": "yecgyiv7og5k",
+            "id3": ""
+        },
+        {
+            "country": "Sram (2024)",
+            "channel": "[I][COLOR white]S02 Epizoda 03[/COLOR][/I]",
+            "logo": "https://static.wikia.nocookie.net/sram/images/f/f9/Season_2.jpeg/revision/latest?cb=20250417204957",
+            "id1": "",
+            "id2": "57mf733f0tvx",
             "id3": ""
         }
     ]

@@ -170,6 +170,21 @@
         },
         {
             "country": "The Walking Dead Dead City (2023)"
+        },
+        {
+            "country": "Forever (2025)"
+        },
+        {
+            "country": "Malditos (2025)"
+        },
+        {
+            "country": "Bet (2025)"
+        },
+        {
+            "country": "Duster (2025)"
+        },
+        {
+            "country": "The Four Seasons (2025)"
         }
     ],
     "channels": [
@@ -603,6 +618,46 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BOGVmOTg0ZWEtMWIwNS00NjkwLThiYWMtOWJmNGFkZWJhYzVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "oxioqna97qa7",
+            "id3": ""
+        },
+        {
+            "country": "Found (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 20[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOGVmOTg0ZWEtMWIwNS00NjkwLThiYWMtOWJmNGFkZWJhYzVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "4z4srt6n0mso",
+            "id3": ""
+        },
+        {
+            "country": "Malditos (2025)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODM5MDYxNDQtOWRkNC00OGE0LWFkZjMtMTE2ZjhjMDg5NTViXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Malditos (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODM5MDYxNDQtOWRkNC00OGE0LWFkZjMtMTE2ZjhjMDg5NTViXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "utrn3gvei7dz",
+            "id3": ""
+        },
+        {
+            "country": "Malditos (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODM5MDYxNDQtOWRkNC00OGE0LWFkZjMtMTE2ZjhjMDg5NTViXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "3wuh6xsws76g",
+            "id3": ""
+        },
+		{
+            "country": "Malditos (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODM5MDYxNDQtOWRkNC00OGE0LWFkZjMtMTE2ZjhjMDg5NTViXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "elim6r3vynia",
             "id3": ""
         },
         {
@@ -5950,6 +6005,38 @@
             "id3": ""
         },
         {
+            "country": "Chicago Fire (2012)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 12---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDgwYjlhMGItMDQ3YS00OGQyLWFiMTQtYzkwNTUzNjE4NzIwXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Chicago Fire (2012)",
+            "channel": "[I][COLOR white]S12 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDgwYjlhMGItMDQ3YS00OGQyLWFiMTQtYzkwNTUzNjE4NzIwXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "mtqunl4jf5dw",
+            "id3": ""
+        },
+		{
+            "country": "Duster (2025)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI3NDVjODctYTM2MS00YzZhLWJjOTItN2JmYTY5ODdkYTY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Duster (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI3NDVjODctYTM2MS00YzZhLWJjOTItN2JmYTY5ODdkYTY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "qcgk4j8oqop1",
+            "id3": ""
+        },
+        {
             "country": "Coyotl, Hero and Beast (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYzYxNzdhNTctZDJmOC00YWQ1LWE0NDMtYTk2YmFlYzA3M2ZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -7051,6 +7138,22 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "4yd6use7glwt",
+            "id3": ""
+        },
+        {
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S07 Epizoda 15[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "w1sehtnyjsdp",
+            "id3": ""
+        },
+		{
+            "country": "The Rookie (2018)",
+            "channel": "[I][COLOR white]S07 Epizoda 16[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "zh9hw7hz3egs",
             "id3": ""
         },
         {
@@ -9141,6 +9244,14 @@
             "id2": "vis42zcsu18h",
             "id3": ""
         },
+		{
+            "country": "MobLand (2025) ",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDVmMzJkOWUtMjdjMi00NzA4LTgxMTItYjA4NjVjZDI0ZWU1XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "zxquk341gqcv",
+            "id3": ""
+        },
         {
             "country": "Reacher (2022)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
@@ -10157,6 +10268,86 @@
             "id2": "i2c9xxenkcro",
             "id3": ""
         },
+		{
+            "country": "The Cleaning Lady (2022)",
+            "channel": "[I][COLOR white]S04 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWFlYzk1YWYtNmEzYy00MWEyLWFiMTktZDg0MmE3ODMzNWZlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "u5dhqlo5nn2c",
+            "id3": ""
+        },
+		{
+            "country": "The Four Seasons (2025)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjZiMDNhZWItZDk1YS00M2UyLTkxN2YtNDQ3ZmJjYTA4MzgwXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "The Four Seasons (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjZiMDNhZWItZDk1YS00M2UyLTkxN2YtNDQ3ZmJjYTA4MzgwXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "0p0jpmoccw1w",
+            "id3": ""
+        },
+        {
+            "country": "The Four Seasons (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjZiMDNhZWItZDk1YS00M2UyLTkxN2YtNDQ3ZmJjYTA4MzgwXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "61cidnnvzmll",
+            "id3": ""
+        },
+        {
+            "country": "The Four Seasons (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjZiMDNhZWItZDk1YS00M2UyLTkxN2YtNDQ3ZmJjYTA4MzgwXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "5yggiyu5uybe",
+            "id3": ""
+        },
+        {
+            "country": "The Four Seasons (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjZiMDNhZWItZDk1YS00M2UyLTkxN2YtNDQ3ZmJjYTA4MzgwXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "74o1qeadpz9d",
+            "id3": ""
+        },
+        {
+            "country": "The Four Seasons (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjZiMDNhZWItZDk1YS00M2UyLTkxN2YtNDQ3ZmJjYTA4MzgwXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "du27lhnfuoxx",
+            "id3": ""
+        },
+        {
+            "country": "The Four Seasons (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjZiMDNhZWItZDk1YS00M2UyLTkxN2YtNDQ3ZmJjYTA4MzgwXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "hrhfht279rb9",
+            "id3": ""
+        },
+        {
+            "country": "The Four Seasons (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjZiMDNhZWItZDk1YS00M2UyLTkxN2YtNDQ3ZmJjYTA4MzgwXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "yi6bvhg47grk",
+            "id3": ""
+        },
+        {
+            "country": "The Four Seasons (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjZiMDNhZWItZDk1YS00M2UyLTkxN2YtNDQ3ZmJjYTA4MzgwXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "tz6kvj3xlicf",
+            "id3": ""
+        },
         {
             "country": "The Glass Dome (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
@@ -10499,6 +10690,214 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "ihx3jundkve8",
+            "id3": ""
+        },
+        {
+            "country": "Andor (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "n49ly87mxg7k",
+            "id3": ""
+        },
+        {
+            "country": "Andor (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "8znc1s3ukbpn",
+            "id3": ""
+        },
+        {
+            "country": "Andor (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "ua1zn31rce78",
+            "id3": ""
+        },
+        {
+            "country": "Andor (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 10[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "mvxvdelor1mo",
+            "id3": ""
+        },
+        {
+            "country": "Andor (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 11[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "8qs74p95dxvp",
+            "id3": ""
+        },
+        {
+            "country": "Andor (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 12[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "zeh33y6kgqfz",
+            "id3": ""
+        },
+        {
+            "country": "Bet (2025)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWFkNjVkMTAtNjAwZS00YmZmLWEzY2ItMjc0MGEwNmFhMzk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Bet (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWFkNjVkMTAtNjAwZS00YmZmLWEzY2ItMjc0MGEwNmFhMzk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "chqdv3xfnoo3",
+            "id3": ""
+        },
+        {
+            "country": "Bet (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWFkNjVkMTAtNjAwZS00YmZmLWEzY2ItMjc0MGEwNmFhMzk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "d2rew4vyxhrd",
+            "id3": ""
+        },
+        {
+            "country": "Bet (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWFkNjVkMTAtNjAwZS00YmZmLWEzY2ItMjc0MGEwNmFhMzk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "iwpgwyqjio45",
+            "id3": ""
+        },
+        {
+            "country": "Bet (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWFkNjVkMTAtNjAwZS00YmZmLWEzY2ItMjc0MGEwNmFhMzk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "la7vmfejb4s5",
+            "id3": ""
+        },
+        {
+            "country": "Bet (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWFkNjVkMTAtNjAwZS00YmZmLWEzY2ItMjc0MGEwNmFhMzk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "bia68dc0qcwi",
+            "id3": ""
+        },
+        {
+            "country": "Bet (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWFkNjVkMTAtNjAwZS00YmZmLWEzY2ItMjc0MGEwNmFhMzk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "3zj7k8kvudui",
+            "id3": ""
+        },
+        {
+            "country": "Bet (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWFkNjVkMTAtNjAwZS00YmZmLWEzY2ItMjc0MGEwNmFhMzk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "7358gyfiai5c",
+            "id3": ""
+        },
+        {
+            "country": "Bet (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWFkNjVkMTAtNjAwZS00YmZmLWEzY2ItMjc0MGEwNmFhMzk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "wphqeskyxbj8",
+            "id3": ""
+        },
+        {
+            "country": "Bet (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 09[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWFkNjVkMTAtNjAwZS00YmZmLWEzY2ItMjc0MGEwNmFhMzk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "t9k1n45fj8fe",
+            "id3": ""
+        },
+        {
+            "country": "Bet (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 10[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWFkNjVkMTAtNjAwZS00YmZmLWEzY2ItMjc0MGEwNmFhMzk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "qagz0zw8eipm",
+            "id3": ""
+        },
+        {
+            "country": "Forever (2025)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2M5Nzg2NTYtMWYyMy00M2QwLWIxNTItYjQxMzMzN2RlMTUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Forever (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2M5Nzg2NTYtMWYyMy00M2QwLWIxNTItYjQxMzMzN2RlMTUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "jh5ykzysnw4u",
+            "id3": ""
+        },
+        {
+            "country": "Forever (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2M5Nzg2NTYtMWYyMy00M2QwLWIxNTItYjQxMzMzN2RlMTUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "fo5wuhps0123",
+            "id3": ""
+        },
+        {
+            "country": "Forever (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2M5Nzg2NTYtMWYyMy00M2QwLWIxNTItYjQxMzMzN2RlMTUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "b4srqvfzwhso",
+            "id3": ""
+        },
+        {
+            "country": "Forever (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2M5Nzg2NTYtMWYyMy00M2QwLWIxNTItYjQxMzMzN2RlMTUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "1gtpumk60vzv",
+            "id3": ""
+        },
+        {
+            "country": "Forever (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2M5Nzg2NTYtMWYyMy00M2QwLWIxNTItYjQxMzMzN2RlMTUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "fp7syuufix2f",
+            "id3": ""
+        },
+        {
+            "country": "Forever (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2M5Nzg2NTYtMWYyMy00M2QwLWIxNTItYjQxMzMzN2RlMTUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "tsequfrkwp05",
+            "id3": ""
+        },
+        {
+            "country": "Forever (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2M5Nzg2NTYtMWYyMy00M2QwLWIxNTItYjQxMzMzN2RlMTUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "j16ub777o519",
+            "id3": ""
+        },
+        {
+            "country": "Forever (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BY2M5Nzg2NTYtMWYyMy00M2QwLWIxNTItYjQxMzMzN2RlMTUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "gk71ch0s6qly",
             "id3": ""
         },
         {
@@ -11630,6 +12029,30 @@
             "id3": ""
         },
         {
+            "country": "All American (2018)",
+            "channel": "[I][COLOR white]S07 Epizoda 11[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjZhNDFkZDEtMmFiNC00ZWM0LWJhY2MtNzNiYTdiMmQyNmNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "54pdxyvs7mkm",
+            "id3": ""
+        },
+        {
+            "country": "All American (2018)",
+            "channel": "[I][COLOR white]S07 Epizoda 12[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjZhNDFkZDEtMmFiNC00ZWM0LWJhY2MtNzNiYTdiMmQyNmNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "b26gw53ilz7e",
+            "id3": ""
+        },
+        {
+            "country": "All American (2018)",
+            "channel": "[I][COLOR white]S07 Epizoda 13[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjZhNDFkZDEtMmFiNC00ZWM0LWJhY2MtNzNiYTdiMmQyNmNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "v0o2rkk5u68q",
+            "id3": ""
+        },
+        {
             "country": "Black Mirror (2011)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -12069,6 +12492,14 @@
             "id2": "avqdgsh6nfpr",
             "id3": ""
         },
+		{
+            "country": "The Last of Us (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "1u3x5y32pyao",
+            "id3": ""
+        },
         {
             "country": "The Walking Dead Dead City (2023)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
@@ -12139,6 +12570,14 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BYWI0ZjgxYWYtODZmNi00ZWI0LWI4MmEtZDBmOTNmMTRlMjY0XkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "2yy0bh3j7snb",
+            "id3": ""
+        },
+		{
+            "country": "The Walking Dead Dead City (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI0ZjgxYWYtODZmNi00ZWI0LWI4MmEtZDBmOTNmMTRlMjY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "g0kwl0tzsx2d",
             "id3": ""
         },
         {
