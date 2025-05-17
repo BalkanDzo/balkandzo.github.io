@@ -2645,7 +2645,7 @@
             "id3": ""
         },
         {
-            "country": "Chicago P D 2014)",
+            "country": "Chicago P D (2014)",
             "channel": "[I][COLOR white]S12 Epizoda 17[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BN2ZhMTljMTAtNGUxNC00NDMxLThiMDEtYjBiNzU3OGNmNmVlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
@@ -10534,38 +10534,6 @@
         },
         {
             "country": "Andor (2022)",
-            "channel": "[B][COLOR deepskyblue]---Sezona 02---[/B][/COLOR]",
-            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-            "id1": "",
-            "id2": "",
-            "id3": ""
-        },
-        {
-            "country": "Andor (2022)",
-            "channel": "[I][COLOR white]S02 Epizoda 01[/COLOR][/I]",
-            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-            "id1": "",
-            "id2": "2mfyvkv6laad",
-            "id3": ""
-        },
-        {
-            "country": "Andor (2022)",
-            "channel": "[I][COLOR white]S02 Epizoda 02[/COLOR][/I]",
-            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-            "id1": "",
-            "id2": "xhcq3k8k8lfp",
-            "id3": ""
-        },
-        {
-            "country": "Andor (2022)",
-            "channel": "[I][COLOR white]S02 Epizoda 03[/COLOR][/I]",
-            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-            "id1": "",
-            "id2": "6ozdm1bfdgke",
-            "id3": ""
-        },
-        {
-            "country": "Andor (2022)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
@@ -10670,6 +10638,38 @@
         },
         {
             "country": "Andor (2022)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 02---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Andor (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "2mfyvkv6laad",
+            "id3": ""
+        },
+        {
+            "country": "Andor (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "xhcq3k8k8lfp",
+            "id3": ""
+        },
+        {
+            "country": "Andor (2022)",
+            "channel": "[I][COLOR white]S02 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "6ozdm1bfdgke",
+            "id3": ""
+        },
+        {
+            "country": "Andor (2022)",
             "channel": "[I][COLOR white]S02 Epizoda 04[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
@@ -10695,7 +10695,7 @@
         {
             "country": "Andor (2022)",
             "channel": "[I][COLOR white]S02 Epizoda 07[/COLOR][/I]",
-            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_.jpg",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "n49ly87mxg7k",
             "id3": ""
@@ -10703,7 +10703,7 @@
         {
             "country": "Andor (2022)",
             "channel": "[I][COLOR white]S02 Epizoda 08[/COLOR][/I]",
-            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_.jpg",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "8znc1s3ukbpn",
             "id3": ""
@@ -10711,7 +10711,7 @@
         {
             "country": "Andor (2022)",
             "channel": "[I][COLOR white]S02 Epizoda 09[/COLOR][/I]",
-            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_.jpg",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "ua1zn31rce78",
             "id3": ""
@@ -10719,7 +10719,7 @@
         {
             "country": "Andor (2022)",
             "channel": "[I][COLOR white]S02 Epizoda 10[/COLOR][/I]",
-            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_.jpg",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "mvxvdelor1mo",
             "id3": ""
@@ -10727,7 +10727,7 @@
         {
             "country": "Andor (2022)",
             "channel": "[I][COLOR white]S02 Epizoda 11[/COLOR][/I]",
-            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_.jpg",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "8qs74p95dxvp",
             "id3": ""
@@ -10735,7 +10735,7 @@
         {
             "country": "Andor (2022)",
             "channel": "[I][COLOR white]S02 Epizoda 12[/COLOR][/I]",
-            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_.jpg",
+            "logo": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "id1": "",
             "id2": "zeh33y6kgqfz",
             "id3": ""
