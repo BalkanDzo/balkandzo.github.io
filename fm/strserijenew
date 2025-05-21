@@ -185,6 +185,15 @@
         },
         {
             "country": "The Four Seasons (2025)"
+        },
+        {
+            "country": "Franklin (2025)"
+        },
+        {
+            "country": "Murderbot (2025)"
+        },
+        {
+            "country": "Secrets We Keep (2025)"
         }
     ],
     "channels": [
@@ -629,6 +638,14 @@
             "id3": ""
         },
         {
+            "country": "Found (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 21[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BOGVmOTg0ZWEtMWIwNS00NjkwLThiYWMtOWJmNGFkZWJhYzVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "c4djbowarxh3",
+            "id3": ""
+        },
+        {
             "country": "Malditos (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BODM5MDYxNDQtOWRkNC00OGE0LWFkZjMtMTE2ZjhjMDg5NTViXkEyXkFqcGc@._V1_.jpg",
@@ -652,7 +669,7 @@
             "id2": "3wuh6xsws76g",
             "id3": ""
         },
-		{
+        {
             "country": "Malditos (2025)",
             "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BODM5MDYxNDQtOWRkNC00OGE0LWFkZjMtMTE2ZjhjMDg5NTViXkEyXkFqcGc@._V1_.jpg",
@@ -2666,6 +2683,14 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BN2ZhMTljMTAtNGUxNC00NDMxLThiMDEtYjBiNzU3OGNmNmVlXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "j7t20p0kdtph",
+            "id3": ""
+        },
+        {
+            "country": "Chicago P D (2014)",
+            "channel": "[I][COLOR white]S12 Epizoda 20[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2ZhMTljMTAtNGUxNC00NDMxLThiMDEtYjBiNzU3OGNmNmVlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "s03dnf6ssfnb",
             "id3": ""
         },
         {
@@ -6020,7 +6045,7 @@
             "id2": "mtqunl4jf5dw",
             "id3": ""
         },
-		{
+        {
             "country": "Duster (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYWI3NDVjODctYTM2MS00YzZhLWJjOTItN2JmYTY5ODdkYTY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -7148,7 +7173,7 @@
             "id2": "w1sehtnyjsdp",
             "id3": ""
         },
-		{
+        {
             "country": "The Rookie (2018)",
             "channel": "[I][COLOR white]S07 Epizoda 16[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -9244,12 +9269,20 @@
             "id2": "vis42zcsu18h",
             "id3": ""
         },
-		{
+        {
             "country": "MobLand (2025) ",
             "channel": "[I][COLOR white]S01 Epizoda 07[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZDVmMzJkOWUtMjdjMi00NzA4LTgxMTItYjA4NjVjZDI0ZWU1XkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "zxquk341gqcv",
+            "id3": ""
+        },
+        {
+            "country": "MobLand (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDVmMzJkOWUtMjdjMi00NzA4LTgxMTItYjA4NjVjZDI0ZWU1XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "fqfhcy5xw98h",
             "id3": ""
         },
         {
@@ -10268,7 +10301,7 @@
             "id2": "i2c9xxenkcro",
             "id3": ""
         },
-		{
+        {
             "country": "The Cleaning Lady (2022)",
             "channel": "[I][COLOR white]S04 Epizoda 07[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BZWFlYzk1YWYtNmEzYy00MWEyLWFiMTktZDg0MmE3ODMzNWZlXkEyXkFqcGc@._V1_.jpg",
@@ -10276,7 +10309,15 @@
             "id2": "u5dhqlo5nn2c",
             "id3": ""
         },
-		{
+        {
+            "country": "The Cleaning Lady (2022)",
+            "channel": "[I][COLOR white]S04 Epizoda 08[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZWFlYzk1YWYtNmEzYy00MWEyLWFiMTktZDg0MmE3ODMzNWZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "hyxvbkjwb340",
+            "id3": ""
+        },
+        {
             "country": "The Four Seasons (2025)",
             "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
             "logo": "https://m.media-amazon.com/images/M/MV5BMjZiMDNhZWItZDk1YS00M2UyLTkxN2YtNDQ3ZmJjYTA4MzgwXkEyXkFqcGc@._V1_.jpg",
@@ -12492,12 +12533,20 @@
             "id2": "avqdgsh6nfpr",
             "id3": ""
         },
-		{
+        {
             "country": "The Last of Us (2023)",
             "channel": "[I][COLOR white]S02 Epizoda 05[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "1u3x5y32pyao",
+            "id3": ""
+        },
+        {
+            "country": "The Last of Us (2023)",
+            "channel": "[I][COLOR white]S02 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "83iaev3gid08",
             "id3": ""
         },
         {
@@ -12572,7 +12621,7 @@
             "id2": "2yy0bh3j7snb",
             "id3": ""
         },
-		{
+        {
             "country": "The Walking Dead Dead City (2023)",
             "channel": "[I][COLOR white]S02 Epizoda 02[/COLOR][/I]",
             "logo": "https://m.media-amazon.com/images/M/MV5BYWI0ZjgxYWYtODZmNi00ZWI0LWI4MmEtZDBmOTNmMTRlMjY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -12698,6 +12747,142 @@
             "logo": "https://m.media-amazon.com/images/M/MV5BZGQ3YzVjNWQtOGFhZS00OTcxLTlhZWQtNTczYTkxMzA5MWYxXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
             "id2": "bv00arpwt19o",
+            "id3": ""
+        },
+        {
+            "country": "Franklin (2025)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWNmYWVlZWYtMzJkZi00YmYxLWI4ZDctYjkzYWQ0YTg1OGZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Franklin (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWNmYWVlZWYtMzJkZi00YmYxLWI4ZDctYjkzYWQ0YTg1OGZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "6okjvm3c037h",
+            "id3": ""
+        },
+        {
+            "country": "Franklin (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWNmYWVlZWYtMzJkZi00YmYxLWI4ZDctYjkzYWQ0YTg1OGZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "nz47dty9ca5z",
+            "id3": ""
+        },
+        {
+            "country": "Franklin (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWNmYWVlZWYtMzJkZi00YmYxLWI4ZDctYjkzYWQ0YTg1OGZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "rksl4nnomo8e",
+            "id3": ""
+        },
+        {
+            "country": "Franklin (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWNmYWVlZWYtMzJkZi00YmYxLWI4ZDctYjkzYWQ0YTg1OGZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "teetmr1rehxt",
+            "id3": ""
+        },
+        {
+            "country": "Franklin (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWNmYWVlZWYtMzJkZi00YmYxLWI4ZDctYjkzYWQ0YTg1OGZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "t9rduu3jax4c",
+            "id3": ""
+        },
+        {
+            "country": "Franklin (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYWNmYWVlZWYtMzJkZi00YmYxLWI4ZDctYjkzYWQ0YTg1OGZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "6ju0c1jfuh4z",
+            "id3": ""
+        },
+        {
+            "country": "Murderbot (2025)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYmFjYTc1ZjUtMmFiMi00NjgzLWJiODgtMDc5ZDcwZmRjYzcwXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Murderbot (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYmFjYTc1ZjUtMmFiMi00NjgzLWJiODgtMDc5ZDcwZmRjYzcwXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "vtmj7f6kv245",
+            "id3": ""
+        },
+        {
+            "country": "Murderbot (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYmFjYTc1ZjUtMmFiMi00NjgzLWJiODgtMDc5ZDcwZmRjYzcwXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "jemkdtmwaa9h",
+            "id3": ""
+        },
+        {
+            "country": "Secrets We Keep (2025)",
+            "channel": "[B][COLOR deepskyblue]---Sezona 01---[/B][/COLOR]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2VkNzhmMDYtYmIxMC00NmU4LTgwYWYtZDRhMmI3MDI0ZjA3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "",
+            "id3": ""
+        },
+        {
+            "country": "Secrets We Keep (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 01[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2VkNzhmMDYtYmIxMC00NmU4LTgwYWYtZDRhMmI3MDI0ZjA3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "b4mw5t9pvikq",
+            "id3": ""
+        },
+        {
+            "country": "Secrets We Keep (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 02[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2VkNzhmMDYtYmIxMC00NmU4LTgwYWYtZDRhMmI3MDI0ZjA3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "iqn38l6vhfak",
+            "id3": ""
+        },
+        {
+            "country": "Secrets We Keep (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 03[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2VkNzhmMDYtYmIxMC00NmU4LTgwYWYtZDRhMmI3MDI0ZjA3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "9wxfvbwecp1l",
+            "id3": ""
+        },
+        {
+            "country": "Secrets We Keep (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 04[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2VkNzhmMDYtYmIxMC00NmU4LTgwYWYtZDRhMmI3MDI0ZjA3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "loruo21a5je9",
+            "id3": ""
+        },
+        {
+            "country": "Secrets We Keep (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 05[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2VkNzhmMDYtYmIxMC00NmU4LTgwYWYtZDRhMmI3MDI0ZjA3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "fg63dzhwfpfg",
+            "id3": ""
+        },
+        {
+            "country": "Secrets We Keep (2025)",
+            "channel": "[I][COLOR white]S01 Epizoda 06[/COLOR][/I]",
+            "logo": "https://m.media-amazon.com/images/M/MV5BN2VkNzhmMDYtYmIxMC00NmU4LTgwYWYtZDRhMmI3MDI0ZjA3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "qumbkwh8kuu8",
             "id3": ""
         }
     ]

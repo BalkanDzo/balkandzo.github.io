@@ -37,6 +37,22 @@
     "channels": [
         {
             "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Final Destination Bloodlines (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMzc3OWFhZWItMTE2Yy00N2NmLTg1YTktNGVlNDY0ODQ5YjNlXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "60qy3bpe6j5o",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
+            "channel": "Nonnas (2025)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BODM0M2M4YWQtMzhlNy00NjdkLWFkODktOGNlNTc4OTFiZjZmXkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "yx3xyhkdb6y5",
+            "id3": ""
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Novi Aktuelni Filmovi-)[/B][/COLOR]",
             "channel": "Peter Pan's Neverland Nightmare (2025)",
             "logo": "https://m.media-amazon.com/images/M/MV5BNGZmNzhkZDAtMzJlZC00OTkxLWE1NWUtZDNjYTVlNjk0ZjNkXkEyXkFqcGc@._V1_.jpg",
             "id1": "",
@@ -2810,6 +2826,62 @@
             "id1": "",
             "id2": "fm0czbwyomd4",
             "id3": "r3k6ax0rkl9u"
+        },
+		{
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Salaam Namaste (2005)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NDQ5MzM5OF5BMl5BanBnXkFtZTgwOTUzOTI0MzE@._V1_.jpg",
+            "id1": "",
+            "id2": "obp04yiirxyc",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Zero (2018)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BZDQ5ZGFlYjgtMDY4YS00OGQ4LWI4NGItYTczZmIyNDVhNDJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "93zfojzy9d3v",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Kal Ho Naa Ho (2003)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BYTYyYzc2OGYtMGQ5OS00M2E4LWI4ZjctN2Q5NGRhMmY5MWI0XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "nyo4occ7m2ti",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Dear Zindagi (2016)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGVhMjczOWYtNWYyOS00MTYwLTg3OWYtNmVjYWQ0OThlOThiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "sq8rhv0xkek6",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Jawan (2023)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMGExNGI1NDktOWI2Mi00NDM3LWIxMmQtNTQxYTgzMzI0MTA1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "gk8szwm0p2or",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Fractured (2019)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMDViOTQwZDMtNjBiMS00YzU4LTllNGUtM2YwNjk4NGMwOTk3XkEyXkFqcGc@._V1_.jpg",
+            "id1": "",
+            "id2": "p6aiewqkjmpk",
+            "id3": ""
+        },
+        {
+            "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
+            "channel": "Dunki (2023)",
+            "logo": "https://m.media-amazon.com/images/M/MV5BMThhZjM4M2UtYmE1NC00YTMzLTk3ZTAtNmQ1ZmI4YmRmZGE1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "id1": "",
+            "id2": "imddche1q31q",
+            "id3": ""
         },
 		{
             "country": "[B][COLOR deepskyblue](-Filmovi po zelji korisnika-)[/B][/COLOR]",
