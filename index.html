@@ -4,155 +4,662 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Balkan Dzo</title>
+    <meta name="description" content="Balkan Dzo - Premium Kodi Build za zabavu">
+    <title>Balkan Dzo | Premium Kodi Build</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4; 
-            color: #333;
-            text-align: center;
+        :root {
+            --primary-color: #00BFFF;
+            --secondary-color: #1A1A1A;
+            --accent-color: #FF6B00;
+            --text-color: #333333;
+            --light-text: #F5F5F5;
+            --section-bg: #FFFFFF;
+            --shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            --transition: all 0.3s ease;
+        }
+        
+        * {
             margin: 0;
             padding: 0;
+            box-sizing: border-box;
         }
+        
+        body {
+            font-family: 'Open Sans', sans-serif;
+            background-color: #F9F9F9;
+            color: var(--text-color);
+            line-height: 1.6;
+        }
+        
+        .container {
+            width: 100%;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        
+        /* Header Styles */
         header {
-            background-color: black;
-            padding: 20px;
+            background: linear-gradient(135deg, var(--secondary-color) 0%, #2A2A2A 100%);
+            color: var(--light-text);
+            padding: 30px 0;
+            text-align: center;
             position: relative;
-            color: deepskyblue;
+            box-shadow: var(--shadow);
         }
+        
+        .header-content {
+            position: relative;
+            z-index: 2;
+        }
+        
         h1 {
-            margin: 0;
-            font-size: 36px;
-            color: deepskyblue;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 2.8rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+            color: var(--primary-color);
+            text-transform: uppercase;
+            letter-spacing: 1px;
         }
-        p {
-            font-size: 18px;
-            margin: 20px 0;
+        
+        .tagline {
+            font-size: 1.2rem;
+            opacity: 0.9;
+            margin-bottom: 0;
         }
-        nav {
-            margin: 40px 0;
-        }
-        nav a {
-            display: block;
-            font-size: 20px;
-            color: deepskyblue;
-            text-decoration: none;
-            margin: 10px 0;
-            transition: color 0.3s ease;
-        }
-        nav a:hover {
-            color: black;
-        }
-        footer {
-            margin-top: 50px;
-            color: #555;
-        }
-        .logo {
+        
+        /* Language Switcher */
+        .language-switcher {
             position: absolute;
             top: 20px;
-            left: 20px;
-            max-width: 150px;
+            right: 20px;
+            display: flex;
+            gap: 10px;
         }
-        .faq {
-            margin: 40px auto;
-            padding: 20px;
-            max-width: 800px;
-            background: white;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            text-align: left;
+        
+        .language-btn {
+            background: rgba(255, 255, 255, 0.1);
+            border: none;
+            color: var(--light-text);
+            padding: 5px 10px;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: var(--transition);
+            font-size: 0.9rem;
         }
-        .faq h2 {
-            color: black;
-            font-size: 28px;
+        
+        .language-btn:hover, .language-btn.active {
+            background: var(--primary-color);
+            color: var(--secondary-color);
         }
-        .faq p {
-            font-size: 16px;
-            margin: 10px 0;
+        
+        /* Navigation */
+        .main-nav {
+            background-color: var(--secondary-color);
+            padding: 15px 0;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
         }
-        .video {
-            margin: 40px auto;
-            max-width: 800px;
+        
+        .nav-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
         }
-        iframe {
+        
+        .nav-link {
+            color: var(--light-text);
+            text-decoration: none;
+            font-size: 1.1rem;
+            margin: 0 15px;
+            padding: 8px 15px;
+            border-radius: 4px;
+            transition: var(--transition);
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+        }
+        
+        .nav-link i {
+            margin-right: 8px;
+        }
+        
+        .nav-link:hover {
+            color: var(--primary-color);
+            background-color: rgba(255, 255, 255, 0.1);
+        }
+        
+        /* Main Content Sections */
+        .section {
+            padding: 60px 0;
+        }
+        
+        .section-title {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--secondary-color);
+            margin-bottom: 30px;
+            text-align: center;
+            position: relative;
+        }
+        
+        .section-title:after {
+            content: '';
+            display: block;
+            width: 80px;
+            height: 4px;
+            background: var(--primary-color);
+            margin: 15px auto;
+            border-radius: 2px;
+        }
+        
+        .card {
+            background-color: var(--section-bg);
+            border-radius: 8px;
+            box-shadow: var(--shadow);
+            padding: 30px;
+            margin-bottom: 30px;
+            transition: var(--transition);
+        }
+        
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+        }
+        
+        /* Download Section */
+        .download-section {
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4e8eb 100%);
+        }
+        
+        .download-card {
+            text-align: center;
+        }
+        
+        .download-btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            background-color: var(--primary-color);
+            color: white;
+            padding: 12px 25px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin-top: 20px;
+            transition: var(--transition);
+            border: 2px solid var(--primary-color);
+        }
+        
+        .download-btn i {
+            margin-right: 10px;
+        }
+        
+        .download-btn:hover {
+            background-color: transparent;
+            color: var(--primary-color);
+        }
+        
+        .repo-link {
+            display: block;
+            margin-top: 15px;
+            color: var(--text-color);
+            word-break: break-all;
+        }
+        
+        /* Donation Section */
+        .donation-section {
+            background-color: #F5F9FF;
+        }
+        
+        .donation-card {
+            text-align: center;
+        }
+        
+        .donation-text {
+            margin-bottom: 25px;
+        }
+        
+        .donation-btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            background-color: var(--accent-color);
+            color: white;
+            padding: 12px 25px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1.1rem;
+            transition: var(--transition);
+            border: 2px solid var(--accent-color);
+        }
+        
+        .donation-btn:hover {
+            background-color: transparent;
+            color: var(--accent-color);
+        }
+        
+        /* Video Section */
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%;
+            height: 0;
+            overflow: hidden;
+            border-radius: 8px;
+            box-shadow: var(--shadow);
+            margin-top: 20px;
+        }
+        
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
             width: 100%;
-            height: 450px;
+            height: 100%;
             border: none;
         }
-        .donation {
-            margin: 40px auto;
-            padding: 20px;
-            max-width: 800px;
-            background: white;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            text-align: left;
+        
+        /* FAQ Section */
+        .faq-item {
+            margin-bottom: 20px;
+            border-bottom: 1px solid #EEE;
+            padding-bottom: 20px;
         }
-        .donation h2 {
-            color: black;
-            font-size: 28px;
+        
+        .faq-item:last-child {
+            border-bottom: none;
         }
-        .donation p {
-            font-size: 16px;
-            margin: 10px 0;
+        
+        .faq-question {
+            font-weight: 600;
+            color: var(--secondary-color);
+            margin-bottom: 10px;
+            font-size: 1.1rem;
         }
-        .donation a {
-            display: inline-block;
-            margin-top: 10px;
-            font-size: 18px;
-            color: deepskyblue;
-            text-decoration: none;
-            border: 1px solid deepskyblue;
-            padding: 10px 20px;
-            border-radius: 5px;
-            transition: all 0.3s ease;
+        
+        .faq-answer {
+            margin-bottom: 15px;
         }
-        .donation a:hover {
-            background-color: deepskyblue;
+        
+        .telegram-btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #0088CC;
             color: white;
+            padding: 10px 20px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: var(--transition);
+        }
+        
+        .telegram-btn i {
+            margin-right: 8px;
+        }
+        
+        .telegram-btn:hover {
+            background-color: #006699;
+        }
+        
+        /* Footer */
+        footer {
+            background-color: var(--secondary-color);
+            color: var(--light-text);
+            padding: 30px 0;
+            text-align: center;
+        }
+        
+        .footer-text {
+            opacity: 0.8;
+            font-size: 0.9rem;
+        }
+        
+        .social-links {
+            margin-top: 20px;
+        }
+        
+        .social-link {
+            color: var(--light-text);
+            font-size: 1.2rem;
+            margin: 0 10px;
+            transition: var(--transition);
+        }
+        
+        .social-link:hover {
+            color: var(--primary-color);
+        }
+        
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+            
+            .tagline {
+                font-size: 1rem;
+            }
+            
+            .language-switcher {
+                position: static;
+                justify-content: center;
+                margin-top: 15px;
+            }
+            
+            .nav-link {
+                font-size: 0.9rem;
+                margin: 0 8px;
+                padding: 6px 10px;
+            }
+            
+            .section {
+                padding: 40px 0;
+            }
+            
+            .section-title {
+                font-size: 1.6rem;
+            }
+            
+            .card {
+                padding: 20px;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .nav-container {
+                flex-direction: column;
+            }
+            
+            .nav-link {
+                margin: 5px 0;
+                width: 100%;
+                text-align: center;
+            }
+            
+            h1 {
+                font-size: 1.8rem;
+            }
         }
     </style>
 </head>
 <body>
+    <!-- Header Section -->
     <header>
-        <h1>Balkan Dzo</h1>
-        <p>Welcome to Balkan Dzo Entertainment Center</p>
+        <div class="container header-content">
+            <div class="language-switcher">
+                <button class="language-btn active" data-lang="en">EN</button>
+                <button class="language-btn" data-lang="hr">HR</button>
+                <button class="language-btn" data-lang="sr">SR</button>
+                <button class="language-btn" data-lang="bs">BS</button>
+            </div>
+            <h1>Balkan Dzo</h1>
+            <p class="tagline" data-i18n="tagline">Premium Kodi Build for Ultimate Entertainment</p>
+        </div>
     </header>
-
-    <nav>
-        <a href="https://balkandzo.github.io/balkandzo/">Balkan Dzo Repo/Wizard Direkt Link do zipa</a>
-        <p> Link do repozitorija: https://balkandzo.github.io/balkandzo/</p>
+    
+    <!-- Navigation -->
+    <nav class="main-nav">
+        <div class="container nav-container">
+            <a href="#download" class="nav-link"><i class="fas fa-download"></i> <span data-i18n="nav.download">Download</span></a>
+            <a href="#donate" class="nav-link"><i class="fas fa-heart"></i> <span data-i18n="nav.support">Support Us</span></a>
+            <a href="#tutorial" class="nav-link"><i class="fas fa-play-circle"></i> <span data-i18n="nav.tutorial">Tutorial</span></a>
+            <a href="#faq" class="nav-link"><i class="fas fa-question-circle"></i> <span data-i18n="nav.faq">FAQ</span></a>
+        </div>
     </nav>
-
-    <div class="donation">
-        <h2>Podržite naš rad i zajednicu</h2>
-        <p>Ako cijenite ono što radimo i želite podržati naše napore, razmislite o donaciji. Vaši doprinosi nam pomažu da održimo platformu i unesemo nove funkcije u našu zajednicu. Hvala vam na velikodušnosti!</p>
-        <p>Donacije možete izvršiti putem PayPala klikom na "Donirajte" ispod ili poslati ako ste iz BiH neki od bonova Xbon, Kliker itd. Sliku bona šaljete privatno na Telegram ili na Facebook.</p>
-        <a href="https://bit.ly/45FDkdd" target="_blank">Donirajte</a>
-    </div>
-
-    <div class="video">
-        <h2>Balkan Dzo Tutorial</h2>
-        <iframe src="https://www.youtube.com/embed/L_rS2ShXkiY?si=EkE_-tL7Z2nozhxR" allowfullscreen></iframe>
-    </div>
-
-    <div class="faq">
-        <h2>FAQ</h2>
-        <p><strong>Q: Sta je Balkan Dzo?</strong></p>
-        <p>A: Balkan Dzo je Kodi Build</p>
-
-        <p><strong>Q: Na kojoj verziji Kodija radi Build?</strong></p>
-        <p>A: Kodi 21.x</p>
-
-        <p><strong>Q: Koji build iz liste buildova u Wizardu izabrati?</strong></p>
-        <p>A: Jedan je build ali su zip fajlovi na dva razlicita servera tako da je svejedno sa kog instalirate. To je dodato tako u slucaju ako bi jedan server bio offline</p>
-
-        <p><strong>Q: Kako se pridružiti Telegram Grupi?</strong></p>
-        <p>A: Kliknite na link ispod da se pridružite našoj Telegram grupi za ažuriranja i podršku</p>
-
-        <a href="https://bit.ly/3Zq015e" target="_blank">Pridružite se Telegram Grupi</a>
-    </div>
-
+    
+    <!-- Download Section -->
+    <section id="download" class="section download-section">
+        <div class="container">
+            <h2 class="section-title" data-i18n="download.title">Get Balkan Dzo</h2>
+            <div class="card download-card">
+                <p data-i18n="download.text">Download the latest version of Balkan Dzo Kodi Build directly from our repository.</p>
+                <a href="https://balkandzo.github.io/balkandzo/" class="download-btn">
+                    <i class="fas fa-download"></i> <span data-i18n="download.button">Download Now</span>
+                </a>
+                <span class="repo-link">Repository: https://balkandzo.github.io/balkandzo/</span>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Donation Section -->
+    <section id="donate" class="section donation-section">
+        <div class="container">
+            <h2 class="section-title" data-i18n="donate.title">Support Our Work</h2>
+            <div class="card donation-card">
+                <p class="donation-text" data-i18n="donate.text1">If you appreciate what we do and want to support our efforts, please consider making a donation. Your contributions help us maintain the platform and bring new features to our community. Thank you for your generosity!</p>
+                <p data-i18n="donate.text2">You can donate via PayPal by clicking "Donate" below or send vouchers (Xbon, Kliker etc.) if you're from Bosnia and Herzegovina. Send the voucher image privately via Telegram or Facebook.</p>
+                <a href="https://bit.ly/45FDkdd" target="_blank" class="donation-btn">
+                    <i class="fas fa-hand-holding-heart"></i> <span data-i18n="donate.button">Donate Now</span>
+                </a>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Tutorial Section -->
+    <section id="tutorial" class="section">
+        <div class="container">
+            <h2 class="section-title" data-i18n="tutorial.title">Installation Tutorial</h2>
+            <div class="card">
+                <p data-i18n="tutorial.text">Watch our step-by-step tutorial on how to install and set up Balkan Dzo Kodi Build.</p>
+                <div class="video-container">
+                    <iframe src="https://www.youtube.com/embed/L_rS2ShXkiY?si=EkE_-tL7Z2nozhxR" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- FAQ Section -->
+    <section id="faq" class="section">
+        <div class="container">
+            <h2 class="section-title" data-i18n="faq.title">Frequently Asked Questions</h2>
+            <div class="card">
+                <div class="faq-item">
+                    <p class="faq-question" data-i18n="faq.q1">Q: What is Balkan Dzo?</p>
+                    <p class="faq-answer" data-i18n="faq.a1">A: Balkan Dzo is a custom Kodi build packed with features and addons for the ultimate entertainment experience.</p>
+                </div>
+                
+                <div class="faq-item">
+                    <p class="faq-question" data-i18n="faq.q2">Q: Which Kodi version does the build work with?</p>
+                    <p class="faq-answer" data-i18n="faq.a2">A: Balkan Dzo is optimized for Kodi 21.x (Omega).</p>
+                </div>
+                
+                <div class="faq-item">
+                    <p class="faq-question" data-i18n="faq.q3">Q: Which build from the Wizard list should I choose?</p>
+                    <p class="faq-answer" data-i18n="faq.a3">A: There's only one build but the zip files are hosted on two different servers for redundancy. You can choose either one - they're identical in content.</p>
+                </div>
+                
+                <div class="faq-item">
+                    <p class="faq-question" data-i18n="faq.q4">Q: How can I join the Telegram Group?</p>
+                    <p class="faq-answer" data-i18n="faq.a4">A: Click the button below to join our Telegram group for updates and support:</p>
+                    <a href="https://bit.ly/3Zq015e" target="_blank" class="telegram-btn">
+                        <i class="fab fa-telegram"></i> <span data-i18n="faq.button">Join Telegram Group</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Footer -->
     <footer>
-        <p>&copy; 2025 Balkan Dzo. All rights reserved.</p>
+        <div class="container">
+            <p class="footer-text">&copy; <span data-i18n="footer.copyright">2025 Balkan Dzo. All rights reserved.</span></p>
+            <div class="social-links">
+                <a href="#" class="social-link"><i class="fab fa-telegram"></i></a>
+                <a href="#" class="social-link"><i class="fab fa-facebook"></i></a>
+                <a href="#" class="social-link"><i class="fab fa-youtube"></i></a>
+            </div>
+        </div>
     </footer>
+
+    <script>
+        // Language translations
+        const translations = {
+            en: {
+                "tagline": "Premium Kodi Build for Ultimate Entertainment",
+                "nav.download": "Download",
+                "nav.support": "Support Us",
+                "nav.tutorial": "Tutorial",
+                "nav.faq": "FAQ",
+                "download.title": "Get Balkan Dzo",
+                "download.text": "Download the latest version of Balkan Dzo Kodi Build directly from our repository.",
+                "download.button": "Download Now",
+                "donate.title": "Support Our Work",
+                "donate.text1": "If you appreciate what we do and want to support our efforts, please consider making a donation. Your contributions help us maintain the platform and bring new features to our community. Thank you for your generosity!",
+                "donate.text2": "You can donate via PayPal by clicking \"Donate\" below or send vouchers (Xbon, Kliker etc.) if you're from Bosnia and Herzegovina. Send the voucher image privately via Telegram or Facebook.",
+                "donate.button": "Donate Now",
+                "tutorial.title": "Installation Tutorial",
+                "tutorial.text": "Watch our step-by-step tutorial on how to install and set up Balkan Dzo Kodi Build.",
+                "faq.title": "Frequently Asked Questions",
+                "faq.q1": "Q: What is Balkan Dzo?",
+                "faq.a1": "A: Balkan Dzo is a custom Kodi build packed with features and addons for the ultimate entertainment experience.",
+                "faq.q2": "Q: Which Kodi version does the build work with?",
+                "faq.a2": "A: Balkan Dzo is optimized for Kodi 21.x (Omega).",
+                "faq.q3": "Q: Which build from the Wizard list should I choose?",
+                "faq.a3": "A: There's only one build but the zip files are hosted on two different servers for redundancy. You can choose either one - they're identical in content.",
+                "faq.q4": "Q: How can I join the Telegram Group?",
+                "faq.a4": "A: Click the button below to join our Telegram group for updates and support:",
+                "faq.button": "Join Telegram Group",
+                "footer.copyright": "2025 Balkan Dzo. All rights reserved."
+            },
+            hr: {
+                "tagline": "Premium Kodi Build za vrhunsku zabavu",
+                "nav.download": "Preuzimanje",
+                "nav.support": "Podrška",
+                "nav.tutorial": "Upute",
+                "nav.faq": "Česta pitanja",
+                "download.title": "Preuzmite Balkan Dzo",
+                "download.text": "Preuzmite najnoviju verziju Balkan Dzo Kodi Build-a direktno iz našeg repozitorija.",
+                "download.button": "Preuzmi sada",
+                "donate.title": "Podržite nas",
+                "donate.text1": "Ako cijenite naš rad i želite podržati naše napore, razmislite o donaciji. Vaše doprinose nam pomažu da održimo platformu i unesemo nove značajke u našu zajednicu. Hvala vam na velikodušnosti!",
+                "donate.text2": "Možete donirati putem PayPal-a klikom na \"Donirajte\" ispod ili poslati bonove (Xbon, Kliker itd.) ako ste iz Bosne i Hercegovine. Sliku bona pošaljite privatno putem Telegrama ili Facebooka.",
+                "donate.button": "Donirajte sada",
+                "tutorial.title": "Upute za instalaciju",
+                "tutorial.text": "Pogledajte naš detaljan vodič o tome kako instalirati i postaviti Balkan Dzo Kodi Build.",
+                "faq.title": "Često postavljana pitanja",
+                "faq.q1": "P: Što je Balkan Dzo?",
+                "faq.a1": "O: Balkan Dzo je prilagođeni Kodi build s brojnim značajkama i dodacima za vrhunsku zabavu.",
+                "faq.q2": "P: S kojom verzijom Kodija build radi?",
+                "faq.a2": "O: Balkan Dzo je optimiziran za Kodi 21.x (Omega).",
+                "faq.q3": "P: Koji build s popisa u Wizardu trebam odabrati?",
+                "faq.a3": "O: Postoji samo jedan build, ali zip datoteke se nalaze na dva različita servera radi sigurnosti. Možete odabrati bilo koji - identični su po sadržaju.",
+                "faq.q4": "P: Kako se mogu pridružiti Telegram grupi?",
+                "faq.a4": "O: Kliknite na donji gumb da se pridružite našoj Telegram grupi za ažuriranja i podršku:",
+                "faq.button": "Pridružite se Telegram grupi",
+                "footer.copyright": "2025 Balkan Dzo. Sva prava pridržana."
+            },
+            sr: {
+                "tagline": "Premium Kodi Build za vrhunsku zabavu",
+                "nav.download": "Preuzimanje",
+                "nav.support": "Podrška",
+                "nav.tutorial": "Uputstvo",
+                "nav.faq": "Česta pitanja",
+                "download.title": "Preuzmite Balkan Dzo",
+                "download.text": "Preuzmite najnoviju verziju Balkan Dzo Kodi Build-a direktno iz našeg repozitorijuma.",
+                "download.button": "Preuzmite sada",
+                "donate.title": "Podržite nas",
+                "donate.text1": "Ako cenite naš rad i želite da podržite naše napore, razmotrite donaciju. Vaši doprinosi nam pomažu da održimo platformu i unesemo nove funkcije u našu zajednicu. Hvala vam na velikodušnosti!",
+                "donate.text2": "Možete donirati putem PayPal-a klikom na \"Donirajte\" ispod ili poslati bonove (Xbon, Kliker itd.) ako ste iz Bosne i Hercegovine. Sliku bonova pošaljite privatno putem Telegrama ili Facebooka.",
+                "donate.button": "Donirajte sada",
+                "tutorial.title": "Uputstvo za instalaciju",
+                "tutorial.text": "Pogledajte naš detaljan vodič o tome kako instalirati i postaviti Balkan Dzo Kodi Build.",
+                "faq.title": "Često postavljana pitanja",
+                "faq.q1": "P: Šta je Balkan Dzo?",
+                "faq.a1": "O: Balkan Dzo je prilagođeni Kodi build sa brojnim funkcijama i dodacima za vrhunsku zabavu.",
+                "faq.q2": "P: Sa kojom verzijom Kodija build radi?",
+                "faq.a2": "O: Balkan Dzo je optimiziran za Kodi 21.x (Omega).",
+                "faq.q3": "P: Koji build sa liste u Wizardu treba da odaberem?",
+                "faq.a3": "O: Postoji samo jedan build, ali zip fajlovi se nalaze na dva različita servera radi redundancije. Možete izabrati bilo koji - identični su po sadržaju.",
+                "faq.q4": "P: Kako mogu da se pridružim Telegram grupi?",
+                "faq.a4": "O: Kliknite na dugme ispod da se pridružite našoj Telegram grupi za ažuriranja i podršku:",
+                "faq.button": "Pridružite se Telegram grupi",
+                "footer.copyright": "2025 Balkan Dzo. Sva prava zadržana."
+            },
+            bs: {
+                "tagline": "Premium Kodi Build za vrhunsku zabavu",
+                "nav.download": "Preuzimanje",
+                "nav.support": "Podrška",
+                "nav.tutorial": "Uputstvo",
+                "nav.faq": "Česta pitanja",
+                "download.title": "Preuzmite Balkan Dzo",
+                "download.text": "Preuzmite najnoviju verziju Balkan Dzo Kodi Build-a direktno iz našeg repozitorija.",
+                "download.button": "Preuzmite sada",
+                "donate.title": "Podržite nas",
+                "donate.text1": "Ako cijenite naš rad i želite podržati naše napore, razmotrite donaciju. Vaši doprinosi nam pomažu da održimo platformu i unesemo nove funkcije u našu zajednicu. Hvala vam na velikodušnosti!",
+                "donate.text2": "Možete donirati putem PayPal-a klikom na \"Donirajte\" ispod ili poslati bonove (Xbon, Kliker itd.) ako ste iz Bosne i Hercegovine. Sliku bonova pošaljite privatno putem Telegrama ili Facebooka.",
+                "donate.button": "Donirajte sada",
+                "tutorial.title": "Uputstvo za instalaciju",
+                "tutorial.text": "Pogledajte naš detaljan vodič o tome kako instalirati i postaviti Balkan Dzo Kodi Build.",
+                "faq.title": "Često postavljana pitanja",
+                "faq.q1": "P: Šta je Balkan Dzo?",
+                "faq.a1": "O: Balkan Dzo je prilagođeni Kodi build sa brojnim funkcijama i dodacima za vrhunsku zabavu.",
+                "faq.q2": "P: Sa kojom verzijom Kodija build radi?",
+                "faq.a2": "O: Balkan Dzo je optimiziran za Kodi 21.x (Omega).",
+                "faq.q3": "P: Koji build sa liste u Wizardu treba da odaberem?",
+                "faq.a3": "O: Postoji samo jedan build, ali zip fajlovi se nalaze na dva različita servera radi redundancije. Možete izabrati bilo koji - identični su po sadržaju.",
+                "faq.q4": "P: Kako mogu da se pridružim Telegram grupi?",
+                "faq.a4": "O: Kliknite na dugme ispod da se pridružite našoj Telegram grupi za ažuriranja i podršku:",
+                "faq.button": "Pridružite se Telegram grupi",
+                "footer.copyright": "2025 Balkan Dzo. Sva prava zadržana."
+            }
+        };
+
+        // Language switcher functionality
+        document.addEventListener('DOMContentLoaded', function() {
+            const languageBtns = document.querySelectorAll('.language-btn');
+            let currentLang = 'en';
+            
+            // Check for saved language preference
+            if (localStorage.getItem('preferredLang')) {
+                currentLang = localStorage.getItem('preferredLang');
+                setActiveLanguage(currentLang);
+                updateContent(currentLang);
+            }
+            
+            // Add click event to language buttons
+            languageBtns.forEach(btn => {
+                btn.addEventListener('click', function() {
+                    const lang = this.dataset.lang;
+                    currentLang = lang;
+                    localStorage.setItem('preferredLang', lang);
+                    setActiveLanguage(lang);
+                    updateContent(lang);
+                });
+            });
+            
+            // Set active language button
+            function setActiveLanguage(lang) {
+                languageBtns.forEach(btn => {
+                    btn.classList.remove('active');
+                    if (btn.dataset.lang === lang) {
+                        btn.classList.add('active');
+                    }
+                });
+            }
+            
+            // Update content based on language
+            function updateContent(lang) {
+                const elements = document.querySelectorAll('[data-i18n]');
+                
+                elements.forEach(element => {
+                    const key = element.getAttribute('data-i18n');
+                    if (translations[lang] && translations[lang][key]) {
+                        element.textContent = translations[lang][key];
+                    }
+                });
+            }
+        });
+    </script>
 </body>
 </html>
