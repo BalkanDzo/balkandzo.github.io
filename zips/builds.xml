@@ -2,7 +2,7 @@
 
    <build>
     <name>[COLORdeepskyblue][B]Balkan Dzo Kodi 21.x Omega Builds[/B][/COLOR]</name>
-	<version>7.0</version>
+	<version>8.0</version>
 	<url>https://</url>
 	<icon>http://</icon>
 	<fanart>http://</fanart>
@@ -11,20 +11,20 @@
   
   <build>
     <name>Balkan Dzo Build Server 1</name>
-	<version>7.0</version>
-	<url>https://github.com/BalkanDzo/balkandzo.github.io/raw/refs/heads/main/zips/build7.0.zip</url>
+	<version>8.0</version>
+	<url>https://github.com/BalkanDzo/balkandzo.github.io/raw/refs/heads/main/zips/Build8.0.zip</url>
 	<icon>https://balkandzo.github.io/img/balkandzobuild.jpg</icon>
 	<fanart>https://</fanart>
-	<description>Balkan Dzo Build 7.0 Version</description>
+	<description>Balkan Dzo Build 8.0 Version</description>
   </build>
   
   <build>
     <name>Balkan Dzo Build Server 2</name>
-	<version>7.0</version>
-	<url>https://bandateam.ucoz.com/build7.0.zip</url>
+	<version>8.0</version>
+	<url>https://bandateam.ucoz.com/Build7.0.zip</url>
 	<icon>https://balkandzo.github.io/img/balkandzobuild.jpg</icon>
 	<fanart>https://</fanart>
-	<description>Balkan Dzo Build 7.0 Version</description>
+	<description>Balkan Dzo Build 8.0 Version</description>
   </build>
   
 </builds>
