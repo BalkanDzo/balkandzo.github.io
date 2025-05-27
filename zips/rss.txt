@@ -3,7 +3,7 @@
 <channel>
   <title>BD Addon Updater</title>
   <item>
-    <title>BD Update: Fix PVR Generatori.</title>
+    <title>BD Update: Dodata Balkanteka 2 Addon.</title>
   </item>
 </channel>
 </rss>
