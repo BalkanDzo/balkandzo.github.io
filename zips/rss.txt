@@ -3,7 +3,7 @@
 <channel>
   <title>BD Addon Updater</title>
   <item>
-    <title>BD Update: Dodata Balkanteka 2 Addon.</title>
+    <title>BD Update: Trenutno nema azuriranja</title>
   </item>
 </channel>
 </rss>
