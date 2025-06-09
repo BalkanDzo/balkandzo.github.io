@@ -3,7 +3,7 @@
 <channel>
   <title>BD Addon Updater</title>
   <item>
-    <title>Azuriranje Dostupno za korisnike koji nisu azurirali build da ne bi izgubili svoja podesavanja napravljen je BD Update za addone BD Stalker BD Balkanteka 2 BD BalkanTV i jos jedan novi addon BD ToolBox (Mogu i ostali korisnici azurirati nece im se nista poremetiti)</title>
+    <title>Nema Azuriranja</title>
   </item>
 </channel>
 </rss>
