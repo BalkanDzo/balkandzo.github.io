@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.program.balkandzogen" name="[B][COLOR deepskyblue]BD[/B] [COLOR white][I]Generator (Izbornik)[/I][/COLOR]" version="1.0.0" provider-name="Dzon Dzoe">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+		<import addon="pvr.stalker"/>
+    </requires>
+	<extension point="xbmc.python.pluginsource" library="balkandzogen.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Generator Za PVR Stalker Client</summary>
+        <description lang="en">Generator za izbor listi u PVR Stalker Client-u</description>
+        <platform>all</platform>
+        <language>en</language>
+        <license>GPLv2</license>
+		<assets>
+        <icon>logo.png</icon>
+        </assets>
+    </extension>
+</addon>
+<addon id="plugin.program.balkandzowizard" name="[B][COLOR deepskyblue]BD[/B] [COLOR white][I]Wizard[/I][/COLOR]" version="1.0.0" provider-name="Magnetic, Slam, Sarge, Funsterbe, BYB,Dzon Dzoe">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+		<import addon="script.module.requests" optional="true" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.service" library="service.py" />
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">Balkan Dzo Wizard za instalaciju Balkan Dzo Build-a</summary>
+		<description lang="en_GB">Balkan Dzo Wizard za instalaciju Balkan Dzo Build-a</description>
+		<disclaimer lang="en_GB">Balkan Dzo - Dzon Dzoe</disclaimer>
+		<language>en</language>
+		<platform>all</platform>
+		<license>GPL-2.0-or-later</license>
+		<forum></forum>
+		<website></website> 
+		<email></email>
+		<source></source>
+		<news>3.0.2 - Added speedtest. Bugfixes. 3.0.0 - Added backup/restore functionality for trakt/debrid accounts. Updated debrid/trakt authorization section. Restore of gui/skin settings has been added. Updated Advancedsettings configs. Updated wizard artwork. Added user edited color options for menus. Fixed wizard writing over itself during build installs. Edited fresh start to keep wizard/dependencies. Removed double ok dialog during build installs. Numerous other small fixes throughout.
+		</news>
+		<assets>
+				<icon>resources/icon.png</icon>
+				<fanart>resources/fanart.jpg</fanart>
+				<banner></banner>
+				<clearlogo></clearlogo>
+				<screenshot></screenshot>
+		</assets>
+	</extension>
+</addon>
+<addon id="plugin.program.bdupdater" name="[B][COLOR deepskyblue]BD[/B] [COLOR white][I]Addon Updater[/I][/COLOR]" version="1.0.0" provider-name="Dzon Dzoe">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">BD Addon Installer/Updater</summary>
+        <description lang="en">BD Addon Updater je addon preko kog mogu da azuriram i radim izmene za neke addone. da ne bi radili azuriranje builda posle nekih sitnih promena.</description>
+        <platform>all</platform>
+		<language>en</language>
+        <license>GPLv2</license>
+		<assets>
+        <icon>logo.png</icon>
+        </assets>
+    </extension>
+</addon>
+<addon id="plugin.video.balkanteka" name="[B][COLOR deepskyblue]BD[/B] [COLOR white][I]Balkanteka 1[/I][/COLOR]" version="1.0.0" provider-name="Dzon Dzoe">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests" version="2.22.0"/>
+	<import addon="script.module.resolveurl" version="5.1.0"/>
+  </requires>
+	<extension point="xbmc.python.pluginsource" library="balkanteka.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Balkanteka 1 Video Addon</summary>
+        <description lang="en">Balkanteka 1 Videoo Addon Stara verzija za noviji sadrzaj koristite Balkanteka 2</description>
+        <platform>all</platform>
+        <language>en</language>
+        <license>GPLv2</license>
+		<assets>
+        <icon>logo.png</icon>
+        </assets>
+    </extension>
+</addon>
+<addon id="plugin.video.balkanteka2" name="[B][COLOR deepskyblue]BD[/B] [COLOR white][I]Balkanteka 2[/I][/COLOR]" version="2.0.0" provider-name="Dzon Dzoe">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests" version="2.22.0"/>
+	<import addon="script.module.resolveurl" version="5.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="resources/lib/addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Balkanteka 2 Video Addon</summary>
+    <description>Balkanteka 2 Video Addon (Nasljednik Balkateka 1)</description>
+    <platform>all</platform>
+	<assets>
+    <icon>logo.png</icon>
+    </assets>
+  </extension>
+</addon>
+<addon id="plugin.video.balkantvclient" name="[B][COLOR deepskyblue]BD[/B] [COLOR white][I]Balkan TV[/I][/COLOR]" version="2.0.0" provider-name="Dzon Dzoe">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests" optional="true"/> </requires>
+  <extension point="xbmc.python.pluginsource" library="BalkanTvClient.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Balkan TV Client</summary>
+    <description lang="en_GB">Gledajte TV kanale EX-YU.</description>
+    <disclaimer lang="en_GB"></disclaimer>
+    <platform>all</platform>
+    <license>GPL-2.0-or-later</license>
+    <assets>
+      <icon>icon.png</icon>
+      </assets>
+  </extension>
+</addon>
+<addon id="plugin.video.bdzostalker" name="[B][COLOR deepskyblue]BD[/B] [COLOR white][I]Stalker[/I][/COLOR]" version="1.0.0" provider-name="Dzon Dzoe">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+		<import addon="script.module.requests" version="2.31.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">[B][COLOR deepskyblue]BD[/B] [COLOR white][I]Stalker[/I][/COLOR]</summary>
+        <description lang="en">Selects MAC address from remote JSON and connects to Stalker portal</description>
+        <platform>all</platform>
+        <author>Dzon Dzoe</author>
+		<assets>
+    <icon>logo.png</icon>
+    </assets>
+    </extension>
+</addon>
+<addon id="script.module.bdgenpvr" name="[B][COLOR deepskyblue]BD[/B] [COLOR white][I]Generator (random)[/I][/COLOR]" version="1.0.0" provider-name="Dzon Dzoe">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+		<import addon="pvr.stalker"/>
+    </requires>
+	<extension point="xbmc.python.script" library="bdgenpvr.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Generator Za PVR Stalker Client</summary>
+        <description lang="en">Generator za generisanje random listi u PVR Stalker Client-u</description>
+        <platform>all</platform>
+        <language>en</language>
+        <license>GPLv2</license>
+		<assets>
+        <icon>logo.png</icon>
+        </assets>
+    </extension>
+</addon>
+<addon id="script.program.bdtoolbox" name="[B][COLOR deepskyblue]BD[/B] [COLOR white][I]ToolBox[/I][/COLOR]" version="1.0.0" provider-name="Dzon Dzoe">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Set alata za održavanje i optimizaciju Kodi-ja.</summary>
+    <description lang="en_GB">BD Toolbox pruža alate za upravljanje dodacima (addon-ima), čišćenje keš memorije, testiranje brzine i optimizaciju performansi sistema za najbolje Kodi iskustvo.</description>
+    <platform>all</platform>
+    <license>GPL-2.0-or-later</license>
+    <assets>
+      <icon>toolbox.png</icon>
+    </assets>
+  </extension>
+</addon>
+</addons>
