@@ -1,0 +1,18 @@
+<addon id="plugin.program.bdupdater" name="[B][COLOR deepskyblue]BD[/B] [COLOR white][I]Addon Updater[/I][/COLOR]" version="1.0.0" provider-name="Dzon Dzoe">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">BD Addon Installer/Updater</summary>
+        <description lang="en">BD Addon Updater je addon preko kog mogu da azuriram i radim izmene za neke addone. da ne bi radili azuriranje builda posle nekih sitnih promena.</description>
+        <platform>all</platform>
+		<language>en</language>
+        <license>GPLv2</license>
+		<assets>
+        <icon>logo.png</icon>
+        </assets>
+    </extension>
+</addon>

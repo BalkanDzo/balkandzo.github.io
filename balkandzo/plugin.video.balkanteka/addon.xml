@@ -1,0 +1,20 @@
+<addon id="plugin.video.balkanteka" version="1.0.0" name="[B][COLOR deepskyblue]BD[/B] [COLOR white][I]Balkanteka 1[/I][/COLOR]" provider-name="Dzon Dzoe">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests" version="2.22.0"/>
+	<import addon="script.module.resolveurl" version="5.1.0"/>
+  </requires>
+	<extension point="xbmc.python.pluginsource" library="balkanteka.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Balkanteka 1 Video Addon</summary>
+        <description lang="en">Balkanteka 1 Videoo Addon Stara verzija za noviji sadrzaj koristite Balkanteka 2</description>
+        <platform>all</platform>
+        <language>en</language>
+        <license>GPLv2</license>
+		<assets>
+        <icon>logo.png</icon>
+        </assets>
+    </extension>
+</addon>

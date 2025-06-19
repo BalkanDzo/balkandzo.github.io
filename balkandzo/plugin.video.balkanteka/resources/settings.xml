@@ -1,0 +1,7 @@
+<settings>
+  <category label="External Plugin">
+    <setting id="active_portal" type="enum" label="30001" values="Nema dalje" default="0" />
+    <setting id="sep1" type="lsep" label="30002" />
+    <setting id="connection_timeout" type="enum" label="30003" values="0|5|10|15|20|25|30|35|40|45|50|55|60|65|70|75|80|85|90|95|100|105|110|115|120" default="6" />
+  </category>
+</settings>
