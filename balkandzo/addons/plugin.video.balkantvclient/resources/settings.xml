@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <setting label="URL do obrađene JSON liste kanala" type="text" id="processed_list_url" default="https://bandateam.ucoz.com/preprocessed_channels.json"/>
+    <setting label="Vrijeme keširanja obrađene liste (sati)" type="number" id="processed_list_cache_hours" default="1"/>
+    <setting label="Timeout za provjeru streama (sekunde)" type="number" id="stream_check_timeout" default="7"/>
+    <setting label="User-Agent za Playback" type="text" id="playback_user_agent" default="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.0.0 Safari/537.36"/>
+</settings>

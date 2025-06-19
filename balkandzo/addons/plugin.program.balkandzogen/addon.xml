@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.program.balkandzogen" name="[B][COLOR deepskyblue]BD[/B] [COLOR white][I]Generator (Izbornik)[/I][/COLOR]" version="1.0.0" provider-name="Dzon Dzoe">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+		<import addon="pvr.stalker"/>
+    </requires>
+	<extension point="xbmc.python.pluginsource" library="balkandzogen.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Generator Za PVR Stalker Client</summary>
+        <description lang="en">Generator za izbor listi u PVR Stalker Client-u</description>
+        <platform>all</platform>
+        <language>en</language>
+        <license>GPLv2</license>
+		<assets>
+        <icon>logo.png</icon>
+        </assets>
+    </extension>
+</addon>
