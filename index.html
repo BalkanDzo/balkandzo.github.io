@@ -223,7 +223,7 @@
         color: var(--text-color);
         word-break: break-all;
       }
-
+      
       /* Donation Section */
       .donation-section {
         background-color: #f5f9ff;
@@ -251,7 +251,28 @@
         transition: var(--transition);
         border: 2px solid var(--accent-color);
       }
+      
+      .donation-btn.paypal-btn {
+        background-color: #0070ba;
+        border-color: #0070ba;
+        margin-right: 10px;
+      }
 
+      .donation-btn.paypal-btn:hover {
+        background-color: transparent;
+        color: #0070ba;
+      }
+      
+      .donation-btn.aircash-btn {
+        background-color: #ff9900;
+        border-color: #ff9900;
+      }
+
+      .donation-btn.aircash-btn:hover {
+        background-color: transparent;
+        color: #ff9900;
+      }
+      
       .donation-btn:hover {
         background-color: transparent;
         color: var(--accent-color);
@@ -421,11 +442,14 @@
         h1 {
           font-size: 1.8rem;
         }
+        
+        .donation-btn {
+          margin-bottom: 10px;
+        }
       }
     </style>
 </head>
 <body>
-  <!-- Header Section -->
   <header>
     <div class="container header-content">
       <div class="language-switcher">
@@ -439,7 +463,6 @@
     </div>
   </header>
 
-  <!-- Navigation -->
   <nav class="main-nav">
     <div class="container nav-container">
       <a href="#download" class="nav-link"><i class="fas fa-download"></i> <span data-i18n="nav.download">Download</span></a>
@@ -449,7 +472,6 @@
     </div>
   </nav>
 
-  <!-- Download Section -->
   <section id="download" class="section download-section">
     <div class="container">
       <h2 class="section-title" data-i18n="download.title">Get Balkan Dzo</h2>
@@ -463,7 +485,6 @@
     </div>
   </section>
 
-  <!-- Donation Section -->
   <section id="donate" class="section donation-section">
     <div class="container">
       <h2 class="section-title" data-i18n="donate.title">Support Our Work</h2>
@@ -472,16 +493,18 @@
           If you appreciate what we do and want to support our efforts, please consider making a donation. Your contributions help us maintain the platform and bring new features to our community. Thank you for your generosity!
         </p>
         <p data-i18n="donate.text2">
-          You can donate via PayPal by clicking "Donate" below or send vouchers (Xbon, Kliker etc.) if you're from Bosnia and Herzegovina. Send the voucher image privately via Telegram or Facebook.
+          You can donate via PayPal or Aircash. You can also send vouchers (Xbon, Kliker etc.) if you're from Bosnia and Herzegovina. Send the voucher image privately via Telegram or Facebook.
         </p>
-        <a href="https://bit.ly/45FDkdd" target="_blank" class="donation-btn">
-          <i class="fas fa-hand-holding-heart"></i> <span data-i18n="donate.button">Donate Now</span>
+        <a href="https://bit.ly/45FDkdd" target="_blank" class="donation-btn paypal-btn">
+          <i class="fab fa-paypal"></i> <span data-i18n="donate.button.paypal">Donate via PayPal</span>
+        </a>
+        <a href="https://m3.aircash.eu/acpay/nikolad317" target="_blank" class="donation-btn aircash-btn">
+          <i class="fas fa-wallet"></i> <span data-i18n="donate.button.aircash">Aircash</span>
         </a>
       </div>
     </div>
   </section>
 
-  <!-- Tutorial Section -->
   <section id="tutorial" class="section">
     <div class="container">
       <h2 class="section-title" data-i18n="tutorial.title">Installation Tutorial</h2>
@@ -498,7 +521,6 @@
     </div>
   </section>
 
-  <!-- FAQ Section -->
   <section id="faq" class="section">
     <div class="container">
       <h2 class="section-title" data-i18n="faq.title">Frequently Asked Questions</h2>
@@ -529,7 +551,6 @@
     </div>
   </section>
 
-  <!-- Legal Notice Section -->
   <section class="legal-notice container" aria-label="Legal Notice">
     <h3>Legal Notice / Pravna Napomena</h3>
     <p>
@@ -540,7 +561,6 @@
     </p>
   </section>
 
-  <!-- Footer -->
   <footer>
     <div class="container">
       <p class="footer-text">&copy; <span data-i18n="footer.copyright">2025 Balkan Dzo. All rights reserved.</span></p>
@@ -568,8 +588,9 @@
         "donate.text1":
           "If you appreciate what we do and want to support our efforts, please consider making a donation. Your contributions help us maintain the platform and bring new features to our community. Thank you for your generosity!",
         "donate.text2":
-          'You can donate via PayPal by clicking "Donate" below or send vouchers (Xbon, Kliker etc.) if you\'re from Bosnia and Herzegovina. Send the voucher image privately via Telegram or Facebook.',
-        "donate.button": "Donate Now",
+          'You can donate via PayPal or Aircash. You can also send vouchers (Xbon, Kliker etc.) if you\'re from Bosnia and Herzegovina. Send the voucher image privately via Telegram or Facebook.',
+        "donate.button.paypal": "Donate via PayPal",
+        "donate.button.aircash": "Aircash",
         "tutorial.title": "Installation Tutorial",
         "tutorial.text":
           "Watch our step-by-step tutorial on how to install and set up Balkan Dzo Kodi Build.",
@@ -602,8 +623,9 @@
         "donate.text1":
           "Ako cijenite naš rad i želite podržati naše napore, razmislite o donaciji. Vaše doprinose nam pomažu da održimo platformu i unesemo nove značajke u našu zajednicu. Hvala vam na velikodušnosti!",
         "donate.text2":
-          'Možete donirati putem PayPal-a klikom na "Donirajte" ispod ili poslati bonove (Xbon, Kliker itd.) ako ste iz Bosne i Hercegovine. Sliku bona pošaljite privatno putem Telegrama ili Facebooka.',
-        "donate.button": "Donirajte sada",
+          'Možete donirati putem PayPal-a ili Aircash-a. Također možete poslati bonove (Xbon, Kliker itd.) ako ste iz Bosne i Hercegovine. Sliku bona pošaljite privatno putem Telegrama ili Facebooka.',
+        "donate.button.paypal": "Donirajte putem PayPala",
+        "donate.button.aircash": "Aircash",
         "tutorial.title": "Upute za instalaciju",
         "tutorial.text":
           "Pogledajte naš detaljan vodič o tome kako instalirati i postaviti Balkan Dzo Kodi Build.",
@@ -636,8 +658,9 @@
         "donate.text1":
           "Ako cenite naš rad i želite da podržite naše napore, razmotrite donaciju. Vaši doprinosi nam pomažu da održimo platformu i unesemo nove funkcije u našu zajednicu. Hvala vam na velikodušnosti!",
         "donate.text2":
-          'Možete donirati putem PayPal-a klikom na "Donirajte" ispod ili poslati bonove (Xbon, Kliker itd.) ako ste iz Bosne i Hercegovine. Sliku bonova pošaljite privatno putem Telegrama ili Facebooka.',
-        "donate.button": "Donirajte sada",
+          'Možete donirati putem PayPal-a ili Aircash-a. Također možete poslati bonove (Xbon, Kliker itd.) ako ste iz Bosne i Hercegovine. Sliku bonova pošaljite privatno putem Telegrama ili Facebooka.',
+        "donate.button.paypal": "Donirajte putem PayPala",
+        "donate.button.aircash": "Aircash",
         "tutorial.title": "Uputstvo za instalaciju",
         "tutorial.text":
           "Pogledajte naš detaljan vodič o tome kako instalirati i postaviti Balkan Dzo Kodi Build.",
@@ -670,8 +693,9 @@
         "donate.text1":
           "Ako cijenite naš rad i želite podržati naše napore, razmotrite donaciju. Vaši doprinosi nam pomažu da održimo platformu i unesemo nove funkcije u našu zajednicu. Hvala vam na velikodušnosti!",
         "donate.text2":
-          'Možete donirati putem PayPal-a klikom na "Donirajte" ispod ili poslati bonove (Xbon, Kliker itd.) ako ste iz Bosne i Hercegovine. Sliku bonova pošaljite privatno putem Telegrama ili Facebooka.',
-        "donate.button": "Donirajte sada",
+          'Možete donirati putem PayPal-a ili Aircash-a. Također možete poslati bonove (Xbon, Kliker itd.) ako ste iz Bosne i Hercegovine. Sliku bonova pošaljite privatno putem Telegrama ili Facebooka.',
+        "donate.button.paypal": "Donirajte putem PayPala",
+        "donate.button.aircash": "Aircash",
         "tutorial.title": "Uputstvo za instalaciju",
         "tutorial.text":
           "Pogledajte naš detaljan vodič o tome kako instalirati i postaviti Balkan Dzo Kodi Build.",
