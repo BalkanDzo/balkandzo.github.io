@@ -36,7 +36,7 @@
         background-color: #f9f9f9;
         color: var(--text-color);
         line-height: 1.6;
-        padding-top: 60px; /* Dodaj padding da se ne preklopi sa fiksnim navigacijskim barom */
+        padding-top: 60px;
       }
       .container {
         width: 100%;
@@ -136,14 +136,18 @@
       .donation-btn i {
         margin-right: 8px;
       }
+      .qr-code {
+        text-align: center;
+        margin-bottom: 20px;
+      }
       .qr-code img {
         display: block;
-        max-width: 250px;
+        max-width: 300px; /* Povećana maksimalna širina QR koda */
         height: auto;
         margin: 20px auto 0;
         border: 1px solid #ddd;
         border-radius: 4px;
-        padding: 5px;
+        padding: 10px; /* Dodato malo paddinga oko QR koda */
       }
       .back-btn {
         display: inline-block;
@@ -163,7 +167,7 @@
         <a href="index.html#donate" class="back-btn"><i class="fas fa-arrow-left"></i> Nazad na početnu</a>
         <div class="donation-card">
             <h2>Uputstva za donacije</h2>
-            <p>Hvala vam što želite da nas podržite. Vaša donacija nam pomaže da održimo platformu i dodajemo nove funkcije za našu zajednicu. Ispod su opcije za doniranje.</p>
+            <p>Hvala vam što želite da nas podržite. Vaša donacija nam pomaže da održimo platformu i dodajemo nove funkcije za našu zajednicu. Ispod su detaljna uputstva za doniranje putem PayPal-a i Aircash-a.</p>
 
             <div class="donation-options">
                 <div class="option">
@@ -175,19 +179,29 @@
                 </div>
 
                 <div class="option">
-                    <h3>Aircash donacija</h3>
+                    <h3>Aircash donacija (iz inostranstva - EUR u BAM)</h3>
                     <p>
-                        Ukoliko donirate putem Aircash-a, a vaša valuta je EUR, pratite ova uputstva:
+                        Ukoliko donirate putem Aircash-a iz inostranstva (sa EUR računom), molimo vas da pratite ove detaljne korake kako biste osigurali da donacija bude ispravno procesuirana u BAM:
                     </p>
                     <ul>
-                        <li>U aplikaciji Aircash odaberite opciju konverzije valuta.</li>
-                        <li>Pretvorite željeni iznos iz EUR u BAM (konvertujte po važećem kursu).</li>
-                        <li>Nakon konverzije, pošaljite klikom na link.</li>
-                        <li>Donaciju možete izvršiti i skeniranjem QR koda.</li>
+                        <li><b>Otvorite Aircash aplikaciju</b> na svom mobilnom uređaju.</li>
+                        <li><b>Pristupite opciji "Novčanik"</b> ili sličnom meniju koji prikazuje stanje vaših sredstava.</li>
+                        <li><b>Potražite opciju za "Konverziju valuta" (Mjenjačnica)</b>. Ova opcija vam omogućava da pretvorite sredstva iz jedne valute u drugu unutar same aplikacije.</li>
+                        <li><b>Odaberite EUR kao valutu iz koje želite da konvertujete.</b></li>
+                        <li><b>Odaberite BAM (Bosanskohercegovačka konvertibilna marka) kao valutu u koju želite da konvertujete.</b></li>
+                        <li><b>Unesite iznos u EUR</b> koji želite da donirate. Aplikacija bi trebala automatski prikazati procijenjeni iznos u BAM prema trenutnom kursu.</li>
+                        <li><b>Potvrdite konverziju valuta.</b> Nakon potvrde, vaš EUR iznos će biti pretvoren u odgovarajući BAM iznos unutar vašeg Aircash novčanika.</li>
+                        <li><b>Sada kada imate sredstva u BAM, možete izvršiti donaciju</b> na jedan od sledećih načina:
+                            <ul>
+                                <li><b>Skeniranjem QR koda:</b> Otvorite opciju za slanje novca putem QR koda u Aircash aplikaciji i skenirajte QR kod ispod. U koliko ne možete skenirati sačuvajte sliku na uređaj zatim učitajte iz galerije.</li>
+                                <li><b>Direktnim slanjem:</b> Ukoliko vam je potreban broj primatelja, koristite opciju za slanje novca direktno na Aircash račun.</li>
+                            </ul>
+                        </li>
                     </ul>
                     <div class="qr-code">
                         <img src="https://raw.githubusercontent.com/BalkanDzo/balkandzo.github.io/refs/heads/main/qr.jpg" alt="Aircash QR Code">
                     </div>
+                    <p>Kliknite na dugme ispod za direktnu Aircash donaciju (ukoliko ste već izvršili konverziju ili šaljete direktno BAM).</p>
                     <a href="https://bit.ly/4llLS0P" target="_blank" class="donation-btn aircash-btn">
                       <i class="fas fa-wallet"></i> Donirajte putem Aircash-a
                     </a>
