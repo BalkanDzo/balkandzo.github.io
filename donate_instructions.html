@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Balkan Dzo | Donate</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Open+Sans:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <style>
+      :root {
+        --primary-color: #00bfff;
+        --secondary-color: #1a1a1a;
+        --accent-color: #ff6b00;
+        --text-color: #333333;
+        --light-text: #f5f5f5;
+        --section-bg: #ffffff;
+        --shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        --transition: all 0.3s ease;
+      }
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      body {
+        font-family: "Open Sans", sans-serif;
+        background-color: #f9f9f9;
+        color: var(--text-color);
+        line-height: 1.6;
+        padding-top: 60px; /* Dodaj padding da se ne preklopi sa fiksnim navigacijskim barom */
+      }
+      .container {
+        width: 100%;
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 20px;
+      }
+      .donation-content {
+        padding: 40px;
+        margin-top: 20px;
+      }
+      .donation-card {
+        background-color: var(--section-bg);
+        border-radius: 8px;
+        box-shadow: var(--shadow);
+        padding: 30px;
+        margin-bottom: 30px;
+        transition: var(--transition);
+      }
+      .donation-card h2 {
+        font-family: "Montserrat", sans-serif;
+        font-size: 2rem;
+        font-weight: 700;
+        color: var(--secondary-color);
+        margin-bottom: 30px;
+        text-align: center;
+        position: relative;
+      }
+      .donation-card h2:after {
+        content: "";
+        display: block;
+        width: 80px;
+        height: 4px;
+        background: var(--primary-color);
+        margin: 15px auto;
+        border-radius: 2px;
+      }
+      .donation-options {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        margin-top: 20px;
+      }
+      .option {
+        background-color: #f0f0f0;
+        padding: 20px;
+        border-radius: 8px;
+        border: 1px solid #ddd;
+      }
+      .option h3 {
+        color: var(--primary-color);
+        font-family: "Montserrat", sans-serif;
+        margin-bottom: 15px;
+      }
+      .option ul {
+        padding-left: 20px;
+      }
+      .option li {
+        margin-bottom: 10px;
+      }
+      .donation-btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        background-color: var(--accent-color);
+        color: white;
+        padding: 12px 25px;
+        border-radius: 6px;
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 1.1rem;
+        transition: var(--transition);
+        border: 2px solid var(--accent-color);
+        margin-top: 15px;
+      }
+      .donation-btn:hover {
+        background-color: transparent;
+        color: var(--accent-color);
+      }
+      .donation-btn.paypal-btn {
+        background-color: #0070ba;
+        border-color: #0070ba;
+        margin-right: 10px;
+      }
+      .donation-btn.paypal-btn:hover {
+        background-color: transparent;
+        color: #0070ba;
+      }
+      .donation-btn.aircash-btn {
+        background-color: #ff9900;
+        border-color: #ff9900;
+      }
+      .donation-btn.aircash-btn:hover {
+        background-color: transparent;
+        color: #ff9900;
+      }
+      .donation-btn i {
+        margin-right: 8px;
+      }
+      .qr-code img {
+        display: block;
+        max-width: 250px;
+        height: auto;
+        margin: 20px auto 0;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        padding: 5px;
+      }
+      .back-btn {
+        display: inline-block;
+        margin-top: 30px;
+        color: var(--primary-color);
+        text-decoration: none;
+        font-weight: 600;
+        transition: var(--transition);
+      }
+      .back-btn:hover {
+        text-decoration: underline;
+      }
+    </style>
+</head>
+<body>
+    <div class="container donation-content">
+        <a href="index.html#donate" class="back-btn"><i class="fas fa-arrow-left"></i> Nazad na početnu</a>
+        <div class="donation-card">
+            <h2>Uputstva za donacije</h2>
+            <p>Hvala vam što želite da nas podržite. Vaša donacija nam pomaže da održimo platformu i dodajemo nove funkcije za našu zajednicu. Ispod su opcije za doniranje.</p>
+
+            <div class="donation-options">
+                <div class="option">
+                    <h3>PayPal donacija</h3>
+                    <p>Za brzu i sigurnu donaciju putem PayPal-a, kliknite na dugme ispod.</p>
+                    <a href="https://bit.ly/45FDkdd" target="_blank" class="donation-btn paypal-btn">
+                      <i class="fab fa-paypal"></i> Donirajte putem PayPala
+                    </a>
+                </div>
+
+                <div class="option">
+                    <h3>Aircash donacija</h3>
+                    <p>
+                        Ukoliko donirate putem Aircash-a, a vaša valuta je EUR, pratite ova uputstva:
+                    </p>
+                    <ul>
+                        <li>U aplikaciji Aircash odaberite opciju konverzije valuta.</li>
+                        <li>Pretvorite željeni iznos iz EUR u BAM (konvertujte po važećem kursu).</li>
+                        <li>Nakon konverzije, pošaljite klikom na link.</li>
+                        <li>Donaciju možete izvršiti i skeniranjem QR koda.</li>
+                    </ul>
+                    <div class="qr-code">
+                        <img src="URL_SLIKE_QR_CODA" alt="Aircash QR Code">
+                    </div>
+                    <a href="https://bit.ly/4llLS0P" target="_blank" class="donation-btn aircash-btn">
+                      <i class="fas fa-wallet"></i> Donirajte putem Aircash-a
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
