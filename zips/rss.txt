@@ -3,7 +3,7 @@
 <channel>
   <title>BD Addon Updater</title>
   <item>
-    <title>Dostupna Azuriranja: ResolveUrl</title>
+    <title>Dostupna Azuriranja: Trenuto Nema Azuriranja</title>
   </item>
 </channel>
 </rss>
