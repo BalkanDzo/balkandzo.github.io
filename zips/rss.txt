@@ -3,7 +3,7 @@
 <channel>
   <title>BD Addon Updater</title>
   <item>
-    <title>Dostupna Azuriranja: Balkanteka 2 ResolveURL Fix</title>
+    <title>Dostupna Azuriranja: Nema</title>
   </item>
 </channel>
 </rss>
