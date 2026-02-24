@@ -144,7 +144,7 @@
 </addon>
 <addon id="repository.balkandzo"
        name="Balkandzo Repo"
-       version="1.0.1"
+       version="1.0.2"
        provider="Balkandzo Team">
   <extension point="xbmc.addon.repository">
     <dir minversion="18.0" maxversion="20.9.0">
