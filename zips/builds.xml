@@ -11,7 +11,7 @@
   
   <build>
     <name>Balkan Dzo Build 9.1</name>
-	<version>9.0</version>
+	<version>9.1</version>
 	<url>https://github.com/BalkanDzo/balkandzo.github.io/raw/refs/heads/main/zips/Build9.1.zip</url>
 	<icon>https://balkandzo.github.io/img/balkandzobuild.jpg</icon>
 	<fanart>https://</fanart>
