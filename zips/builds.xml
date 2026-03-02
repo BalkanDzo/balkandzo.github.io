@@ -2,7 +2,7 @@
 
    <build>
     <name>[COLORdeepskyblue][B]Balkan Dzo Kodi 21.x Omega Builds[/B][/COLOR]</name>
-	<version>9.1.0</version>
+	<version>9.1</version>
 	<url>https://</url>
 	<icon>http://</icon>
 	<fanart>http://</fanart>
@@ -11,11 +11,11 @@
   
   <build>
     <name>Balkan Dzo Build 9.1</name>
-	<version>9.1.0</version>
+	<version>9.1</version>
 	<url>https://github.com/BalkanDzo/balkandzo.github.io/raw/refs/heads/main/zips/Build9.1.zip</url>
 	<icon>https://balkandzo.github.io/img/balkandzobuild.jpg</icon>
 	<fanart>https://</fanart>
-	<description>Balkan Dzo Build 9.1.0 Version</description>
+	<description>Balkan Dzo Build 9.1 Version</description>
   </build>
   
   <build>
