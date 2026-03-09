@@ -142,12 +142,12 @@
       }
       .qr-code img {
         display: block;
-        max-width: 300px; /* Povećana maksimalna širina QR koda */
+        max-width: 300px;
         height: auto;
         margin: 20px auto 0;
         border: 1px solid #ddd;
         border-radius: 4px;
-        padding: 10px; /* Dodato malo paddinga oko QR koda */
+        padding: 10px;
       }
       .back-btn {
         display: inline-block;
@@ -159,6 +159,15 @@
       }
       .back-btn:hover {
         text-decoration: underline;
+      }
+      .paypal-section {
+        margin-bottom: 25px;
+        padding-bottom: 15px;
+        border-bottom: 1px solid #e0e0e0;
+      }
+      .paypal-section:last-of-type {
+        border-bottom: none;
+        margin-bottom: 0;
       }
     </style>
 </head>
@@ -172,10 +181,21 @@
             <div class="donation-options">
                 <div class="option">
                     <h3>PayPal donacija</h3>
-                    <p>Za brzu i sigurnu donaciju putem PayPal-a, kliknite na dugme ispod.</p>
-                    <a href="https://bit.ly/45FDkdd" target="_blank" class="donation-btn paypal-btn">
-                      <i class="fab fa-paypal"></i> Donirajte putem PayPala
-                    </a>
+                    <p>Odaberite svrhu donacije kako biste usmerili vašu podršku:</p>
+                    
+                    <div class="paypal-section">
+                        <p><strong>Donacija za Balkan Dzo Build i BalkanTV:</strong></p>
+                        <a href="https://bit.ly/45FDkdd" target="_blank" class="donation-btn paypal-btn">
+                            <i class="fab fa-paypal"></i> Doniraj za Build & BalkanTV
+                        </a>
+                    </div>
+
+                    <div class="paypal-section">
+                        <p><strong>Donacija za Balkanteku:</strong></p>
+                        <a href="https://bit.ly/3NuZdsF" target="_blank" class="donation-btn paypal-btn">
+                            <i class="fab fa-paypal"></i> Doniraj za Balkanteku
+                        </a>
+                    </div>
                 </div>
 
                 <div class="option">
